@@ -260,7 +260,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-17,Brazil,PR,Campo Largo/PR,4104204,1,1
 2020-03-17,Brazil,PR,Pinhais/PR,4119152,1,1
 2020-03-17,Brazil,PR,Londrina/PR,4113700,1,1
-2020-03-17,Brazil,MT,Rondonópolis/MT,5107602,1,1
 2020-03-17,Brazil,RJ,Barra Mansa/RJ,3300407,0,1
 2020-03-17,Brazil,ES,Vila Velha/ES,3205200,0,6
 2020-03-17,Brazil,BA,Feira de Santana/BA,2910800,0,5
@@ -293,7 +292,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-17,Brazil,GO,Anápolis/GO,5201108,0,2
 2020-03-17,Brazil,PE,Belo Jardim/PE,2601706,0,1
 2020-03-17,Brazil,PE,Jaboatão dos Guararapes/PE,2607901,0,1
-2020-03-17,Brazil,TOTAL,TOTAL,2607901,63,364
+2020-03-17,Brazil,TOTAL,TOTAL,2607901,62,363
 2020-03-18,Brazil,SP,São Paulo/SP,3550308,72,228
 2020-03-18,Brazil,ES,Vila Velha/ES,3205200,1,7
 2020-03-18,Brazil,RJ,Rio de Janeiro/RJ,3304557,23,55
@@ -372,8 +371,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-18,Brazil,PR,Campo Largo/PR,4104204,0,1
 2020-03-18,Brazil,PR,Pinhais/PR,4119152,0,1
 2020-03-18,Brazil,PR,Londrina/PR,4113700,0,1
-2020-03-18,Brazil,MT,Rondonópolis/MT,5107602,0,1
-2020-03-18,Brazil,TOTAL,TOTAL,5107602,172,536
+2020-03-18,Brazil,TOTAL,TOTAL,4113700,172,535
 2020-03-19,Brazil,SP,São Paulo/SP,3550308,39,267
 2020-03-19,Brazil,RJ,Rio de Janeiro/RJ,3304557,1,56
 2020-03-19,Brazil,DF,Brasília/DF,5300108,48,84
@@ -446,7 +444,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-19,Brazil,PR,Campo Largo/PR,4104204,0,1
 2020-03-19,Brazil,PR,Pinhais/PR,4119152,0,1
 2020-03-19,Brazil,PR,Londrina/PR,4113700,0,1
-2020-03-19,Brazil,MT,Rondonópolis/MT,5107602,0,1
 2020-03-19,Brazil,TO,Palmas/TO,1721000,0,1
 2020-03-19,Brazil,GO,Jataí/GO,5211909,0,1
 2020-03-19,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,1
@@ -467,7 +464,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-19,Brazil,CE,Sobral/CE,2312908,0,1
 2020-03-19,Brazil,RS,Torres/RS,4321501,0,1
 2020-03-19,Brazil,RS,Farroupilha/RS,4307906,0,1
-2020-03-19,Brazil,TOTAL,TOTAL,4307906,159,695
+2020-03-19,Brazil,TOTAL,TOTAL,4307906,159,694
 2020-03-20,Brazil,SP,São Paulo/SP,3550308,99,366
 2020-03-20,Brazil,BA,Feira de Santana/BA,2910800,1,6
 2020-03-20,Brazil,RJ,Rio de Janeiro/RJ,3304557,38,94
@@ -564,7 +561,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-20,Brazil,MG,Uberlândia/MG,3170206,0,1
 2020-03-20,Brazil,PR,Campo Largo/PR,4104204,0,1
 2020-03-20,Brazil,PR,Pinhais/PR,4119152,0,1
-2020-03-20,Brazil,MT,Rondonópolis/MT,5107602,0,1
 2020-03-20,Brazil,TO,Palmas/TO,1721000,0,1
 2020-03-20,Brazil,GO,Jataí/GO,5211909,0,1
 2020-03-20,Brazil,SC,Balneário Camboriú/SC,4202008,0,4
@@ -592,7 +588,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-20,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-20,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-20,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-20,Brazil,TOTAL,TOTAL,2307304,318,1013
+2020-03-20,Brazil,TOTAL,TOTAL,2307304,318,1012
 2020-03-21,Brazil,SP,São Paulo/SP,3550308,52,418
 2020-03-21,Brazil,ES,Vila Velha/ES,3205200,4,11
 2020-03-21,Brazil,RJ,Rio de Janeiro/RJ,3304557,9,103
@@ -681,7 +677,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-21,Brazil,PR,Campo Largo/PR,4104204,0,1
 2020-03-21,Brazil,PR,Pinhais/PR,4119152,0,1
 2020-03-21,Brazil,PR,Londrina/PR,4113700,0,3
-2020-03-21,Brazil,MT,Rondonópolis/MT,5107602,0,1
 2020-03-21,Brazil,GO,Jataí/GO,5211909,0,1
 2020-03-21,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,2
 2020-03-21,Brazil,PR,Maringá/PR,4115200,0,1
@@ -737,7 +732,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-21,Brazil,SP,Hortolândia/SP,3519071,0,1
 2020-03-21,Brazil,SP,Mogi das Cruzes/SP,3530607,0,1
 2020-03-21,Brazil,MT,Cuiabá/MT,5103403,0,1
-2020-03-21,Brazil,TOTAL,TOTAL,5103403,193,1206
+2020-03-21,Brazil,TOTAL,TOTAL,5103403,193,1205
 2020-03-22,Brazil,SP,São Paulo/SP,3550308,165,583
 2020-03-22,Brazil,RJ,Rio de Janeiro/RJ,3304557,67,170
 2020-03-22,Brazil,DF,Brasília/DF,5300108,22,134
@@ -816,7 +811,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-22,Brazil,MG,Sete Lagoas/MG,3167202,0,1
 2020-03-22,Brazil,PR,Campo Largo/PR,4104204,0,1
 2020-03-22,Brazil,PR,Londrina/PR,4113700,0,3
-2020-03-22,Brazil,MT,Rondonópolis/MT,5107602,0,1
 2020-03-22,Brazil,GO,Jataí/GO,5211909,0,1
 2020-03-22,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,2
 2020-03-22,Brazil,SC,Balneário Camboriú/SC,4202008,0,6
@@ -893,7 +887,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-22,Brazil,RS,Santa Maria/RS,4316907,0,1
 2020-03-22,Brazil,RS,Viamão/RS,4323002,0,1
 2020-03-22,Brazil,RN,Mossoró/RN,2408003,0,1
-2020-03-22,Brazil,TOTAL,TOTAL,2408003,415,1621
+2020-03-22,Brazil,TOTAL,TOTAL,2408003,415,1620
 2020-03-23,Brazil,SP,São Paulo/SP,3550308,104,687
 2020-03-23,Brazil,ES,Vila Velha/ES,3205200,2,13
 2020-03-23,Brazil,RJ,Rio de Janeiro/RJ,3304557,42,212
@@ -917,7 +911,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-23,Brazil,MG,Nova Lima/MG,3144805,3,7
 2020-03-23,Brazil,MG,Sete Lagoas/MG,3167202,1,2
 2020-03-23,Brazil,MG,Uberlândia/MG,3170206,3,7
-2020-03-23,Brazil,MT,Rondonópolis/MT,5107602,1,2
 2020-03-23,Brazil,TO,Palmas/TO,1721000,2,7
 2020-03-23,Brazil,SC,Tubarão/SC,4218707,1,6
 2020-03-23,Brazil,CE,Sobral/CE,2312908,2,3
@@ -1081,7 +1074,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-23,Brazil,PR,FORA DO ESTADO/PR,41,0,4
 2020-03-23,Brazil,SC,Lages/SC,4209300,0,1
 2020-03-23,Brazil,RS,Osório/RS,4313508,0,1
-2020-03-23,Brazil,TOTAL,TOTAL,4313508,340,1961
+2020-03-23,Brazil,TOTAL,TOTAL,4313508,339,1959
 2020-03-24,Brazil,SP,São Paulo/SP,3550308,30,717
 2020-03-24,Brazil,ES,Vila Velha/ES,3205200,4,17
 2020-03-24,Brazil,BA,Feira de Santana/BA,2910800,2,8
@@ -1181,7 +1174,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-24,Brazil,PR,Campo Largo/PR,4104204,0,1
 2020-03-24,Brazil,PR,Pinhais/PR,4119152,0,2
 2020-03-24,Brazil,PR,Londrina/PR,4113700,0,3
-2020-03-24,Brazil,MT,Rondonópolis/MT,5107602,0,2
 2020-03-24,Brazil,TO,Palmas/TO,1721000,0,7
 2020-03-24,Brazil,GO,Jataí/GO,5211909,0,1
 2020-03-24,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,2
@@ -1290,4 +1282,4 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-24,Brazil,ES,Serra/ES,3205002,0,1
 2020-03-24,Brazil,ES,Santa Teresa/ES,3204609,0,1
 2020-03-24,Brazil,AL,FORA DO ESTADO/AL,27,0,1
-2020-03-24,Brazil,TOTAL,TOTAL,27,311,2272
+2020-03-24,Brazil,TOTAL,TOTAL,27,311,2270
