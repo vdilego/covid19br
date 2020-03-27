@@ -1083,7 +1083,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-23,Brazil,SC,Lages/SC,4209300,0,1
 2020-03-23,Brazil,RS,Osório/RS,4313508,0,1
 2020-03-23,Brazil,TOTAL,TOTAL,4313508,340,1961
-2020-03-24,Brazil,SP,São Paulo/SP,3550308,23,710
+2020-03-24,Brazil,SP,São Paulo/SP,3550308,30,717
 2020-03-24,Brazil,ES,Vila Velha/ES,3205200,4,17
 2020-03-24,Brazil,BA,Feira de Santana/BA,2910800,2,8
 2020-03-24,Brazil,RJ,Rio de Janeiro/RJ,3304557,64,276
@@ -1123,7 +1123,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-24,Brazil,RR,Boa Vista/RR,1400100,6,8
 2020-03-24,Brazil,RS,Lajeado/RS,4311403,2,5
 2020-03-24,Brazil,AM,Parintins/AM,1303403,1,2
-2020-03-24,Brazil,SP,FORA DO ESTADO/SP,35,5,10
+2020-03-24,Brazil,SP,FORA DO ESTADO/SP,35,3,8
 2020-03-24,Brazil,BA,Juazeiro/BA,2918407,1,2
 2020-03-24,Brazil,RS,Capão da Canoa/RS,4304630,1,2
 2020-03-24,Brazil,PR,Cascavel/PR,4104808,1,2
@@ -1131,7 +1131,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-24,Brazil,BA,Teixeira de Freitas/BA,2931350,1,1
 2020-03-24,Brazil,PR,Telêmaco Borba/PR,4127106,1,1
 2020-03-24,Brazil,PR,Paranavaí/PR,4118402,1,1
-2020-03-24,Brazil,SP,ESTRANGEIRO/SP,35,33,33
+2020-03-24,Brazil,SP,ESTRANGEIRO/SP,35,28,28
 2020-03-24,Brazil,RJ,Volta Redonda/RJ,3306305,4,4
 2020-03-24,Brazil,RJ,Campos dos Goytacazes/RJ,3301009,1,1
 2020-03-24,Brazil,RJ,Duque de Caxias/RJ,3301702,1,1
