@@ -1322,7 +1322,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-25,Brazil,PR,Ponta Grossa/PR,4119905,2,3
 2020-03-25,Brazil,SC,Gravatal/SC,4206207,1,3
 2020-03-25,Brazil,MT,Várzea Grande/MT,5108402,1,2
-2020-03-25,Brazil,PR,Colombo/PR,4105805,1,2
+2020-03-25,Brazil,PR,FORA DO ESTADO/PR,41,1,5
 2020-03-25,Brazil,SC,Blumenau/SC,4202404,2,9
 2020-03-25,Brazil,PE,FORA DO ESTADO/PE,26,1,2
 2020-03-25,Brazil,RS,Rio Grande/RS,4315602,1,2
@@ -1454,10 +1454,10 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-25,Brazil,BA,Barreiras/BA,2903201,0,1
 2020-03-25,Brazil,SP,São Sebastião/SP,3550704,0,2
 2020-03-25,Brazil,PE,Olinda/PE,2609600,0,2
+2020-03-25,Brazil,PR,Colombo/PR,4105805,0,1
 2020-03-25,Brazil,AM,Parintins/AM,1303403,0,2
 2020-03-25,Brazil,BA,Conceição do Jacuípe/BA,2908507,0,1
 2020-03-25,Brazil,RS,Santo Antônio da Patrulha/RS,4317608,0,1
-2020-03-25,Brazil,PR,FORA DO ESTADO/PR,41,0,4
 2020-03-25,Brazil,SC,Lages/SC,4209300,0,1
 2020-03-25,Brazil,RS,Osório/RS,4313508,0,1
 2020-03-25,Brazil,SP,FORA DO ESTADO/SP,35,0,8
@@ -1693,11 +1693,11 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-26,Brazil,RS,Viamão/RS,4323002,0,1
 2020-03-26,Brazil,BA,Barreiras/BA,2903201,0,1
 2020-03-26,Brazil,SP,São Sebastião/SP,3550704,0,2
-2020-03-26,Brazil,PR,Colombo/PR,4105805,0,2
+2020-03-26,Brazil,PR,Colombo/PR,4105805,0,1
 2020-03-26,Brazil,AM,Parintins/AM,1303403,0,2
 2020-03-26,Brazil,BA,Conceição do Jacuípe/BA,2908507,0,1
 2020-03-26,Brazil,RS,Santo Antônio da Patrulha/RS,4317608,0,1
-2020-03-26,Brazil,PR,FORA DO ESTADO/PR,41,0,4
+2020-03-26,Brazil,PR,FORA DO ESTADO/PR,41,0,5
 2020-03-26,Brazil,SC,Lages/SC,4209300,0,1
 2020-03-26,Brazil,RS,Osório/RS,4313508,0,1
 2020-03-26,Brazil,SP,FORA DO ESTADO/SP,35,0,8
@@ -1948,11 +1948,11 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-27,Brazil,BA,Barreiras/BA,2903201,0,1
 2020-03-27,Brazil,SP,São Sebastião/SP,3550704,0,2
 2020-03-27,Brazil,PE,Olinda/PE,2609600,0,3
-2020-03-27,Brazil,PR,Colombo/PR,4105805,0,2
+2020-03-27,Brazil,PR,Colombo/PR,4105805,0,1
 2020-03-27,Brazil,AM,Parintins/AM,1303403,0,2
 2020-03-27,Brazil,BA,Conceição do Jacuípe/BA,2908507,0,1
 2020-03-27,Brazil,RS,Santo Antônio da Patrulha/RS,4317608,0,1
-2020-03-27,Brazil,PR,FORA DO ESTADO/PR,41,0,4
+2020-03-27,Brazil,PR,FORA DO ESTADO/PR,41,0,5
 2020-03-27,Brazil,SC,Blumenau/SC,4202404,0,12
 2020-03-27,Brazil,SC,Lages/SC,4209300,0,1
 2020-03-27,Brazil,RS,Osório/RS,4313508,0,1
