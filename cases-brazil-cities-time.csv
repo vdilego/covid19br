@@ -1833,7 +1833,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-27,Brazil,AM,Manacapuru/AM,1302504,2,2
 2020-03-27,Brazil,SP,Diadema/SP,3513801,1,1
 2020-03-27,Brazil,RJ,Itaboraí/RJ,3301900,1,1
-2020-03-27,Brazil,BA,Ipiaú/BA,2913903,1,1
 2020-03-27,Brazil,PR,Guarapuava/PR,4109401,1,1
 2020-03-27,Brazil,PR,Iretama/PR,4110805,1,1
 2020-03-27,Brazil,PR,Umuarama/PR,4128104,1,1
@@ -2039,4 +2038,4 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-27,Brazil,SC,Itapema/SC,4208302,0,1
 2020-03-27,Brazil,SC,Timbé do Sul/SC,4218103,0,1
 2020-03-27,Brazil,ES,Castelo/ES,3201407,0,1
-2020-03-27,Brazil,TOTAL,TOTAL,3201407,487,3474
+2020-03-27,Brazil,TOTAL,TOTAL,3201407,486,3473
