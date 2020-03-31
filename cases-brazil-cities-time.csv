@@ -3126,6 +3126,8 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,BA,Catu/BA,2907509,1,1
 2020-03-31,Brazil,BA,Nova Soure/BA,2922904,1,1
 2020-03-31,Brazil,BA,Medeiros Neto/BA,2921104,1,1
+2020-03-31,Brazil,PA,Tucuruí/PA,1508100,1,1
+2020-03-31,Brazil,PA,Marituba/PA,1504422,1,1
 2020-03-31,Brazil,SP,São Paulo/SP,3550308,0,1233
 2020-03-31,Brazil,RJ,Barra Mansa/RJ,3300407,0,1
 2020-03-31,Brazil,ES,Vila Velha/ES,3205200,0,31
@@ -3465,4 +3467,4 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,PB,Patos/PB,2510808,0,1
 2020-03-31,Brazil,CE,Beberibe/CE,2302206,0,1
 2020-03-31,Brazil,AC,NÃO ESPECIFICADA/AC,12,0,1
-2020-03-31,Brazil,TOTAL,TOTAL,0,1066,5730
+2020-03-31,Brazil,TOTAL,TOTAL,0,1068,5732
