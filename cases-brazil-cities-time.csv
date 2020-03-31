@@ -2762,12 +2762,9 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,RJ,Resende/RJ,3304201,1,2
 2020-03-30,Brazil,RJ,Nova Iguaçu/RJ,3303500,4,7
 2020-03-30,Brazil,TO,Araguaína/TO,1702109,1,2
-2020-03-30,Brazil,MT,NO-INFO/MT,51,-5,0
 2020-03-30,Brazil,SP,Sorocaba/SP,3552205,2,3
 2020-03-30,Brazil,AC,Acrelândia/AC,1200013,4,6
 2020-03-30,Brazil,RN,São Gonçalo do Amarante/RN,2412005,1,2
-2020-03-30,Brazil,MS,NO-INFO/MS,50,-5,0
-2020-03-30,Brazil,PI,NO-INFO/PI,22,-3,0
 2020-03-30,Brazil,MG,NO-INFO/MG,31,3,3
 2020-03-30,Brazil,MG,Manhuaçu/MG,3139409,1,1
 2020-03-30,Brazil,MG,Unaí/MG,3170404,1,1
