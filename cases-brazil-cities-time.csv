@@ -2764,13 +2764,11 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,MT,NO-INFO/MT,51,-5,0
 2020-03-30,Brazil,SP,Sorocaba/SP,3552205,2,3
 2020-03-30,Brazil,AC,Acrelândia/AC,1200013,4,6
-2020-03-30,Brazil,RN,Caicó/RN,2402006,1,2
 2020-03-30,Brazil,RN,São Gonçalo do Amarante/RN,2412005,1,2
-2020-03-30,Brazil,RN,NO-INFO/RN,24,1,2
 2020-03-30,Brazil,MS,NO-INFO/MS,50,-5,0
 2020-03-30,Brazil,PI,NO-INFO/PI,22,-3,0
 2020-03-30,Brazil,MG,NO-INFO/MG,31,3,3
-2020-03-30,Brazil,MG,Curvelo/MG,3120904,1,1
+2020-03-30,Brazil,MG,Manhuaçu/MG,3139409,1,1
 2020-03-30,Brazil,MG,Unaí/MG,3170404,1,1
 2020-03-30,Brazil,GO,Itumbiara/GO,5211503,2,2
 2020-03-30,Brazil,PE,Palmares/PE,2610004,1,1
@@ -2795,6 +2793,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,SP,Santos/SP,3548500,1,1
 2020-03-30,Brazil,AM,Novo Airão/AM,1303205,1,1
 2020-03-30,Brazil,RN,Apodi/RN,2401008,1,1
+2020-03-30,Brazil,RN,FORA DO ESTADO/RN,24,2,2
 2020-03-30,Brazil,RN,Luís Gomes/RN,2407005,1,1
 2020-03-30,Brazil,RN,Carnaubais/RN,2402501,1,1
 2020-03-30,Brazil,BA,Dias d'Ávila/BA,2910057,1,1
@@ -3063,10 +3062,12 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,RJ,Seropédica/RJ,3305554,0,1
 2020-03-30,Brazil,RN,Tibau/RN,2411056,0,1
 2020-03-30,Brazil,RN,Açu/RN,2400208,0,1
+2020-03-30,Brazil,RN,Caicó/RN,2402006,0,1
 2020-03-30,Brazil,RN,São José de Mipibu/RN,2412203,0,1
 2020-03-30,Brazil,AM,Itacoatiara/AM,1301902,0,2
 2020-03-30,Brazil,AM,Anori/AM,1300102,0,1
 2020-03-30,Brazil,SC,Indaial/SC,4207502,0,1
+2020-03-30,Brazil,RN,NO-INFO/RN,24,0,1
 2020-03-30,Brazil,AL,NO-INFO/AL,27,0,3
 2020-03-30,Brazil,CE,Itaitinga/CE,2306256,0,1
 2020-03-30,Brazil,CE,Maracanaú/CE,2307650,0,1
