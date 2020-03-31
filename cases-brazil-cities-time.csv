@@ -1840,7 +1840,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-27,Brazil,PR,Umuarama/PR,4128104,1,1
 2020-03-27,Brazil,PR,União da Vitória/PR,4128203,1,1
 2020-03-27,Brazil,CE,Maranguape/CE,2307700,1,1
-2020-03-27,Brazil,GO,Hidrolândia/GO,5209705,1,1
+2020-03-27,Brazil,GO,NO-INFO/GO,52,1,1
 2020-03-27,Brazil,MS,Batayporã/MS,5002001,1,1
 2020-03-27,Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,1,1
 2020-03-27,Brazil,SC,Antônio Carlos/SC,4201208,1,1
@@ -2339,7 +2339,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-28,Brazil,PR,Umuarama/PR,4128104,0,1
 2020-03-28,Brazil,PR,União da Vitória/PR,4128203,0,1
 2020-03-28,Brazil,CE,Maranguape/CE,2307700,0,1
-2020-03-28,Brazil,GO,Hidrolândia/GO,5209705,0,1
+2020-03-28,Brazil,GO,NO-INFO/GO,52,0,1
 2020-03-28,Brazil,MS,Batayporã/MS,5002001,0,1
 2020-03-28,Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 2020-03-28,Brazil,SC,Antônio Carlos/SC,4201208,0,1
@@ -2654,7 +2654,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-29,Brazil,PR,Iretama/PR,4110805,0,1
 2020-03-29,Brazil,PR,União da Vitória/PR,4128203,0,1
 2020-03-29,Brazil,CE,Maranguape/CE,2307700,0,1
-2020-03-29,Brazil,GO,Hidrolândia/GO,5209705,0,1
+2020-03-29,Brazil,GO,NO-INFO/GO,52,0,1
 2020-03-29,Brazil,MS,Batayporã/MS,5002001,0,1
 2020-03-29,Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 2020-03-29,Brazil,SC,Antônio Carlos/SC,4201208,0,1
@@ -2757,6 +2757,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,SP,NO-INFO/SP,35,-227,4
 2020-03-30,Brazil,SC,Itapema/SC,4208302,1,2
 2020-03-30,Brazil,SP,Diadema/SP,3513801,1,2
+2020-03-30,Brazil,GO,NO-INFO/GO,52,1,2
 2020-03-30,Brazil,MS,Batayporã/MS,5002001,2,3
 2020-03-30,Brazil,RJ,Resende/RJ,3304201,1,2
 2020-03-30,Brazil,RJ,Nova Iguaçu/RJ,3303500,4,7
@@ -2797,7 +2798,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,RN,Luís Gomes/RN,2407005,1,1
 2020-03-30,Brazil,RN,Carnaubais/RN,2402501,1,1
 2020-03-30,Brazil,BA,Dias d'Ávila/BA,2910057,1,1
-2020-03-30,Brazil,GO,NO-INFO/GO,52,1,1
 2020-03-30,Brazil,MT,Rondonópolis/MT,5107602,3,3
 2020-03-30,Brazil,RO,Jaru/RO,1100114,1,1
 2020-03-30,Brazil,RS,Taquari/RS,4321303,1,1
@@ -3009,7 +3009,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,PR,Umuarama/PR,4128104,0,2
 2020-03-30,Brazil,PR,União da Vitória/PR,4128203,0,1
 2020-03-30,Brazil,CE,Maranguape/CE,2307700,0,1
-2020-03-30,Brazil,GO,Hidrolândia/GO,5209705,0,1
 2020-03-30,Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 2020-03-30,Brazil,SC,Antônio Carlos/SC,4201208,0,1
 2020-03-30,Brazil,SC,São Lourenço do Oeste/SC,4216909,0,1
