@@ -3495,7 +3495,9 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,PR,Londrina/PR,4113700,17,26
 2020-04-01,Brazil,PR,Maringá/PR,4115200,1,10
 2020-04-01,Brazil,PR,Foz do Iguaçu/PR,4108304,2,12
+2020-04-01,Brazil,RS,Sant'Ana do Livramento/RS,4317103,1,5
 2020-04-01,Brazil,BA,Camaçari/BA,2905701,2,4
+2020-04-01,Brazil,RS,Viamão/RS,4323002,2,3
 2020-04-01,Brazil,RJ,São Gonçalo/RJ,3304904,2,11
 2020-04-01,Brazil,BA,Brumado/BA,2904605,1,5
 2020-04-01,Brazil,BA,Teixeira de Freitas/BA,2931350,1,2
@@ -3504,18 +3506,20 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,BA,Ilhéus/BA,2913606,1,7
 2020-04-01,Brazil,SP,NÃO ESPECIFICADA/SP,35,642,646
 2020-04-01,Brazil,RJ,Belford Roxo/RJ,3300456,1,3
+2020-04-01,Brazil,RS,Marau/RS,4311809,1,2
 2020-04-01,Brazil,RJ,Itaboraí/RJ,3301900,1,4
 2020-04-01,Brazil,GO,NÃO ESPECIFICADA/GO,52,6,6
 2020-04-01,Brazil,PR,Quatiguá/PR,4120705,1,2
 2020-04-01,Brazil,MT,NÃO ESPECIFICADA/MT,51,2,2
 2020-04-01,Brazil,PR,São José dos Pinhais/PR,4125506,1,4
+2020-04-01,Brazil,RS,Novo Hamburgo/RS,4313409,1,2
 2020-04-01,Brazil,RJ,Rio das Ostras/RJ,3304524,1,3
 2020-04-01,Brazil,RN,NÃO ESPECIFICADA/RN,24,9,9
 2020-04-01,Brazil,MS,NÃO ESPECIFICADA/MS,50,3,3
 2020-04-01,Brazil,MG,NÃO ESPECIFICADA/MG,31,39,44
 2020-04-01,Brazil,RJ,São João de Meriti/RJ,3305109,1,2
+2020-04-01,Brazil,RS,Gravataí/RS,4309209,3,4
 2020-04-01,Brazil,DF,NÃO ESPECIFICADA/DF,53,22,22
-2020-04-01,Brazil,RS,NÃO ESPECIFICADA/RS,43,1,1
 2020-04-01,Brazil,PE,NÃO ESPECIFICADA/PE,26,8,8
 2020-04-01,Brazil,AM,NÃO ESPECIFICADA/AM,13,25,25
 2020-04-01,Brazil,CE,NÃO ESPECIFICADA/CE,23,43,43
@@ -3534,6 +3538,8 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,BA,Ipiaú/BA,2913903,1,1
 2020-04-01,Brazil,BA,Vitória da Conquista/BA,2933307,1,1
 2020-04-01,Brazil,RJ,Arraial do Cabo/RJ,3300258,1,1
+2020-04-01,Brazil,RS,Alegrete/RS,4300406,1,1
+2020-04-01,Brazil,RS,São Sebastião do Caí/RS,4319505,2,2
 2020-04-01,Brazil,SP,São Paulo/SP,3550308,0,1885
 2020-04-01,Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 2020-04-01,Brazil,ES,Vila Velha/ES,3205200,0,35
@@ -3609,7 +3615,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,RS,Bagé/RS,4301602,0,15
 2020-04-01,Brazil,RS,Alvorada/RS,4300604,0,2
 2020-04-01,Brazil,RS,Erechim/RS,4307005,0,3
-2020-04-01,Brazil,RS,Sant'Ana do Livramento/RS,4317103,0,4
 2020-04-01,Brazil,PI,Teresina/PI,2211001,0,16
 2020-04-01,Brazil,SP,Taubaté/SP,3554102,0,1
 2020-04-01,Brazil,SP,Suzano/SP,3552502,0,1
@@ -3663,7 +3668,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,RS,Estrela/RS,4307807,0,1
 2020-04-01,Brazil,RS,Lajeado/RS,4311403,0,5
 2020-04-01,Brazil,RS,Santa Maria/RS,4316907,0,2
-2020-04-01,Brazil,RS,Viamão/RS,4323002,0,1
 2020-04-01,Brazil,RN,Mossoró/RN,2408003,0,17
 2020-04-01,Brazil,BA,Barreiras/BA,2903201,0,1
 2020-04-01,Brazil,SP,São Sebastião/SP,3550704,0,2
@@ -3758,7 +3762,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,PA,Itaituba/PA,1503606,0,1
 2020-04-01,Brazil,PA,Castanhal/PA,1502400,0,1
 2020-04-01,Brazil,RS,Rolante/RS,4316006,0,1
-2020-04-01,Brazil,RS,Marau/RS,4311809,0,1
 2020-04-01,Brazil,RS,Piratini/RS,4314605,0,1
 2020-04-01,Brazil,RS,Passo Fundo/RS,4314100,0,1
 2020-04-01,Brazil,RS,Nova Palma/RS,4313102,0,1
@@ -3832,7 +3835,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,PR,Castro/PR,4104907,0,1
 2020-04-01,Brazil,AC,Acrelândia/AC,1200013,0,7
 2020-04-01,Brazil,AC,Porto Acre/AC,1200807,0,1
-2020-04-01,Brazil,RS,Novo Hamburgo/RS,4313409,0,1
 2020-04-01,Brazil,RJ,Maricá/RJ,3302700,0,2
 2020-04-01,Brazil,RJ,Seropédica/RJ,3305554,0,1
 2020-04-01,Brazil,RN,Tibau/RN,2411056,0,1
@@ -3876,7 +3878,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,MT,Rondonópolis/MT,5107602,0,4
 2020-04-01,Brazil,RO,Jaru/RO,1100114,0,1
 2020-04-01,Brazil,RS,Taquari/RS,4321303,0,1
-2020-04-01,Brazil,RS,Gravataí/RS,4309209,0,1
 2020-04-01,Brazil,SC,Pescaria Brava/SC,4212650,0,1
 2020-04-01,Brazil,PB,Patos/PB,2510808,0,1
 2020-04-01,Brazil,CE,Beberibe/CE,2302206,0,1
@@ -3926,4 +3927,4 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,CE,Santa Quitéria/CE,2312205,0,1
 2020-04-01,Brazil,RJ,São Pedro da Aldeia/RJ,3305208,0,1
 2020-04-01,Brazil,RJ,Macaé/RJ,3302403,0,1
-2020-04-01,Brazil,TOTAL,TOTAL,0,1008,6842
+2020-04-01,Brazil,TOTAL,TOTAL,0,1018,6852
