@@ -2764,7 +2764,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,TO,Araguaína/TO,1702109,1,2
 2020-03-30,Brazil,SP,Sorocaba/SP,3552205,2,3
 2020-03-30,Brazil,BA,FORA DO ESTADO/BA,29,1,2
-2020-03-30,Brazil,AC,Acrelândia/AC,1200013,4,6
+2020-03-30,Brazil,AC,Acrelândia/AC,1200013,5,7
 2020-03-30,Brazil,RN,São Gonçalo do Amarante/RN,2412005,1,2
 2020-03-30,Brazil,MG,NÃO ESPECIFICADA/MG,31,3,3
 2020-03-30,Brazil,MG,Manhuaçu/MG,3139409,1,1
@@ -2802,7 +2802,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,SC,Pescaria Brava/SC,4212650,1,1
 2020-03-30,Brazil,PB,Patos/PB,2510808,1,1
 2020-03-30,Brazil,CE,Beberibe/CE,2302206,1,1
-2020-03-30,Brazil,AC,NÃO ESPECIFICADA/AC,12,1,1
 2020-03-30,Brazil,RJ,Barra Mansa/RJ,3300407,0,1
 2020-03-30,Brazil,AL,Maceió/AL,2704302,0,12
 2020-03-30,Brazil,RS,Campo Bom/RS,4303905,0,2
@@ -3080,6 +3079,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,GO,Goiânia/GO,5208707,4,39
 2020-03-31,Brazil,RN,Natal/RN,2408102,6,42
 2020-03-31,Brazil,AM,Manaus/AM,1302603,19,159
+2020-03-31,Brazil,MS,Campo Grande/MS,5002704,1,37
 2020-03-31,Brazil,MG,Juiz de Fora/MG,3136702,10,23
 2020-03-31,Brazil,SE,Aracaju/SE,2800308,2,17
 2020-03-31,Brazil,ES,Vitória/ES,3205309,2,28
@@ -3111,6 +3111,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,SP,Osasco/SP,3534401,19,33
 2020-03-31,Brazil,SP,São José dos Campos/SP,3549904,4,9
 2020-03-31,Brazil,SP,Mogi das Cruzes/SP,3530607,1,10
+2020-03-31,Brazil,MT,Cuiabá/MT,5103403,6,18
 2020-03-31,Brazil,SP,Taboão da Serra/SP,3552809,9,12
 2020-03-31,Brazil,SP,Caieiras/SP,3509007,6,9
 2020-03-31,Brazil,RO,Porto Velho/RO,1100205,1,7
@@ -3140,16 +3141,15 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,SC,Brusque/SC,4202909,1,3
 2020-03-31,Brazil,ES,Guarapari/ES,3202405,1,2
 2020-03-31,Brazil,TO,Araguaína/TO,1702109,1,3
-2020-03-31,Brazil,MT,NÃO ESPECIFICADA/MT,51,7,7
 2020-03-31,Brazil,PR,São José dos Pinhais/PR,4125506,2,3
 2020-03-31,Brazil,AM,Itacoatiara/AM,1301902,2,4
 2020-03-31,Brazil,AL,NÃO ESPECIFICADA/AL,27,1,4
-2020-03-31,Brazil,MS,NÃO ESPECIFICADA/MS,50,4,4
 2020-03-31,Brazil,MG,NÃO ESPECIFICADA/MG,31,2,5
 2020-03-31,Brazil,SP,Itapevi/SP,3522505,5,6
 2020-03-31,Brazil,SP,Jandira/SP,3525003,1,2
 2020-03-31,Brazil,SP,Piracicaba/SP,3538709,2,5
 2020-03-31,Brazil,SP,Santos/SP,3548500,13,14
+2020-03-31,Brazil,MT,Rondonópolis/MT,5107602,1,4
 2020-03-31,Brazil,MG,Alfenas/MG,3101607,1,1
 2020-03-31,Brazil,PA,Abaetetuba/PA,1500107,1,1
 2020-03-31,Brazil,RS,Capão do Leão/RS,4304663,1,1
@@ -3193,6 +3193,8 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,SP,Mogi Guaçu/SP,3530706,1,1
 2020-03-31,Brazil,SP,Nova Odessa/SP,3533403,1,1
 2020-03-31,Brazil,RJ,NÃO ESPECIFICADA/RJ,33,51,51
+2020-03-31,Brazil,MS,Alcinópolis/MS,5000252,1,1
+2020-03-31,Brazil,MS,Nova Andradina/MS,5006200,2,2
 2020-03-31,Brazil,CE,Santa Quitéria/CE,2312205,1,1
 2020-03-31,Brazil,RJ,Barra Mansa/RJ,3300407,0,1
 2020-03-31,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,553
@@ -3208,7 +3210,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,SC,Joinville/SC,4209102,0,14
 2020-03-31,Brazil,SC,Rancho Queimado/SC,4214300,0,2
 2020-03-31,Brazil,PE,ESTRANGEIRO/PE,26,0,3
-2020-03-31,Brazil,MS,Campo Grande/MS,5002704,0,36
 2020-03-31,Brazil,MG,Patrocínio/MG,3148103,0,1
 2020-03-31,Brazil,ES,Linhares/ES,3203205,0,4
 2020-03-31,Brazil,SC,Braço do Norte/SC,4202800,0,12
@@ -3272,7 +3273,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,MG,Poços de Caldas/MG,3151800,0,2
 2020-03-31,Brazil,SP,Hortolândia/SP,3519071,0,1
 2020-03-31,Brazil,RS,Bento Gonçalves/RS,4302105,0,2
-2020-03-31,Brazil,MT,Cuiabá/MT,5103403,0,12
 2020-03-31,Brazil,PR,Ponta Grossa/PR,4119905,0,3
 2020-03-31,Brazil,PR,Pato Branco/PR,4118501,0,2
 2020-03-31,Brazil,SC,Jaguaruna/SC,4208807,0,2
@@ -3439,7 +3439,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,PR,Peabiru/PR,4118808,0,1
 2020-03-31,Brazil,PR,Terra Rica/PR,4127304,0,1
 2020-03-31,Brazil,PR,Castro/PR,4104907,0,1
-2020-03-31,Brazil,AC,Acrelândia/AC,1200013,0,6
+2020-03-31,Brazil,AC,Acrelândia/AC,1200013,0,7
 2020-03-31,Brazil,AC,Porto Acre/AC,1200807,0,1
 2020-03-31,Brazil,RS,Novo Hamburgo/RS,4313409,0,1
 2020-03-31,Brazil,RJ,Rio das Ostras/RJ,3304524,0,2
@@ -3479,12 +3479,10 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,RN,Luís Gomes/RN,2407005,0,1
 2020-03-31,Brazil,RN,Carnaubais/RN,2402501,0,1
 2020-03-31,Brazil,BA,Dias d'Ávila/BA,2910057,0,1
-2020-03-31,Brazil,MT,Rondonópolis/MT,5107602,0,3
 2020-03-31,Brazil,RO,Jaru/RO,1100114,0,1
 2020-03-31,Brazil,RS,Taquari/RS,4321303,0,1
 2020-03-31,Brazil,RS,Gravataí/RS,4309209,0,1
 2020-03-31,Brazil,SC,Pescaria Brava/SC,4212650,0,1
 2020-03-31,Brazil,PB,Patos/PB,2510808,0,1
 2020-03-31,Brazil,CE,Beberibe/CE,2302206,0,1
-2020-03-31,Brazil,AC,NÃO ESPECIFICADA/AC,12,0,1
 2020-03-31,Brazil,TOTAL,TOTAL,0,1170,5834
