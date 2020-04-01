@@ -3582,7 +3582,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,SP,Franco da Rocha/SP,3516408,1,4
 2020-04-01,Brazil,AC,NÃO ESPECIFICADA/AC,12,1,1
 2020-04-01,Brazil,PB,NÃO ESPECIFICADA/PB,25,1,1
-2020-04-01,Brazil,MA,NÃO ESPECIFICADA/MA,21,2,2
+2020-04-01,Brazil,MA,NÃO ESPECIFICADA/MA,21,10,10
 2020-04-01,Brazil,PR,Assis Chateaubriand/PR,4102000,1,1
 2020-04-01,Brazil,PR,Ibaiti/PR,4109708,1,1
 2020-04-01,Brazil,PR,Fazenda Rio Grande/PR,4107652,1,1
@@ -3939,4 +3939,4 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,CE,Santa Quitéria/CE,2312205,0,1
 2020-04-01,Brazil,RJ,São Pedro da Aldeia/RJ,3305208,0,1
 2020-04-01,Brazil,RJ,Macaé/RJ,3302403,0,1
-2020-04-01,Brazil,TOTAL,TOTAL,0,1059,6890
+2020-04-01,Brazil,TOTAL,TOTAL,0,1067,6898
