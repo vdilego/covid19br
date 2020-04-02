@@ -3508,6 +3508,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,SP,Carapicuíba/SP,3510609,1,7
 2020-04-01,Brazil,SP,São Bernardo do Campo/SP,3548708,8,52
 2020-04-01,Brazil,SP,São Caetano do Sul/SP,3548807,2,32
+2020-04-01,Brazil,CE,Fortaleza/CE,2304400,42,413
 2020-04-01,Brazil,MG,Belo Horizonte/MG,3106200,25,188
 2020-04-01,Brazil,SP,Santo André/SP,3547809,3,51
 2020-04-01,Brazil,MG,Uberlândia/MG,3170206,4,14
@@ -3614,9 +3615,10 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,ES,Afonso Cláudio/ES,3200102,1,1
 2020-04-01,Brazil,ES,Aracruz/ES,3200607,1,1
 2020-04-01,Brazil,PA,NÃO ESPECIFICADA/PA,15,7,7
-2020-04-01,Brazil,CE,NÃO ESPECIFICADA/CE,23,43,43
 2020-04-01,Brazil,PB,NÃO ESPECIFICADA/PB,25,1,1
 2020-04-01,Brazil,MA,Açailândia/MA,2100055,1,1
+2020-04-01,Brazil,CE,Eusébio/CE,2304285,1,1
+2020-04-01,Brazil,CE,Tianguá/CE,2313401,1,1
 2020-04-01,Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 2020-04-01,Brazil,AL,Maceió/AL,2704302,0,13
 2020-04-01,Brazil,RS,Campo Bom/RS,4303905,0,2
@@ -3631,7 +3633,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,MG,Patrocínio/MG,3148103,0,1
 2020-04-01,Brazil,SE,Aracaju/SE,2800308,0,17
 2020-04-01,Brazil,SC,Braço do Norte/SC,4202800,0,12
-2020-04-01,Brazil,CE,Fortaleza/CE,2304400,0,371
 2020-04-01,Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 2020-04-01,Brazil,SP,Mauá/SP,3529401,0,3
 2020-04-01,Brazil,CE,Aquiraz/CE,2301000,0,14
@@ -3938,4 +3939,4 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,CE,Santa Quitéria/CE,2312205,0,1
 2020-04-01,Brazil,RJ,São Pedro da Aldeia/RJ,3305208,0,1
 2020-04-01,Brazil,RJ,Macaé/RJ,3302403,0,1
-2020-04-01,Brazil,TOTAL,TOTAL,0,1076,6907
+2020-04-01,Brazil,TOTAL,TOTAL,0,1077,6908
