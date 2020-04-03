@@ -502,7 +502,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-20,Brazil,RS,Erechim/RS,4307005,1,3
 2020-03-20,Brazil,RS,Sant'Ana do Livramento/RS,4317103,1,2
 2020-03-20,Brazil,PI,Teresina/PI,2211001,1,4
-2020-03-20,Brazil,CE,Fortim/CE,2304459,1,1
+2020-03-20,Brazil,CE,NÃO ESPECIFICADA/CE,23,1,1
 2020-03-20,Brazil,AP,Macapá/AP,1600303,1,1
 2020-03-20,Brazil,SC,Itajaí/SC,4208203,1,1
 2020-03-20,Brazil,SC,Navegantes/SC,4211306,1,1
@@ -708,7 +708,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-21,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-21,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-21,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-21,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-21,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-21,Brazil,AP,Macapá/AP,1600303,0,1
 2020-03-21,Brazil,SC,Navegantes/SC,4211306,0,1
 2020-03-21,Brazil,SC,Pomerode/SC,4213203,0,1
@@ -841,7 +841,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-22,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-22,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-22,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-22,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-22,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-22,Brazil,AP,Macapá/AP,1600303,0,1
 2020-03-22,Brazil,SC,Navegantes/SC,4211306,0,1
 2020-03-22,Brazil,SC,Pomerode/SC,4213203,0,1
@@ -1024,7 +1024,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-23,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-23,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-23,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-23,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-23,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-23,Brazil,AP,Macapá/AP,1600303,0,1
 2020-03-23,Brazil,SC,Itajaí/SC,4208203,0,7
 2020-03-23,Brazil,SC,Navegantes/SC,4211306,0,1
@@ -1202,7 +1202,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-24,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-24,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-24,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-24,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-24,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-24,Brazil,AP,Macapá/AP,1600303,0,1
 2020-03-24,Brazil,SC,Pomerode/SC,4213203,0,1
 2020-03-24,Brazil,SC,Jaraguá do Sul/SC,4208906,0,2
@@ -1409,7 +1409,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-25,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-25,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-25,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-25,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-25,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-25,Brazil,SC,Navegantes/SC,4211306,0,3
 2020-03-25,Brazil,SC,Pomerode/SC,4213203,0,1
 2020-03-25,Brazil,SC,Jaraguá do Sul/SC,4208906,0,2
@@ -1656,7 +1656,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-26,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-26,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-26,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-26,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-26,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-26,Brazil,AP,Macapá/AP,1600303,0,2
 2020-03-26,Brazil,SC,Navegantes/SC,4211306,0,3
 2020-03-26,Brazil,SC,Pomerode/SC,4213203,0,1
@@ -1904,7 +1904,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-27,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-27,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-27,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-27,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-27,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-27,Brazil,SC,Navegantes/SC,4211306,0,3
 2020-03-27,Brazil,SC,Pomerode/SC,4213203,0,1
 2020-03-27,Brazil,SC,Jaraguá do Sul/SC,4208906,0,2
@@ -2183,7 +2183,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-28,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-28,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-28,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-28,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-28,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-28,Brazil,SC,Itajaí/SC,4208203,0,18
 2020-03-28,Brazil,SC,Navegantes/SC,4211306,0,3
 2020-03-28,Brazil,SC,Pomerode/SC,4213203,0,1
@@ -2495,7 +2495,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-29,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-29,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-29,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-29,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-29,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,1
 2020-03-29,Brazil,SC,Itajaí/SC,4208203,0,18
 2020-03-29,Brazil,SC,Navegantes/SC,4211306,0,3
 2020-03-29,Brazil,SC,Pomerode/SC,4213203,0,1
@@ -2714,7 +2714,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,SP,São Bernardo do Campo/SP,3548708,18,33
 2020-03-30,Brazil,SP,São Caetano do Sul/SP,3548807,11,27
 2020-03-30,Brazil,CE,Fortaleza/CE,2304400,15,353
-2020-03-30,Brazil,CE,Aquiraz/CE,2301000,7,14
+2020-03-30,Brazil,CE,Aquiraz/CE,2301000,6,13
 2020-03-30,Brazil,MG,Belo Horizonte/MG,3106200,17,163
 2020-03-30,Brazil,AC,Rio Branco/AC,1200401,3,34
 2020-03-30,Brazil,SP,Santo André/SP,3547809,23,40
@@ -2730,6 +2730,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,BA,Lauro de Freitas/BA,2919207,1,11
 2020-03-30,Brazil,RS,Bagé/RS,4301602,6,15
 2020-03-30,Brazil,PI,Teresina/PI,2211001,5,16
+2020-03-30,Brazil,CE,NÃO ESPECIFICADA/CE,23,1,2
 2020-03-30,Brazil,SC,Jaraguá do Sul/SC,4208906,1,3
 2020-03-30,Brazil,SC,Criciúma/SC,4204608,2,15
 2020-03-30,Brazil,ES,Cariacica/ES,3201308,1,3
@@ -2852,7 +2853,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-30,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-30,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-30,Brazil,CE,Fortim/CE,2304459,0,1
 2020-03-30,Brazil,AP,Macapá/AP,1600303,0,8
 2020-03-30,Brazil,SC,Itajaí/SC,4208203,0,18
 2020-03-30,Brazil,SC,Navegantes/SC,4211306,0,3
@@ -3214,7 +3214,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,ES,Linhares/ES,3203205,0,4
 2020-03-31,Brazil,SC,Braço do Norte/SC,4202800,0,12
 2020-03-31,Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
-2020-03-31,Brazil,CE,Aquiraz/CE,2301000,0,14
+2020-03-31,Brazil,CE,Aquiraz/CE,2301000,0,13
 2020-03-31,Brazil,MG,Belo Horizonte/MG,3106200,0,163
 2020-03-31,Brazil,GO,Anápolis/GO,5201108,0,4
 2020-03-31,Brazil,BA,Porto Seguro/BA,2925303,0,10
@@ -3254,7 +3254,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,SP,Suzano/SP,3552502,0,1
 2020-03-31,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-03-31,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-03-31,Brazil,CE,Fortim/CE,2304459,0,1
+2020-03-31,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,2
 2020-03-31,Brazil,SC,Itajaí/SC,4208203,0,18
 2020-03-31,Brazil,SC,Navegantes/SC,4211306,0,3
 2020-03-31,Brazil,SC,Pomerode/SC,4213203,0,1
@@ -3640,7 +3640,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,SC,Braço do Norte/SC,4202800,0,12
 2020-04-01,Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 2020-04-01,Brazil,SP,Mauá/SP,3529401,0,3
-2020-04-01,Brazil,CE,Aquiraz/CE,2301000,0,14
+2020-04-01,Brazil,CE,Aquiraz/CE,2301000,0,13
 2020-04-01,Brazil,GO,Anápolis/GO,5201108,0,4
 2020-04-01,Brazil,BA,Porto Seguro/BA,2925303,0,10
 2020-04-01,Brazil,PE,Belo Jardim/PE,2601706,0,1
@@ -3672,7 +3672,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,SP,Taubaté/SP,3554102,0,1
 2020-04-01,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-04-01,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-04-01,Brazil,CE,Fortim/CE,2304459,0,1
+2020-04-01,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,2
 2020-04-01,Brazil,SC,Itajaí/SC,4208203,0,18
 2020-04-01,Brazil,SC,Navegantes/SC,4211306,0,3
 2020-04-01,Brazil,SC,Pomerode/SC,4213203,0,1
@@ -3945,6 +3945,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,RS,Porto Alegre/RS,4314902,18,208
 2020-04-02,Brazil,PR,Curitiba/PR,4106902,1,99
 2020-04-02,Brazil,PR,Cianorte/PR,4105508,3,11
+2020-04-02,Brazil,CE,Fortaleza/CE,2304400,113,526
 2020-04-02,Brazil,AC,Rio Branco/AC,1200401,2,36
 2020-04-02,Brazil,PR,Campo Largo/PR,4104204,1,5
 2020-04-02,Brazil,PR,Londrina/PR,4113700,1,27
@@ -3958,16 +3959,19 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,PA,Ananindeua/PA,1500800,2,8
 2020-04-02,Brazil,PR,Campo Mourão/PR,4104303,4,8
 2020-04-02,Brazil,SP,NÃO ESPECIFICADA/SP,35,525,529
+2020-04-02,Brazil,CE,Maranguape/CE,2307700,1,2
 2020-04-02,Brazil,MS,Batayporã/MS,5002001,1,4
 2020-04-02,Brazil,MS,Dourados/MS,5003702,1,4
 2020-04-02,Brazil,MT,NÃO ESPECIFICADA/MT,51,9,11
 2020-04-02,Brazil,PR,Marechal Cândido Rondon/PR,4114609,1,2
 2020-04-02,Brazil,RN,NÃO ESPECIFICADA/RN,24,13,22
+2020-04-02,Brazil,CE,Maracanaú/CE,2307650,1,2
 2020-04-02,Brazil,MG,NÃO ESPECIFICADA/MG,31,56,58
 2020-04-02,Brazil,PR,Almirante Tamandaré/PR,4100400,1,3
 2020-04-02,Brazil,AM,NÃO ESPECIFICADA/AM,13,29,29
 2020-04-02,Brazil,BA,NÃO ESPECIFICADA/BA,29,21,21
 2020-04-02,Brazil,PA,Santarém/PA,1506807,3,4
+2020-04-02,Brazil,CE,Tianguá/CE,2313401,1,2
 2020-04-02,Brazil,DF,NÃO ESPECIFICADA/DF,53,15,15
 2020-04-02,Brazil,PE,NÃO ESPECIFICADA/PE,26,11,11
 2020-04-02,Brazil,SE,NÃO ESPECIFICADA/SE,28,1,1
@@ -3980,9 +3984,11 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,PR,São Manoel do Paraná/PR,4125555,1,1
 2020-04-02,Brazil,PR,Cornélio Procópio/PR,4106407,1,1
 2020-04-02,Brazil,PR,Leópolis/PR,4113403,1,1
-2020-04-02,Brazil,CE,NÃO ESPECIFICADA/CE,23,105,105
 2020-04-02,Brazil,RJ,NÃO ESPECIFICADA/RJ,33,160,160
 2020-04-02,Brazil,AP,NÃO ESPECIFICADA/AP,16,1,1
+2020-04-02,Brazil,CE,Icó/CE,2305407,2,2
+2020-04-02,Brazil,CE,Itapipoca/CE,2306405,1,1
+2020-04-02,Brazil,CE,Jaguaribe/CE,2306900,1,1
 2020-04-02,Brazil,SP,São Paulo/SP,3550308,0,2418
 2020-04-02,Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 2020-04-02,Brazil,ES,Vila Velha/ES,3205200,0,36
@@ -4016,10 +4022,9 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,SC,Braço do Norte/SC,4202800,0,12
 2020-04-02,Brazil,SP,São Bernardo do Campo/SP,3548708,0,52
 2020-04-02,Brazil,SP,São Caetano do Sul/SP,3548807,0,32
-2020-04-02,Brazil,CE,Fortaleza/CE,2304400,0,413
 2020-04-02,Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 2020-04-02,Brazil,SP,Mauá/SP,3529401,0,3
-2020-04-02,Brazil,CE,Aquiraz/CE,2301000,0,14
+2020-04-02,Brazil,CE,Aquiraz/CE,2301000,0,13
 2020-04-02,Brazil,MG,Belo Horizonte/MG,3106200,0,188
 2020-04-02,Brazil,GO,Anápolis/GO,5201108,0,4
 2020-04-02,Brazil,BA,Porto Seguro/BA,2925303,0,10
@@ -4065,7 +4070,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,SP,Suzano/SP,3552502,0,4
 2020-04-02,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-04-02,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
-2020-04-02,Brazil,CE,Fortim/CE,2304459,0,1
 2020-04-02,Brazil,AP,Macapá/AP,1600303,0,11
 2020-04-02,Brazil,SC,Itajaí/SC,4208203,0,18
 2020-04-02,Brazil,SC,Navegantes/SC,4211306,0,3
@@ -4234,7 +4238,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,PR,Iretama/PR,4110805,0,1
 2020-04-02,Brazil,PR,Umuarama/PR,4128104,0,2
 2020-04-02,Brazil,PR,União da Vitória/PR,4128203,0,1
-2020-04-02,Brazil,CE,Maranguape/CE,2307700,0,1
 2020-04-02,Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 2020-04-02,Brazil,SC,Antônio Carlos/SC,4201208,0,1
 2020-04-02,Brazil,SC,São Lourenço do Oeste/SC,4216909,0,1
@@ -4297,7 +4300,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,AM,Anori/AM,1300102,0,1
 2020-04-02,Brazil,SC,Indaial/SC,4207502,0,1
 2020-04-02,Brazil,CE,Itaitinga/CE,2306256,0,1
-2020-04-02,Brazil,CE,Maracanaú/CE,2307650,0,1
 2020-04-02,Brazil,ES,São Mateus/ES,3204906,0,3
 2020-04-02,Brazil,MG,Manhuaçu/MG,3139409,0,1
 2020-04-02,Brazil,MG,Unaí/MG,3170404,0,1
@@ -4411,6 +4413,5 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,PA,Barcarena/PA,1501303,0,1
 2020-04-02,Brazil,MA,Açailândia/MA,2100055,0,1
 2020-04-02,Brazil,CE,Eusébio/CE,2304285,0,1
-2020-04-02,Brazil,CE,Tianguá/CE,2313401,0,1
 2020-04-02,Brazil,PB,Cabedelo/PB,2503209,0,1
-2020-04-02,Brazil,TOTAL,TOTAL,0,1043,7959
+2020-04-02,Brazil,TOTAL,TOTAL,0,1056,7972
