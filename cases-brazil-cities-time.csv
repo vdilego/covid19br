@@ -3951,6 +3951,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,RS,Bagé/RS,4301602,1,16
 2020-04-02,Brazil,RS,Alvorada/RS,4300604,1,3
 2020-04-02,Brazil,SP,Suzano/SP,3552502,1,5
+2020-04-02,Brazil,CE,NÃO ESPECIFICADA/CE,23,62,64
 2020-04-02,Brazil,AP,Macapá/AP,1600303,1,12
 2020-04-02,Brazil,SC,Itajaí/SC,4208203,1,19
 2020-04-02,Brazil,SC,Navegantes/SC,4211306,1,4
@@ -3993,7 +3994,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,RJ,Duque de Caxias/RJ,3301702,3,9
 2020-04-02,Brazil,SC,São Ludgero/SC,4217006,1,2
 2020-04-02,Brazil,PA,Ananindeua/PA,1500800,2,8
-2020-04-02,Brazil,SP,NÃO ESPECIFICADA/SP,35,-12,4
+2020-04-02,Brazil,SP,NÃO ESPECIFICADA/SP,35,530,546
 2020-04-02,Brazil,SP,Ribeirão Pires/SP,3543303,1,2
 2020-04-02,Brazil,PR,Campo Mourão/PR,4104303,4,8
 2020-04-02,Brazil,BA,Ilhéus/BA,2913606,1,8
@@ -4006,18 +4007,23 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,RS,Passo Fundo/RS,4314100,1,2
 2020-04-02,Brazil,RJ,Itaboraí/RJ,3301900,2,6
 2020-04-02,Brazil,CE,Maranguape/CE,2307700,1,2
+2020-04-02,Brazil,GO,NÃO ESPECIFICADA/GO,52,14,15
 2020-04-02,Brazil,MS,Batayporã/MS,5002001,1,4
 2020-04-02,Brazil,SC,Antônio Carlos/SC,4201208,7,8
 2020-04-02,Brazil,RJ,Nova Iguaçu/RJ,3303500,1,8
 2020-04-02,Brazil,PE,Camaragibe/PE,2603454,1,2
 2020-04-02,Brazil,ES,Guarapari/ES,3202405,1,3
 2020-04-02,Brazil,MS,Dourados/MS,5003702,1,4
+2020-04-02,Brazil,MT,NÃO ESPECIFICADA/MT,51,1,3
 2020-04-02,Brazil,MG,Muriaé/MG,3143906,2,3
 2020-04-02,Brazil,PR,Marechal Cândido Rondon/PR,4114609,1,2
 2020-04-02,Brazil,RS,Novo Hamburgo/RS,4313409,2,4
 2020-04-02,Brazil,RJ,Maricá/RJ,3302700,1,3
+2020-04-02,Brazil,RN,NÃO ESPECIFICADA/RN,24,61,70
+2020-04-02,Brazil,MS,NÃO ESPECIFICADA/MS,50,7,7
 2020-04-02,Brazil,CE,Maracanaú/CE,2307650,1,2
-2020-04-02,Brazil,MG,NÃO ESPECIFICADA/MG,31,-3,3
+2020-04-02,Brazil,PI,NÃO ESPECIFICADA/PI,22,2,2
+2020-04-02,Brazil,MG,NÃO ESPECIFICADA/MG,31,24,30
 2020-04-02,Brazil,PR,Almirante Tamandaré/PR,4100400,1,3
 2020-04-02,Brazil,RJ,São João de Meriti/RJ,3305109,1,3
 2020-04-02,Brazil,SP,Piracicaba/SP,3538709,1,6
@@ -4026,13 +4032,15 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,MT,Rondonópolis/MT,5107602,1,5
 2020-04-02,Brazil,RS,Gravataí/RS,4309209,5,9
 2020-04-02,Brazil,RS,Cachoeirinha/RS,4303103,1,2
+2020-04-02,Brazil,AM,NÃO ESPECIFICADA/AM,13,31,31
+2020-04-02,Brazil,BA,NÃO ESPECIFICADA/BA,29,15,15
 2020-04-02,Brazil,SP,Votorantim/SP,3557006,1,2
 2020-04-02,Brazil,SP,São Vicente/SP,3551009,1,3
 2020-04-02,Brazil,SP,Matão/SP,3529302,1,2
 2020-04-02,Brazil,SP,Guarujá/SP,3518701,2,3
 2020-04-02,Brazil,SP,Itaquaquecetuba/SP,3523107,2,5
 2020-04-02,Brazil,SP,Franco da Rocha/SP,3516408,2,6
-2020-04-02,Brazil,RJ,NÃO ESPECIFICADA/RJ,33,6,7
+2020-04-02,Brazil,RJ,NÃO ESPECIFICADA/RJ,33,88,89
 2020-04-02,Brazil,MG,Pouso Alegre/MG,3152501,2,3
 2020-04-02,Brazil,PA,Santarém/PA,1506807,3,4
 2020-04-02,Brazil,CE,Tianguá/CE,2313401,1,2
@@ -4086,6 +4094,14 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,SP,Itu/SP,3523909,1,1
 2020-04-02,Brazil,SP,Jaú/SP,3525300,1,1
 2020-04-02,Brazil,SP,Águas de Lindóia/SP,3500501,1,1
+2020-04-02,Brazil,DF,NÃO ESPECIFICADA/DF,53,2,2
+2020-04-02,Brazil,AL,NÃO ESPECIFICADA/AL,27,4,4
+2020-04-02,Brazil,PE,NÃO ESPECIFICADA/PE,26,30,30
+2020-04-02,Brazil,PR,NÃO ESPECIFICADA/PR,41,43,43
+2020-04-02,Brazil,SE,NÃO ESPECIFICADA/SE,28,1,1
+2020-04-02,Brazil,AC,NÃO ESPECIFICADA/AC,12,1,1
+2020-04-02,Brazil,PA,NÃO ESPECIFICADA/PA,15,1,1
+2020-04-02,Brazil,AP,NÃO ESPECIFICADA/AP,16,7,7
 2020-04-02,Brazil,RJ,Barra Mansa/RJ,3300407,0,2
 2020-04-02,Brazil,AL,Maceió/AL,2704302,0,13
 2020-04-02,Brazil,MG,Divinópolis/MG,3122306,0,9
@@ -4398,7 +4414,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,MA,Açailândia/MA,2100055,0,1
 2020-04-02,Brazil,CE,Eusébio/CE,2304285,0,1
 2020-04-02,Brazil,PB,Cabedelo/PB,2503209,0,1
-2020-04-02,Brazil,TOTAL,TOTAL,0,1182,8099
+2020-04-02,Brazil,TOTAL,TOTAL,0,2129,9046
 2020-04-03,Brazil,RS,Novo Hamburgo/RS,4313409,10,14
 2020-04-03,Brazil,SP,São Paulo/SP,3550308,0,2815
 2020-04-03,Brazil,RJ,Barra Mansa/RJ,3300407,0,2
@@ -4492,6 +4508,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,SP,Suzano/SP,3552502,0,5
 2020-04-03,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-04-03,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
+2020-04-03,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,64
 2020-04-03,Brazil,AP,Macapá/AP,1600303,0,12
 2020-04-03,Brazil,SC,Itajaí/SC,4208203,0,19
 2020-04-03,Brazil,SC,Navegantes/SC,4211306,0,4
@@ -4605,7 +4622,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,MT,Nova Monte Verde/MT,5108956,0,1
 2020-04-03,Brazil,PA,Ananindeua/PA,1500800,0,8
 2020-04-03,Brazil,BA,São Domingos/BA,2928950,0,1
-2020-04-03,Brazil,SP,NÃO ESPECIFICADA/SP,35,0,4
+2020-04-03,Brazil,SP,NÃO ESPECIFICADA/SP,35,0,546
 2020-04-03,Brazil,SP,Ribeirão Pires/SP,3543303,0,2
 2020-04-03,Brazil,RJ,Valença/RJ,3306107,0,1
 2020-04-03,Brazil,AL,Porto Real do Colégio/AL,2707503,0,1
@@ -4663,6 +4680,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,PR,Umuarama/PR,4128104,0,2
 2020-04-03,Brazil,PR,União da Vitória/PR,4128203,0,1
 2020-04-03,Brazil,CE,Maranguape/CE,2307700,0,2
+2020-04-03,Brazil,GO,NÃO ESPECIFICADA/GO,52,0,15
 2020-04-03,Brazil,MS,Batayporã/MS,5002001,0,4
 2020-04-03,Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,1
 2020-04-03,Brazil,SC,Antônio Carlos/SC,4201208,0,8
@@ -4697,6 +4715,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,CE,Caucaia/CE,2303709,0,1
 2020-04-03,Brazil,PI,São José do Divino/PI,2210052,0,1
 2020-04-03,Brazil,PI,Parnaíba/PI,2207702,0,1
+2020-04-03,Brazil,MT,NÃO ESPECIFICADA/MT,51,0,3
 2020-04-03,Brazil,SP,Sorocaba/SP,3552205,0,3
 2020-04-03,Brazil,BA,Itamaraju/BA,2915601,0,1
 2020-04-03,Brazil,BA,Itororó/BA,2917102,0,1
@@ -4726,10 +4745,13 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,AM,Itacoatiara/AM,1301902,0,4
 2020-04-03,Brazil,AM,Anori/AM,1300102,0,1
 2020-04-03,Brazil,SC,Indaial/SC,4207502,0,1
+2020-04-03,Brazil,RN,NÃO ESPECIFICADA/RN,24,0,70
+2020-04-03,Brazil,MS,NÃO ESPECIFICADA/MS,50,0,7
 2020-04-03,Brazil,CE,Itaitinga/CE,2306256,0,1
 2020-04-03,Brazil,CE,Maracanaú/CE,2307650,0,2
+2020-04-03,Brazil,PI,NÃO ESPECIFICADA/PI,22,0,2
 2020-04-03,Brazil,ES,São Mateus/ES,3204906,0,3
-2020-04-03,Brazil,MG,NÃO ESPECIFICADA/MG,31,0,3
+2020-04-03,Brazil,MG,NÃO ESPECIFICADA/MG,31,0,30
 2020-04-03,Brazil,MG,Manhuaçu/MG,3139409,0,1
 2020-04-03,Brazil,MG,Unaí/MG,3170404,0,1
 2020-04-03,Brazil,GO,Itumbiara/GO,5211503,0,2
@@ -4770,6 +4792,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,RS,Cachoeirinha/RS,4303103,0,2
 2020-04-03,Brazil,GO,Paranaiguara/GO,5216304,0,1
 2020-04-03,Brazil,PE,Ipubi/PE,2607307,0,1
+2020-04-03,Brazil,AM,NÃO ESPECIFICADA/AM,13,0,31
 2020-04-03,Brazil,PR,Lapa/PR,4113205,0,1
 2020-04-03,Brazil,PR,Quatro Barras/PR,4120804,0,1
 2020-04-03,Brazil,PR,Francisco Beltrão/PR,4108403,0,1
@@ -4778,6 +4801,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,BA,Candeias/BA,2906501,0,1
 2020-04-03,Brazil,BA,Itajuípe/BA,2915502,0,3
 2020-04-03,Brazil,BA,Coaraci/BA,2908002,0,1
+2020-04-03,Brazil,BA,NÃO ESPECIFICADA/BA,29,0,15
 2020-04-03,Brazil,BA,Nova Soure/BA,2922904,0,1
 2020-04-03,Brazil,BA,Medeiros Neto/BA,2921104,0,1
 2020-04-03,Brazil,PA,Tucuruí/PA,1508100,0,1
@@ -4817,7 +4841,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,BA,Barra do Rocha/BA,2903102,0,1
 2020-04-03,Brazil,BA,Ipiaú/BA,2913903,0,1
 2020-04-03,Brazil,BA,Vitória da Conquista/BA,2933307,0,1
-2020-04-03,Brazil,RJ,NÃO ESPECIFICADA/RJ,33,0,7
+2020-04-03,Brazil,RJ,NÃO ESPECIFICADA/RJ,33,0,89
 2020-04-03,Brazil,RJ,Arraial do Cabo/RJ,3300258,0,1
 2020-04-03,Brazil,RS,Alegrete/RS,4300406,0,1
 2020-04-03,Brazil,RS,São Sebastião do Caí/RS,4319505,0,2
@@ -4894,4 +4918,12 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,SP,Itu/SP,3523909,0,1
 2020-04-03,Brazil,SP,Jaú/SP,3525300,0,1
 2020-04-03,Brazil,SP,Águas de Lindóia/SP,3500501,0,1
-2020-04-03,Brazil,TOTAL,TOTAL,0,10,8109
+2020-04-03,Brazil,DF,NÃO ESPECIFICADA/DF,53,0,2
+2020-04-03,Brazil,AL,NÃO ESPECIFICADA/AL,27,0,4
+2020-04-03,Brazil,PE,NÃO ESPECIFICADA/PE,26,0,30
+2020-04-03,Brazil,PR,NÃO ESPECIFICADA/PR,41,0,43
+2020-04-03,Brazil,SE,NÃO ESPECIFICADA/SE,28,0,1
+2020-04-03,Brazil,AC,NÃO ESPECIFICADA/AC,12,0,1
+2020-04-03,Brazil,PA,NÃO ESPECIFICADA/PA,15,0,1
+2020-04-03,Brazil,AP,NÃO ESPECIFICADA/AP,16,0,7
+2020-04-03,Brazil,TOTAL,TOTAL,0,10,9056
