@@ -3974,6 +3974,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,SP,Taboão da Serra/SP,3552809,7,29
 2020-04-02,Brazil,SP,Poá/SP,3539806,1,2
 2020-04-02,Brazil,SP,Caieiras/SP,3509007,4,15
+2020-04-02,Brazil,RO,Porto Velho/RO,1100205,1,8
 2020-04-02,Brazil,RR,Boa Vista/RR,1400100,1,24
 2020-04-02,Brazil,RS,Estância Velha/RS,4307609,1,3
 2020-04-02,Brazil,RS,Lajeado/RS,4311403,1,6
@@ -4070,7 +4071,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,MG,Santo Antônio do Monte/MG,3160405,2,2
 2020-04-02,Brazil,MG,Toledo/MG,3169109,1,1
 2020-04-02,Brazil,SE,Capela/SE,2801306,1,1
-2020-04-02,Brazil,RO,NÃO ESPECIFICADA/RO,11,1,1
 2020-04-02,Brazil,RN,Ceará-Mirim/RN,2402600,1,1
 2020-04-02,Brazil,RR,Cantá/RR,1400175,3,3
 2020-04-02,Brazil,RJ,Itaguaí/RJ,3302007,1,1
@@ -4148,7 +4148,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,SC,Gravatal/SC,4206207,0,3
 2020-04-02,Brazil,MS,Ponta Porã/MS,5006606,0,1
 2020-04-02,Brazil,SE,Nossa Senhora da Glória/SE,2804508,0,1
-2020-04-02,Brazil,RO,Porto Velho/RO,1100205,0,7
 2020-04-02,Brazil,RS,Carlos Barbosa/RS,4304804,0,1
 2020-04-02,Brazil,RS,Estrela/RS,4307807,0,1
 2020-04-02,Brazil,RS,Santa Maria/RS,4316907,0,2
@@ -4534,7 +4533,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,SP,Caieiras/SP,3509007,0,15
 2020-04-03,Brazil,MS,Ponta Porã/MS,5006606,0,1
 2020-04-03,Brazil,SE,Nossa Senhora da Glória/SE,2804508,0,1
-2020-04-03,Brazil,RO,Porto Velho/RO,1100205,0,7
+2020-04-03,Brazil,RO,Porto Velho/RO,1100205,0,8
 2020-04-03,Brazil,RR,Boa Vista/RR,1400100,0,24
 2020-04-03,Brazil,RS,Carlos Barbosa/RS,4304804,0,1
 2020-04-03,Brazil,RS,Estância Velha/RS,4307609,0,3
@@ -4880,7 +4879,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,MG,Santo Antônio do Monte/MG,3160405,0,2
 2020-04-03,Brazil,MG,Toledo/MG,3169109,0,1
 2020-04-03,Brazil,SE,Capela/SE,2801306,0,1
-2020-04-03,Brazil,RO,NÃO ESPECIFICADA/RO,11,0,1
 2020-04-03,Brazil,RN,Ceará-Mirim/RN,2402600,0,1
 2020-04-03,Brazil,RR,Cantá/RR,1400175,0,3
 2020-04-03,Brazil,RJ,Itaguaí/RJ,3302007,0,1
