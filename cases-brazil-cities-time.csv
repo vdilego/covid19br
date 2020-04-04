@@ -4416,7 +4416,9 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,MS,Campo Grande/MS,5002704,5,43
 2020-04-03,Brazil,SP,São Bernardo do Campo/SP,3548708,11,70
 2020-04-03,Brazil,SP,São Caetano do Sul/SP,3548807,3,36
+2020-04-03,Brazil,CE,Fortaleza/CE,2304400,74,600
 2020-04-03,Brazil,SP,Mauá/SP,3529401,3,10
+2020-04-03,Brazil,CE,Aquiraz/CE,2301000,2,15
 2020-04-03,Brazil,MG,Belo Horizonte/MG,3106200,15,225
 2020-04-03,Brazil,PE,Jaboatão dos Guararapes/PE,2607901,1,8
 2020-04-03,Brazil,BA,Prado/BA,2925501,1,4
@@ -4440,7 +4442,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,RS,Bagé/RS,4301602,2,18
 2020-04-03,Brazil,PI,Teresina/PI,2211001,2,19
 2020-04-03,Brazil,SP,Suzano/SP,3552502,1,6
-2020-04-03,Brazil,CE,NÃO ESPECIFICADA/CE,23,95,95
+2020-04-03,Brazil,CE,NÃO ESPECIFICADA/CE,23,12,12
 2020-04-03,Brazil,AP,Macapá/AP,1600303,7,19
 2020-04-03,Brazil,SC,Jaraguá do Sul/SC,4208906,1,5
 2020-04-03,Brazil,SC,Imbituba/SC,4207304,1,6
@@ -4485,6 +4487,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,PE,Camaragibe/PE,2603454,2,4
 2020-04-03,Brazil,PA,Parauapebas/PA,1505536,1,2
 2020-04-03,Brazil,MS,Dourados/MS,5003702,2,6
+2020-04-03,Brazil,CE,Caucaia/CE,2303709,3,4
 2020-04-03,Brazil,SP,Sorocaba/SP,3552205,5,8
 2020-04-03,Brazil,BA,Itororó/BA,2917102,3,4
 2020-04-03,Brazil,PR,São José dos Pinhais/PR,4125506,2,6
@@ -4565,6 +4568,10 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,SP,Marília/SP,3529005,1,1
 2020-04-03,Brazil,SP,Promissão/SP,3541604,1,1
 2020-04-03,Brazil,SP,Rio Claro/SP,3543907,1,1
+2020-04-03,Brazil,CE,Canindé/CE,2302800,1,1
+2020-04-03,Brazil,CE,Farias Brito/CE,2304301,1,1
+2020-04-03,Brazil,CE,Fortim/CE,2304459,1,1
+2020-04-03,Brazil,CE,Ipaporanga/CE,2305654,1,1
 2020-04-03,Brazil,ES,Vila Velha/ES,3205200,0,44
 2020-04-03,Brazil,BA,Feira de Santana/BA,2910800,0,20
 2020-04-03,Brazil,AL,Maceió/AL,2704302,0,13
@@ -4581,9 +4588,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,ES,Vitória/ES,3205309,0,36
 2020-04-03,Brazil,SP,Carapicuíba/SP,3510609,0,11
 2020-04-03,Brazil,SC,Braço do Norte/SC,4202800,0,12
-2020-04-03,Brazil,CE,Fortaleza/CE,2304400,0,526
 2020-04-03,Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
-2020-04-03,Brazil,CE,Aquiraz/CE,2301000,0,13
 2020-04-03,Brazil,GO,Anápolis/GO,5201108,0,4
 2020-04-03,Brazil,BA,Porto Seguro/BA,2925303,0,10
 2020-04-03,Brazil,PE,Belo Jardim/PE,2601706,0,1
@@ -4771,7 +4776,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,PR,Quatiguá/PR,4120705,0,2
 2020-04-03,Brazil,TO,Araguaína/TO,1702109,0,3
 2020-04-03,Brazil,CE,Quixadá/CE,2311306,0,2
-2020-04-03,Brazil,CE,Caucaia/CE,2303709,0,1
 2020-04-03,Brazil,PI,São José do Divino/PI,2210052,0,1
 2020-04-03,Brazil,PI,Parnaíba/PI,2207702,0,1
 2020-04-03,Brazil,BA,Itamaraju/BA,2915601,0,1
