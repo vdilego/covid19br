@@ -5528,6 +5528,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-04,Brazil,AL,Marechal Deodoro/AL,2704708,0,1
 2020-04-04,Brazil,TOTAL,TOTAL,0,1177,10377
 2020-04-05,Brazil,CE,Fortaleza/CE,2304400,23,704
+2020-04-05,Brazil,CE,Caucaia/CE,2303709,1,5
 2020-04-05,Brazil,MG,NÃO ESPECIFICADA/MG,31,68,74
 2020-04-05,Brazil,PA,NÃO ESPECIFICADA/PA,15,4,8
 2020-04-05,Brazil,AP,NÃO ESPECIFICADA/AP,16,2,3
@@ -5827,7 +5828,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-05,Brazil,MS,Dourados/MS,5003702,0,6
 2020-04-05,Brazil,TO,Araguaína/TO,1702109,0,4
 2020-04-05,Brazil,CE,Quixadá/CE,2311306,0,2
-2020-04-05,Brazil,CE,Caucaia/CE,2303709,0,4
 2020-04-05,Brazil,PI,São José do Divino/PI,2210052,0,1
 2020-04-05,Brazil,PI,Parnaíba/PI,2207702,0,1
 2020-04-05,Brazil,SP,Sorocaba/SP,3552205,0,8
@@ -6108,4 +6108,4 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-05,Brazil,RJ,Nova Friburgo/RJ,3303401,0,1
 2020-04-05,Brazil,SC,NÃO ESPECIFICADA/SC,42,0,23
 2020-04-05,Brazil,PR,NÃO ESPECIFICADA/PR,41,0,94
-2020-04-05,Brazil,TOTAL,TOTAL,0,102,10479
+2020-04-05,Brazil,TOTAL,TOTAL,0,103,10480
