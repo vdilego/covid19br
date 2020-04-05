@@ -3949,6 +3949,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,RS,Bagé/RS,4301602,1,16
 2020-04-02,Brazil,RS,Alvorada/RS,4300604,1,3
 2020-04-02,Brazil,SP,Suzano/SP,3552502,1,5
+2020-04-02,Brazil,CE,NÃO ESPECIFICADA/CE,23,-1,1
 2020-04-02,Brazil,AP,Macapá/AP,1600303,1,12
 2020-04-02,Brazil,SC,Itajaí/SC,4208203,1,19
 2020-04-02,Brazil,SC,Navegantes/SC,4211306,1,4
@@ -4033,7 +4034,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,RJ,NÃO ESPECIFICADA/RJ,33,7,8
 2020-04-02,Brazil,MG,Pouso Alegre/MG,3152501,2,3
 2020-04-02,Brazil,PA,Santarém/PA,1506807,3,4
-2020-04-02,Brazil,CE,Tianguá/CE,2313401,1,2
 2020-04-02,Brazil,PR,Paranaguá/PR,4118204,1,1
 2020-04-02,Brazil,PR,Mandirituba/PR,4114302,1,1
 2020-04-02,Brazil,PR,Palmeira/PR,4117701,1,1
@@ -4393,6 +4393,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,PA,Barcarena/PA,1501303,0,1
 2020-04-02,Brazil,MA,Açailândia/MA,2100055,0,1
 2020-04-02,Brazil,CE,Eusébio/CE,2304285,0,1
+2020-04-02,Brazil,CE,Tianguá/CE,2313401,0,1
 2020-04-02,Brazil,PB,Cabedelo/PB,2503209,0,1
 2020-04-02,Brazil,TOTAL,TOTAL,0,1182,8099
 2020-04-03,Brazil,SP,São Paulo/SP,3550308,387,3202
@@ -4420,7 +4421,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,ES,Vitória/ES,3205309,3,39
 2020-04-03,Brazil,SP,São Bernardo do Campo/SP,3548708,11,70
 2020-04-03,Brazil,SP,São Caetano do Sul/SP,3548807,3,36
-2020-04-03,Brazil,CE,Fortaleza/CE,2304400,74,600
+2020-04-03,Brazil,CE,Fortaleza/CE,2304400,155,681
 2020-04-03,Brazil,SP,Mauá/SP,3529401,3,10
 2020-04-03,Brazil,CE,Aquiraz/CE,2301000,2,15
 2020-04-03,Brazil,MG,Belo Horizonte/MG,3106200,15,225
@@ -4448,7 +4449,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,RS,Bagé/RS,4301602,2,18
 2020-04-03,Brazil,PI,Teresina/PI,2211001,2,19
 2020-04-03,Brazil,SP,Suzano/SP,3552502,1,6
-2020-04-03,Brazil,CE,NÃO ESPECIFICADA/CE,23,12,12
+2020-04-03,Brazil,CE,NÃO ESPECIFICADA/CE,23,13,14
 2020-04-03,Brazil,AP,Macapá/AP,1600303,7,19
 2020-04-03,Brazil,SC,Jaraguá do Sul/SC,4208906,1,5
 2020-04-03,Brazil,SC,Imbituba/SC,4207304,1,6
@@ -4577,13 +4578,15 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,SP,Rio Claro/SP,3543907,1,1
 2020-04-03,Brazil,CE,Canindé/CE,2302800,1,1
 2020-04-03,Brazil,CE,Farias Brito/CE,2304301,1,1
-2020-04-03,Brazil,CE,Fortim/CE,2304459,1,1
 2020-04-03,Brazil,CE,Ipaporanga/CE,2305654,1,1
 2020-04-03,Brazil,PB,Junco do Seridó/PB,2507804,1,1
 2020-04-03,Brazil,PB,Serra Branca/PB,2515500,1,1
 2020-04-03,Brazil,ES,Colatina/ES,3201506,1,1
 2020-04-03,Brazil,AL,Marechal Deodoro/AL,2704708,1,1
 2020-04-03,Brazil,MA,NÃO ESPECIFICADA/MA,21,7,7
+2020-04-03,Brazil,CE,Abaiara/CE,2300101,1,1
+2020-04-03,Brazil,CE,Horizonte/CE,2305233,4,4
+2020-04-03,Brazil,CE,Itapajé/CE,2306306,1,1
 2020-04-03,Brazil,BA,Feira de Santana/BA,2910800,0,20
 2020-04-03,Brazil,RS,Caxias do Sul/RS,4305108,0,13
 2020-04-03,Brazil,PR,Cianorte/PR,4105508,0,11
@@ -4903,7 +4906,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,PA,Barcarena/PA,1501303,0,1
 2020-04-03,Brazil,MA,Açailândia/MA,2100055,0,1
 2020-04-03,Brazil,CE,Eusébio/CE,2304285,0,1
-2020-04-03,Brazil,CE,Tianguá/CE,2313401,0,2
+2020-04-03,Brazil,CE,Tianguá/CE,2313401,0,1
 2020-04-03,Brazil,PB,Cabedelo/PB,2503209,0,1
 2020-04-03,Brazil,PR,Mandirituba/PR,4114302,0,1
 2020-04-03,Brazil,PR,Palmeira/PR,4117701,0,1
@@ -4946,13 +4949,12 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,SP,Itu/SP,3523909,0,1
 2020-04-03,Brazil,SP,Jaú/SP,3525300,0,1
 2020-04-03,Brazil,SP,Águas de Lindóia/SP,3500501,0,1
-2020-04-03,Brazil,TOTAL,TOTAL,0,1120,9219
+2020-04-03,Brazil,TOTAL,TOTAL,0,1207,9306
 2020-04-04,Brazil,DF,Brasília/DF,5300108,18,443
 2020-04-04,Brazil,MG,Divinópolis/MG,3122306,2,14
 2020-04-04,Brazil,MG,Belo Horizonte/MG,3106200,12,237
 2020-04-04,Brazil,MG,Nova Lima/MG,3144805,2,32
 2020-04-04,Brazil,MG,Uberlândia/MG,3170206,2,26
-2020-04-04,Brazil,CE,NÃO ESPECIFICADA/CE,23,72,84
 2020-04-04,Brazil,MG,Contagem/MG,3118601,1,11
 2020-04-04,Brazil,SP,NÃO ESPECIFICADA/SP,35,418,424
 2020-04-04,Brazil,GO,NÃO ESPECIFICADA/GO,52,15,16
@@ -4972,7 +4974,6 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-04,Brazil,DF,NÃO ESPECIFICADA/DF,53,13,13
 2020-04-04,Brazil,TO,NÃO ESPECIFICADA/TO,17,1,1
 2020-04-04,Brazil,RO,NÃO ESPECIFICADA/RO,11,1,1
-2020-04-04,Brazil,CE,CE,23,14,14
 2020-04-04,Brazil,RS,RS,43,8,8
 2020-04-04,Brazil,SC,SC,42,22,22
 2020-04-04,Brazil,BA,BA,29,4,4
@@ -5024,7 +5025,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-04,Brazil,SC,Braço do Norte/SC,4202800,0,12
 2020-04-04,Brazil,SP,São Bernardo do Campo/SP,3548708,0,70
 2020-04-04,Brazil,SP,São Caetano do Sul/SP,3548807,0,36
-2020-04-04,Brazil,CE,Fortaleza/CE,2304400,0,600
+2020-04-04,Brazil,CE,Fortaleza/CE,2304400,0,681
 2020-04-04,Brazil,MG,Coronel Fabriciano/MG,3119401,0,1
 2020-04-04,Brazil,SP,Mauá/SP,3529401,0,10
 2020-04-04,Brazil,CE,Aquiraz/CE,2301000,0,15
@@ -5076,6 +5077,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-04,Brazil,SP,Suzano/SP,3552502,0,6
 2020-04-04,Brazil,RO,Ji-Paraná/RO,1100122,0,1
 2020-04-04,Brazil,CE,Juazeiro do Norte/CE,2307304,0,1
+2020-04-04,Brazil,CE,NÃO ESPECIFICADA/CE,23,0,14
 2020-04-04,Brazil,AP,Macapá/AP,1600303,0,19
 2020-04-04,Brazil,SC,Itajaí/SC,4208203,0,19
 2020-04-04,Brazil,SC,Navegantes/SC,4211306,0,4
@@ -5421,7 +5423,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-04,Brazil,PA,Barcarena/PA,1501303,0,1
 2020-04-04,Brazil,MA,Açailândia/MA,2100055,0,1
 2020-04-04,Brazil,CE,Eusébio/CE,2304285,0,1
-2020-04-04,Brazil,CE,Tianguá/CE,2313401,0,2
+2020-04-04,Brazil,CE,Tianguá/CE,2313401,0,1
 2020-04-04,Brazil,PB,Cabedelo/PB,2503209,0,1
 2020-04-04,Brazil,PR,Paranaguá/PR,4118204,0,2
 2020-04-04,Brazil,PR,Mandirituba/PR,4114302,0,1
@@ -5521,11 +5523,13 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-04,Brazil,SP,Rio Claro/SP,3543907,0,1
 2020-04-04,Brazil,CE,Canindé/CE,2302800,0,1
 2020-04-04,Brazil,CE,Farias Brito/CE,2304301,0,1
-2020-04-04,Brazil,CE,Fortim/CE,2304459,0,1
 2020-04-04,Brazil,CE,Ipaporanga/CE,2305654,0,1
 2020-04-04,Brazil,PB,Junco do Seridó/PB,2507804,0,1
 2020-04-04,Brazil,PB,Serra Branca/PB,2515500,0,1
 2020-04-04,Brazil,ES,Colatina/ES,3201506,0,1
 2020-04-04,Brazil,AL,Marechal Deodoro/AL,2704708,0,1
 2020-04-04,Brazil,MA,NÃO ESPECIFICADA/MA,21,0,7
-2020-04-04,Brazil,TOTAL,TOTAL,0,1153,10372
+2020-04-04,Brazil,CE,Abaiara/CE,2300101,0,1
+2020-04-04,Brazil,CE,Horizonte/CE,2305233,0,4
+2020-04-04,Brazil,CE,Itapajé/CE,2306306,0,1
+2020-04-04,Brazil,TOTAL,TOTAL,0,1067,10373
