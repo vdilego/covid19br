@@ -934,7 +934,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-23,Brazil,SP,FORA DO ESTADO/SP,35,5,5
 2020-03-23,Brazil,SP,Iracemápolis/SP,3521408,1,1
 2020-03-23,Brazil,SP,Jundiaí/SP,3525904,1,1
-2020-03-23,Brazil,SP,Embu/SP,3515004,1,1
+2020-03-23,Brazil,SP,Embu das Artes/SP,3515004,1,1
 2020-03-23,Brazil,RJ,São Gonçalo/RJ,3304904,3,3
 2020-03-23,Brazil,BA,Juazeiro/BA,2918407,1,1
 2020-03-23,Brazil,BA,Jequié/BA,2918001,1,1
@@ -1257,7 +1257,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-24,Brazil,RS,Osório/RS,4313508,0,1
 2020-03-24,Brazil,SP,Iracemápolis/SP,3521408,0,1
 2020-03-24,Brazil,SP,Jundiaí/SP,3525904,0,1
-2020-03-24,Brazil,SP,Embu/SP,3515004,0,1
+2020-03-24,Brazil,SP,Embu das Artes/SP,3515004,0,1
 2020-03-24,Brazil,RJ,São Gonçalo/RJ,3304904,0,3
 2020-03-24,Brazil,BA,Jequié/BA,2918001,0,1
 2020-03-24,Brazil,BA,Brumado/BA,2904605,0,1
@@ -1464,7 +1464,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-25,Brazil,SP,FORA DO ESTADO/SP,35,0,8
 2020-03-25,Brazil,SP,Iracemápolis/SP,3521408,0,1
 2020-03-25,Brazil,SP,Jundiaí/SP,3525904,0,1
-2020-03-25,Brazil,SP,Embu/SP,3515004,0,1
+2020-03-25,Brazil,SP,Embu das Artes/SP,3515004,0,1
 2020-03-25,Brazil,RJ,São Gonçalo/RJ,3304904,0,3
 2020-03-25,Brazil,BA,Juazeiro/BA,2918407,0,2
 2020-03-25,Brazil,BA,Jequié/BA,2918001,0,1
@@ -1703,7 +1703,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-26,Brazil,RS,Osório/RS,4313508,0,1
 2020-03-26,Brazil,SP,FORA DO ESTADO/SP,35,0,8
 2020-03-26,Brazil,SP,Iracemápolis/SP,3521408,0,1
-2020-03-26,Brazil,SP,Embu/SP,3515004,0,1
+2020-03-26,Brazil,SP,Embu das Artes/SP,3515004,0,1
 2020-03-26,Brazil,RJ,São Gonçalo/RJ,3304904,0,3
 2020-03-26,Brazil,BA,Juazeiro/BA,2918407,0,2
 2020-03-26,Brazil,BA,Jequié/BA,2918001,0,1
@@ -1954,7 +1954,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-27,Brazil,SC,Lages/SC,4209300,0,1
 2020-03-27,Brazil,RS,Osório/RS,4313508,0,1
 2020-03-27,Brazil,SP,Iracemápolis/SP,3521408,0,1
-2020-03-27,Brazil,SP,Embu/SP,3515004,0,1
+2020-03-27,Brazil,SP,Embu das Artes/SP,3515004,0,1
 2020-03-27,Brazil,BA,Juazeiro/BA,2918407,0,2
 2020-03-27,Brazil,BA,Jequié/BA,2918001,0,1
 2020-03-27,Brazil,BA,Brumado/BA,2904605,0,1
@@ -2233,7 +2233,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-28,Brazil,SP,FORA DO ESTADO/SP,35,0,14
 2020-03-28,Brazil,SP,Iracemápolis/SP,3521408,0,1
 2020-03-28,Brazil,SP,Jundiaí/SP,3525904,0,3
-2020-03-28,Brazil,SP,Embu/SP,3515004,0,1
+2020-03-28,Brazil,SP,Embu das Artes/SP,3515004,0,1
 2020-03-28,Brazil,RJ,São Gonçalo/RJ,3304904,0,4
 2020-03-28,Brazil,BA,Juazeiro/BA,2918407,0,2
 2020-03-28,Brazil,BA,Jequié/BA,2918001,0,1
@@ -2542,7 +2542,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-29,Brazil,SP,FORA DO ESTADO/SP,35,0,14
 2020-03-29,Brazil,SP,Iracemápolis/SP,3521408,0,1
 2020-03-29,Brazil,SP,Jundiaí/SP,3525904,0,3
-2020-03-29,Brazil,SP,Embu/SP,3515004,0,1
+2020-03-29,Brazil,SP,Embu das Artes/SP,3515004,0,1
 2020-03-29,Brazil,BA,Juazeiro/BA,2918407,0,2
 2020-03-29,Brazil,BA,Jequié/BA,2918001,0,1
 2020-03-29,Brazil,BA,Brumado/BA,2904605,0,1
@@ -2734,7 +2734,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-30,Brazil,AM,Parintins/AM,1303403,1,3
 2020-03-30,Brazil,SC,Blumenau/SC,4202404,2,14
 2020-03-30,Brazil,SP,FORA DO ESTADO/SP,35,1,15
-2020-03-30,Brazil,SP,Embu/SP,3515004,3,4
+2020-03-30,Brazil,SP,Embu das Artes/SP,3515004,3,4
 2020-03-30,Brazil,RJ,São Gonçalo/RJ,3304904,1,7
 2020-03-30,Brazil,MG,Contagem/MG,3118601,1,5
 2020-03-30,Brazil,ES,Serra/ES,3205002,4,13
@@ -3103,7 +3103,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-03-31,Brazil,RN,Mossoró/RN,2408003,1,17
 2020-03-31,Brazil,SC,Blumenau/SC,4202404,5,19
 2020-03-31,Brazil,SP,FORA DO ESTADO/SP,35,3,18
-2020-03-31,Brazil,SP,Embu/SP,3515004,3,7
+2020-03-31,Brazil,SP,Embu das Artes/SP,3515004,3,7
 2020-03-31,Brazil,RJ,São Gonçalo/RJ,3304904,2,9
 2020-03-31,Brazil,BA,Brumado/BA,2904605,3,4
 2020-03-31,Brazil,PR,Cascavel/PR,4104808,2,10
@@ -3521,7 +3521,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-01,Brazil,SC,Blumenau/SC,4202404,3,22
 2020-04-01,Brazil,SP,FORA DO ESTADO/SP,35,9,27
 2020-04-01,Brazil,SP,Jundiaí/SP,3525904,2,5
-2020-04-01,Brazil,SP,Embu/SP,3515004,1,8
+2020-04-01,Brazil,SP,Embu das Artes/SP,3515004,1,8
 2020-04-01,Brazil,RJ,São Gonçalo/RJ,3304904,1,10
 2020-04-01,Brazil,BA,Brumado/BA,2904605,1,5
 2020-04-01,Brazil,MG,Contagem/MG,3118601,2,7
@@ -3988,7 +3988,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-02,Brazil,RS,Viamão/RS,4323002,1,4
 2020-04-02,Brazil,RN,Mossoró/RN,2408003,4,21
 2020-04-02,Brazil,SP,FORA DO ESTADO/SP,35,1,28
-2020-04-02,Brazil,SP,Embu/SP,3515004,6,14
+2020-04-02,Brazil,SP,Embu das Artes/SP,3515004,6,14
 2020-04-02,Brazil,MG,Contagem/MG,3118601,2,9
 2020-04-02,Brazil,MG,Lagoa da Prata/MG,3137205,1,5
 2020-04-02,Brazil,PR,Cascavel/PR,4104808,3,13
@@ -4474,7 +4474,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-03,Brazil,PE,Olinda/PE,2609600,1,6
 2020-04-03,Brazil,SC,Blumenau/SC,4202404,2,24
 2020-04-03,Brazil,SP,Jundiaí/SP,3525904,1,6
-2020-04-03,Brazil,SP,Embu/SP,3515004,4,18
+2020-04-03,Brazil,SP,Embu das Artes/SP,3515004,4,18
 2020-04-03,Brazil,MG,Contagem/MG,3118601,1,10
 2020-04-03,Brazil,PA,Marabá/PA,1504208,1,2
 2020-04-03,Brazil,PR,Cascavel/PR,4104808,2,15
@@ -5021,7 +5021,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-04,Brazil,SC,Blumenau/SC,4202404,1,25
 2020-04-04,Brazil,SC,Lages/SC,4209300,3,4
 2020-04-04,Brazil,SP,FORA DO ESTADO/SP,35,4,32
-2020-04-04,Brazil,SP,Embu/SP,3515004,1,19
+2020-04-04,Brazil,SP,Embu das Artes/SP,3515004,1,19
 2020-04-04,Brazil,MG,Contagem/MG,3118601,1,11
 2020-04-04,Brazil,PE,FORA DO ESTADO/PE,26,1,3
 2020-04-04,Brazil,PE,Caruaru/PE,2604106,1,2
@@ -5618,7 +5618,7 @@ date,country,state,city,ibgeID,newCases,totalCases
 2020-04-05,Brazil,PE,Olinda/PE,2609600,1,9
 2020-04-05,Brazil,SC,Blumenau/SC,4202404,1,26
 2020-04-05,Brazil,SP,FORA DO ESTADO/SP,35,2,34
-2020-04-05,Brazil,SP,Embu/SP,3515004,1,20
+2020-04-05,Brazil,SP,Embu das Artes/SP,3515004,1,20
 2020-04-05,Brazil,RJ,São Gonçalo/RJ,3304904,3,13
 2020-04-05,Brazil,BA,Juazeiro/BA,2918407,1,3
 2020-04-05,Brazil,MG,Contagem/MG,3118601,2,13
