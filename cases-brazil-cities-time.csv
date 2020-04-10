@@ -9771,7 +9771,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-10,Brazil,CE,Horizonte/CE,2305233,0,0,6
 2020-04-10,Brazil,SP,Hortolândia/SP,3519071,0,0,2
 2020-04-10,Brazil,AC,INDEFINIDA/AC,12,0,8,8
-2020-04-10,Brazil,AL,INDEFINIDA/AL,27,1,8,14
+2020-04-10,Brazil,AL,INDEFINIDA/AL,27,0,8,14
 2020-04-10,Brazil,AM,INDEFINIDA/AM,13,0,0,0
 2020-04-10,Brazil,AP,INDEFINIDA/AP,16,1,38,56
 2020-04-10,Brazil,BA,INDEFINIDA/BA,29,0,48,48
@@ -10338,4 +10338,4 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-10,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
 2020-04-10,Brazil,SC,Águas Mornas/SC,4200606,0,0,1
 2020-04-10,Brazil,SP,Águas de Lindóia/SP,3500501,1,0,1
-2020-04-10,Brazil,TOTAL,TOTAL,0,1058,1679,19854
+2020-04-10,Brazil,TOTAL,TOTAL,0,1057,1679,19854
