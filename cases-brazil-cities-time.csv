@@ -22,55 +22,64 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-05,Brazil,TOTAL,TOTAL,0,0,4,7
 2020-03-06,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-06,Brazil,BA,Feira de Santana/BA,2910800,0,1,1
+2020-03-06,Brazil,ES,INDEFINIDA/ES,32,0,1,1
+2020-03-06,Brazil,SP,INDEFINIDA/SP,35,0,4,4
 2020-03-06,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,1,1
 2020-03-06,Brazil,SP,São Paulo/SP,3550308,0,0,6
-2020-03-06,Brazil,TOTAL,TOTAL,0,0,2,9
+2020-03-06,Brazil,TOTAL,TOTAL,0,0,7,14
 2020-03-07,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-07,Brazil,DF,Brasília/DF,5300108,0,1,1
 2020-03-07,Brazil,BA,Feira de Santana/BA,2910800,0,1,2
+2020-03-07,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-07,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,0,1
 2020-03-07,Brazil,SP,Santana de Parnaíba/SP,3547304,0,1,1
 2020-03-07,Brazil,SP,São Paulo/SP,3550308,0,6,12
-2020-03-07,Brazil,TOTAL,TOTAL,0,0,9,18
+2020-03-07,Brazil,TOTAL,TOTAL,0,0,9,19
 2020-03-08,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-08,Brazil,DF,Brasília/DF,5300108,0,0,1
 2020-03-08,Brazil,MG,Divinópolis/MG,3122306,0,1,1
 2020-03-08,Brazil,BA,Feira de Santana/BA,2910800,0,0,2
+2020-03-08,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-08,Brazil,AL,Maceió/AL,2704302,0,1,1
 2020-03-08,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,1,2
 2020-03-08,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-08,Brazil,SP,São Paulo/SP,3550308,0,3,15
-2020-03-08,Brazil,TOTAL,TOTAL,0,0,6,24
+2020-03-08,Brazil,TOTAL,TOTAL,0,0,6,25
 2020-03-09,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-09,Brazil,DF,Brasília/DF,5300108,0,0,1
 2020-03-09,Brazil,MG,Divinópolis/MG,3122306,0,0,1
 2020-03-09,Brazil,BA,Feira de Santana/BA,2910800,0,0,2
+2020-03-09,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-09,Brazil,AL,Maceió/AL,2704302,0,0,1
 2020-03-09,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,0,2
 2020-03-09,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-09,Brazil,SP,São Paulo/SP,3550308,0,0,15
-2020-03-09,Brazil,TOTAL,TOTAL,0,0,0,24
+2020-03-09,Brazil,TOTAL,TOTAL,0,0,0,25
 2020-03-10,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-10,Brazil,DF,Brasília/DF,5300108,0,0,1
 2020-03-10,Brazil,RS,Campo Bom/RS,4303905,0,1,1
 2020-03-10,Brazil,MG,Divinópolis/MG,3122306,0,0,1
 2020-03-10,Brazil,BA,Feira de Santana/BA,2910800,0,0,2
+2020-03-10,Brazil,ES,INDEFINIDA/ES,32,0,0,1
+2020-03-10,Brazil,RJ,INDEFINIDA/RJ,33,0,5,5
 2020-03-10,Brazil,AL,Maceió/AL,2704302,0,0,1
 2020-03-10,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,0,2
 2020-03-10,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-10,Brazil,SP,São Paulo/SP,3550308,0,3,18
-2020-03-10,Brazil,TOTAL,TOTAL,0,0,4,28
+2020-03-10,Brazil,TOTAL,TOTAL,0,0,9,34
 2020-03-11,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-11,Brazil,DF,Brasília/DF,5300108,0,1,2
 2020-03-11,Brazil,RS,Campo Bom/RS,4303905,0,0,1
 2020-03-11,Brazil,MG,Divinópolis/MG,3122306,0,0,1
 2020-03-11,Brazil,BA,Feira de Santana/BA,2910800,0,1,3
+2020-03-11,Brazil,ES,INDEFINIDA/ES,32,0,0,1
+2020-03-11,Brazil,RJ,INDEFINIDA/RJ,33,0,5,10
 2020-03-11,Brazil,AL,Maceió/AL,2704302,0,0,1
 2020-03-11,Brazil,RS,Porto Alegre/RS,4314902,0,1,1
 2020-03-11,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,0,2
 2020-03-11,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-11,Brazil,SP,São Paulo/SP,3550308,0,11,29
-2020-03-11,Brazil,TOTAL,TOTAL,0,0,14,42
+2020-03-11,Brazil,TOTAL,TOTAL,0,0,19,53
 2020-03-12,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-12,Brazil,DF,Brasília/DF,5300108,0,0,2
 2020-03-12,Brazil,RS,Campo Bom/RS,4303905,0,0,1
@@ -82,6 +91,8 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-12,Brazil,SP,Ferraz de Vasconcelos/SP,3515707,0,1,1
 2020-03-12,Brazil,SC,Florianópolis/SC,4205407,0,2,2
 2020-03-12,Brazil,GO,Goiânia/GO,5208707,0,2,2
+2020-03-12,Brazil,ES,INDEFINIDA/ES,32,0,0,1
+2020-03-12,Brazil,RJ,INDEFINIDA/RJ,33,0,-9,1
 2020-03-12,Brazil,MG,Ipatinga/MG,3131307,0,1,1
 2020-03-12,Brazil,AL,Maceió/AL,2704302,0,0,1
 2020-03-12,Brazil,RN,Natal/RN,2408102,0,1,1
@@ -92,7 +103,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-12,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,11,13
 2020-03-12,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-12,Brazil,SP,São Paulo/SP,3550308,0,15,44
-2020-03-12,Brazil,TOTAL,TOTAL,0,0,45,87
+2020-03-12,Brazil,TOTAL,TOTAL,0,0,36,89
 2020-03-13,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-13,Brazil,DF,Brasília/DF,5300108,0,0,2
 2020-03-13,Brazil,RS,Campo Bom/RS,4303905,0,0,1
@@ -105,6 +116,9 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-13,Brazil,SC,Florianópolis/SC,4205407,0,0,2
 2020-03-13,Brazil,GO,Goiânia/GO,5208707,0,0,2
 2020-03-13,Brazil,AM,INDEFINIDA/AM,13,0,1,1
+2020-03-13,Brazil,ES,INDEFINIDA/ES,32,0,0,1
+2020-03-13,Brazil,RJ,INDEFINIDA/RJ,33,0,0,1
+2020-03-13,Brazil,SP,INDEFINIDA/SP,35,0,10,10
 2020-03-13,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-13,Brazil,SC,Joinville/SC,4209102,0,1,1
 2020-03-13,Brazil,AL,Maceió/AL,2704302,0,0,1
@@ -117,7 +131,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-13,Brazil,BA,Salvador/BA,2927408,0,3,3
 2020-03-13,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-13,Brazil,SP,São Paulo/SP,3550308,0,0,44
-2020-03-13,Brazil,TOTAL,TOTAL,0,0,6,93
+2020-03-13,Brazil,TOTAL,TOTAL,0,0,16,105
 2020-03-14,Brazil,SE,Aracaju/SE,2800308,0,1,1
 2020-03-14,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-14,Brazil,DF,Brasília/DF,5300108,0,6,8
@@ -133,7 +147,10 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-14,Brazil,SC,Florianópolis/SC,4205407,0,0,2
 2020-03-14,Brazil,GO,Goiânia/GO,5208707,0,1,3
 2020-03-14,Brazil,AM,INDEFINIDA/AM,13,0,0,1
+2020-03-14,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-14,Brazil,PE,INDEFINIDA/PE,26,0,1,1
+2020-03-14,Brazil,RJ,INDEFINIDA/RJ,33,0,6,7
+2020-03-14,Brazil,RS,INDEFINIDA/RS,43,0,2,2
 2020-03-14,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-14,Brazil,SC,Joinville/SC,4209102,0,0,1
 2020-03-14,Brazil,MG,Juiz de Fora/MG,3136702,0,1,1
@@ -149,7 +166,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-14,Brazil,BA,Salvador/BA,2927408,0,0,3
 2020-03-14,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-14,Brazil,SP,São Paulo/SP,3550308,0,18,62
-2020-03-14,Brazil,TOTAL,TOTAL,0,0,38,131
+2020-03-14,Brazil,TOTAL,TOTAL,0,0,46,141
 2020-03-15,Brazil,SE,Aracaju/SE,2800308,0,0,1
 2020-03-15,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-15,Brazil,DF,Brasília/DF,5300108,0,6,14
@@ -166,7 +183,10 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-15,Brazil,SC,Florianópolis/SC,4205407,0,0,2
 2020-03-15,Brazil,GO,Goiânia/GO,5208707,0,0,3
 2020-03-15,Brazil,AM,INDEFINIDA/AM,13,0,0,1
+2020-03-15,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-15,Brazil,PE,INDEFINIDA/PE,26,0,0,1
+2020-03-15,Brazil,RS,INDEFINIDA/RS,43,0,0,2
+2020-03-15,Brazil,SP,INDEFINIDA/SP,35,0,71,71
 2020-03-15,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-15,Brazil,SC,Joinville/SC,4209102,0,0,1
 2020-03-15,Brazil,MG,Juiz de Fora/MG,3136702,0,0,1
@@ -182,7 +202,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-15,Brazil,BA,Salvador/BA,2927408,0,1,4
 2020-03-15,Brazil,SP,Santana de Parnaíba/SP,3547304,0,0,1
 2020-03-15,Brazil,SP,São Paulo/SP,3550308,0,0,62
-2020-03-15,Brazil,TOTAL,TOTAL,0,0,19,150
+2020-03-15,Brazil,TOTAL,TOTAL,0,0,90,224
 2020-03-16,Brazil,GO,Anápolis/GO,5201108,0,2,2
 2020-03-16,Brazil,CE,Aquiraz/CE,2301000,0,1,1
 2020-03-16,Brazil,SE,Aracaju/SE,2800308,0,4,5
@@ -203,7 +223,9 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-16,Brazil,CE,Fortaleza/CE,2304400,0,8,8
 2020-03-16,Brazil,GO,Goiânia/GO,5208707,0,2,5
 2020-03-16,Brazil,AM,INDEFINIDA/AM,13,0,0,1
+2020-03-16,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-16,Brazil,PE,INDEFINIDA/PE,26,0,0,1
+2020-03-16,Brazil,RJ,INDEFINIDA/RJ,33,0,6,6
 2020-03-16,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-16,Brazil,SC,Joinville/SC,4209102,0,0,1
 2020-03-16,Brazil,MG,Juiz de Fora/MG,3136702,0,1,2
@@ -224,14 +246,14 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-16,Brazil,SP,São Bernardo do Campo/SP,3548708,0,1,1
 2020-03-16,Brazil,SP,São Caetano do Sul/SP,3548807,0,1,1
 2020-03-16,Brazil,SP,São Paulo/SP,3550308,0,83,145
-2020-03-16,Brazil,TOTAL,TOTAL,0,0,121,271
+2020-03-16,Brazil,TOTAL,TOTAL,0,0,127,278
 2020-03-17,Brazil,GO,Anápolis/GO,5201108,0,0,2
 2020-03-17,Brazil,CE,Aquiraz/CE,2301000,0,0,1
 2020-03-17,Brazil,SE,Aracaju/SE,2800308,0,0,5
 2020-03-17,Brazil,RJ,Barra Mansa/RJ,3300407,0,0,1
 2020-03-17,Brazil,MG,Belo Horizonte/MG,3106200,0,4,5
 2020-03-17,Brazil,PE,Belo Jardim/PE,2601706,0,1,1
-2020-03-17,Brazil,DF,Brasília/DF,5300108,0,0,19
+2020-03-17,Brazil,DF,Brasília/DF,5300108,0,3,22
 2020-03-17,Brazil,SC,Braço do Norte/SC,4202800,0,0,1
 2020-03-17,Brazil,RS,Campo Bom/RS,4303905,0,0,1
 2020-03-17,Brazil,MS,Campo Grande/MS,5002704,0,2,6
@@ -249,7 +271,10 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-17,Brazil,GO,Goiânia/GO,5208707,0,0,5
 2020-03-17,Brazil,SP,Guarulhos/SP,3518800,0,1,1
 2020-03-17,Brazil,AM,INDEFINIDA/AM,13,0,0,1
+2020-03-17,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-17,Brazil,PE,INDEFINIDA/PE,26,0,1,2
+2020-03-17,Brazil,RJ,INDEFINIDA/RJ,33,0,2,8
+2020-03-17,Brazil,RS,INDEFINIDA/RS,43,0,2,2
 2020-03-17,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-17,Brazil,PE,Jaboatão dos Guararapes/PE,2607901,0,2,2
 2020-03-17,Brazil,SC,Joinville/SC,4209102,0,0,1
@@ -278,7 +303,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-17,Brazil,SP,São Caetano do Sul/SP,3548807,0,0,1
 2020-03-17,Brazil,SP,São Paulo/SP,3550308,1,11,156
 2020-03-17,Brazil,MG,Uberlândia/MG,3170206,0,1,1
-2020-03-17,Brazil,TOTAL,TOTAL,0,1,47,318
+2020-03-17,Brazil,TOTAL,TOTAL,0,1,54,332
 2020-03-18,Brazil,GO,Anápolis/GO,5201108,0,0,2
 2020-03-18,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,1,1
 2020-03-18,Brazil,CE,Aquiraz/CE,2301000,0,0,1
@@ -289,7 +314,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-18,Brazil,MG,Belo Horizonte/MG,3106200,0,5,10
 2020-03-18,Brazil,PE,Belo Jardim/PE,2601706,0,0,1
 2020-03-18,Brazil,PA,Belém/PA,1501402,0,1,1
-2020-03-18,Brazil,DF,Brasília/DF,5300108,0,15,34
+2020-03-18,Brazil,DF,Brasília/DF,5300108,0,12,34
 2020-03-18,Brazil,SC,Braço do Norte/SC,4202800,0,1,2
 2020-03-18,Brazil,SP,Campinas/SP,3509502,0,1,1
 2020-03-18,Brazil,RS,Campo Bom/RS,4303905,0,0,1
@@ -311,7 +336,9 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-18,Brazil,RJ,Guapimirim/RJ,3301850,0,1,1
 2020-03-18,Brazil,SP,Guarulhos/SP,3518800,0,0,1
 2020-03-18,Brazil,AM,INDEFINIDA/AM,13,0,1,2
+2020-03-18,Brazil,ES,INDEFINIDA/ES,32,0,8,9
 2020-03-18,Brazil,PE,INDEFINIDA/PE,26,0,1,3
+2020-03-18,Brazil,SP,INDEFINIDA/SP,35,4,0,0
 2020-03-18,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-18,Brazil,PE,Jaboatão dos Guararapes/PE,2607901,0,-1,1
 2020-03-18,Brazil,SP,Jaguariúna/SP,3524709,0,1,1
@@ -352,7 +379,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-18,Brazil,SP,São Paulo/SP,3550308,0,58,214
 2020-03-18,Brazil,SC,Tubarão/SC,4218707,0,2,2
 2020-03-18,Brazil,MG,Uberlândia/MG,3170206,0,0,1
-2020-03-18,Brazil,TOTAL,TOTAL,0,0,187,505
+2020-03-18,Brazil,TOTAL,TOTAL,0,4,192,514
 2020-03-19,Brazil,RS,Alvorada/RS,4300604,0,1,1
 2020-03-19,Brazil,GO,Anápolis/GO,5201108,0,0,2
 2020-03-19,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,0,1
@@ -391,7 +418,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-19,Brazil,AM,INDEFINIDA/AM,13,0,1,3
 2020-03-19,Brazil,CE,INDEFINIDA/CE,23,0,1,1
 2020-03-19,Brazil,GO,INDEFINIDA/GO,52,0,1,1
-2020-03-19,Brazil,PE,INDEFINIDA/PE,26,0,0,3
+2020-03-19,Brazil,PE,INDEFINIDA/PE,26,0,9,12
 2020-03-19,Brazil,SP,INDEFINIDA/SP,35,0,4,4
 2020-03-19,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-19,Brazil,BA,Itabuna/BA,2914802,0,1,1
@@ -446,7 +473,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-19,Brazil,SP,Vargem Grande Paulista/SP,3556453,0,1,1
 2020-03-19,Brazil,ES,Vila Velha/ES,3205200,0,7,7
 2020-03-19,Brazil,ES,Vitória/ES,3205309,0,5,5
-2020-03-19,Brazil,TOTAL,TOTAL,0,7,125,630
+2020-03-19,Brazil,TOTAL,TOTAL,0,7,134,639
 2020-03-20,Brazil,RS,Alvorada/RS,4300604,0,0,1
 2020-03-20,Brazil,GO,Anápolis/GO,5201108,0,0,2
 2020-03-20,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,1,2
@@ -494,8 +521,9 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-20,Brazil,AM,INDEFINIDA/AM,13,0,4,7
 2020-03-20,Brazil,CE,INDEFINIDA/CE,23,0,0,1
 2020-03-20,Brazil,GO,INDEFINIDA/GO,52,0,0,1
-2020-03-20,Brazil,PE,INDEFINIDA/PE,26,0,0,3
-2020-03-20,Brazil,SP,INDEFINIDA/SP,35,0,4,8
+2020-03-20,Brazil,PE,INDEFINIDA/PE,26,0,2,14
+2020-03-20,Brazil,RJ,INDEFINIDA/RJ,33,0,43,43
+2020-03-20,Brazil,SP,INDEFINIDA/SP,35,0,55,59
 2020-03-20,Brazil,SC,Imbituba/SC,4207304,0,2,2
 2020-03-20,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-20,Brazil,BA,Itabuna/BA,2914802,0,0,1
@@ -564,7 +592,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-20,Brazil,SP,Vargem Grande Paulista/SP,3556453,0,0,1
 2020-03-20,Brazil,ES,Vila Velha/ES,3205200,0,0,7
 2020-03-20,Brazil,ES,Vitória/ES,3205309,0,1,6
-2020-03-20,Brazil,TOTAL,TOTAL,0,11,237,867
+2020-03-20,Brazil,TOTAL,TOTAL,0,11,333,972
 2020-03-21,Brazil,RS,Alvorada/RS,4300604,0,1,2
 2020-03-21,Brazil,GO,Anápolis/GO,5201108,0,0,2
 2020-03-21,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,0,2
@@ -620,11 +648,12 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-21,Brazil,SP,Hortolândia/SP,3519071,0,0,1
 2020-03-21,Brazil,AM,INDEFINIDA/AM,13,0,0,7
 2020-03-21,Brazil,CE,INDEFINIDA/CE,23,0,0,1
-2020-03-21,Brazil,GO,INDEFINIDA/GO,52,0,-1,0
+2020-03-21,Brazil,GO,INDEFINIDA/GO,52,0,2,3
 2020-03-21,Brazil,MG,INDEFINIDA/MG,31,0,2,2
-2020-03-21,Brazil,PE,INDEFINIDA/PE,26,0,1,4
-2020-03-21,Brazil,RJ,INDEFINIDA/RJ,33,0,4,4
-2020-03-21,Brazil,SP,INDEFINIDA/SP,35,0,-8,0
+2020-03-21,Brazil,MT,INDEFINIDA/MT,51,0,1,1
+2020-03-21,Brazil,PE,INDEFINIDA/PE,26,0,-10,4
+2020-03-21,Brazil,RJ,INDEFINIDA/RJ,33,0,-39,4
+2020-03-21,Brazil,SP,INDEFINIDA/SP,35,6,63,122
 2020-03-21,Brazil,SC,Imbituba/SC,4207304,0,0,2
 2020-03-21,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-21,Brazil,BA,Itabuna/BA,2914802,0,0,1
@@ -708,7 +737,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-21,Brazil,SP,Vargem Grande Paulista/SP,3556453,0,0,1
 2020-03-21,Brazil,ES,Vila Velha/ES,3205200,0,4,11
 2020-03-21,Brazil,ES,Vitória/ES,3205309,0,5,11
-2020-03-21,Brazil,TOTAL,TOTAL,0,12,211,1078
+2020-03-21,Brazil,TOTAL,TOTAL,0,18,232,1204
 2020-03-22,Brazil,RS,Alvorada/RS,4300604,0,0,2
 2020-03-22,Brazil,GO,Anápolis/GO,5201108,0,0,2
 2020-03-22,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,-1,1
@@ -770,12 +799,13 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-22,Brazil,SP,Hortolândia/SP,3519071,0,0,1
 2020-03-22,Brazil,AM,INDEFINIDA/AM,13,0,-7,0
 2020-03-22,Brazil,CE,INDEFINIDA/CE,23,0,0,1
-2020-03-22,Brazil,GO,INDEFINIDA/GO,52,0,0,0
-2020-03-22,Brazil,MG,INDEFINIDA/MG,31,0,0,2
+2020-03-22,Brazil,GO,INDEFINIDA/GO,52,0,-3,0
+2020-03-22,Brazil,MG,INDEFINIDA/MG,31,0,29,31
+2020-03-22,Brazil,MT,INDEFINIDA/MT,51,0,0,1
 2020-03-22,Brazil,PE,INDEFINIDA/PE,26,0,0,4
 2020-03-22,Brazil,PR,INDEFINIDA/PR,41,0,4,4
 2020-03-22,Brazil,RJ,INDEFINIDA/RJ,33,0,-2,2
-2020-03-22,Brazil,SP,INDEFINIDA/SP,35,0,0,0
+2020-03-22,Brazil,SP,INDEFINIDA/SP,35,13,172,294
 2020-03-22,Brazil,SC,Imbituba/SC,4207304,0,0,2
 2020-03-22,Brazil,MG,Ipatinga/MG,3131307,0,0,1
 2020-03-22,Brazil,BA,Itabuna/BA,2914802,0,0,1
@@ -863,7 +893,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-22,Brazil,SP,Vargem Grande Paulista/SP,3556453,0,0,1
 2020-03-22,Brazil,ES,Vila Velha/ES,3205200,0,0,11
 2020-03-22,Brazil,ES,Vitória/ES,3205309,0,0,11
-2020-03-22,Brazil,TOTAL,TOTAL,0,12,192,1270
+2020-03-22,Brazil,TOTAL,TOTAL,0,25,390,1594
 2020-03-23,Brazil,RS,Alvorada/RS,4300604,0,0,2
 2020-03-23,Brazil,GO,Anápolis/GO,5201108,0,0,2
 2020-03-23,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,1,2
@@ -936,11 +966,11 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-23,Brazil,AM,INDEFINIDA/AM,13,0,0,0
 2020-03-23,Brazil,CE,INDEFINIDA/CE,23,0,1,2
 2020-03-23,Brazil,GO,INDEFINIDA/GO,52,0,0,0
-2020-03-23,Brazil,MG,INDEFINIDA/MG,31,0,26,28
+2020-03-23,Brazil,MG,INDEFINIDA/MG,31,0,-3,28
 2020-03-23,Brazil,PE,INDEFINIDA/PE,26,0,0,4
 2020-03-23,Brazil,PR,INDEFINIDA/PR,41,0,0,4
 2020-03-23,Brazil,RJ,INDEFINIDA/RJ,33,0,0,2
-2020-03-23,Brazil,SP,INDEFINIDA/SP,35,0,0,0
+2020-03-23,Brazil,SP,INDEFINIDA/SP,35,21,114,408
 2020-03-23,Brazil,PB,Igaracy/PB,2502607,0,1,1
 2020-03-23,Brazil,SC,Imbituba/SC,4207304,0,0,2
 2020-03-23,Brazil,MG,Ipatinga/MG,3131307,0,0,1
@@ -1046,7 +1076,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-23,Brazil,ES,Vila Velha/ES,3205200,0,2,13
 2020-03-23,Brazil,ES,Vitória/ES,3205309,0,3,14
 2020-03-23,Brazil,MT,Várzea Grande/MT,5108402,0,1,1
-2020-03-23,Brazil,TOTAL,TOTAL,0,13,274,1544
+2020-03-23,Brazil,TOTAL,TOTAL,0,34,359,1952
 2020-03-24,Brazil,RS,Alvorada/RS,4300604,0,0,2
 2020-03-24,Brazil,RS,Anta Gorda/RS,4300703,0,1,1
 2020-03-24,Brazil,GO,Anápolis/GO,5201108,0,1,3
@@ -1132,7 +1162,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-24,Brazil,PE,INDEFINIDA/PE,26,0,0,4
 2020-03-24,Brazil,PR,INDEFINIDA/PR,41,0,1,5
 2020-03-24,Brazil,RJ,INDEFINIDA/RJ,33,0,0,2
-2020-03-24,Brazil,SP,INDEFINIDA/SP,35,0,0,0
+2020-03-24,Brazil,SP,INDEFINIDA/SP,35,31,65,473
 2020-03-24,Brazil,PB,Igaracy/PB,2502607,0,0,1
 2020-03-24,Brazil,SC,Imbituba/SC,4207304,0,2,4
 2020-03-24,Brazil,MG,Ipatinga/MG,3131307,0,0,1
@@ -1248,7 +1278,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-24,Brazil,ES,Vitória/ES,3205309,0,1,15
 2020-03-24,Brazil,RJ,Volta Redonda/RJ,3306305,0,4,4
 2020-03-24,Brazil,MT,Várzea Grande/MT,5108402,0,0,1
-2020-03-24,Brazil,TOTAL,TOTAL,0,16,238,1782
+2020-03-24,Brazil,TOTAL,TOTAL,0,47,303,2255
 2020-03-25,Brazil,RS,Alvorada/RS,4300604,0,0,2
 2020-03-25,Brazil,PA,Ananindeua/PA,1500800,0,2,2
 2020-03-25,Brazil,RS,Anta Gorda/RS,4300703,0,1,2
@@ -1347,7 +1377,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-25,Brazil,PR,INDEFINIDA/PR,41,0,-1,4
 2020-03-25,Brazil,RJ,INDEFINIDA/RJ,33,0,-2,0
 2020-03-25,Brazil,SC,INDEFINIDA/SC,42,0,8,8
-2020-03-25,Brazil,SP,INDEFINIDA/SP,35,0,43,43
+2020-03-25,Brazil,SP,INDEFINIDA/SP,35,0,-430,43
 2020-03-25,Brazil,PB,Igaracy/PB,2502607,0,0,1
 2020-03-25,Brazil,BA,Ilhéus/BA,2913606,0,1,1
 2020-03-25,Brazil,SC,Imbituba/SC,4207304,0,0,4
@@ -1481,7 +1511,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-25,Brazil,ES,Vitória/ES,3205309,0,0,15
 2020-03-25,Brazil,RJ,Volta Redonda/RJ,3306305,0,2,6
 2020-03-25,Brazil,MT,Várzea Grande/MT,5108402,0,1,2
-2020-03-25,Brazil,TOTAL,TOTAL,0,59,780,2562
+2020-03-25,Brazil,TOTAL,TOTAL,0,59,307,2562
 2020-03-26,Brazil,BA,Alagoinhas/BA,2900702,0,1,1
 2020-03-26,Brazil,RS,Alvorada/RS,4300604,0,0,2
 2020-03-26,Brazil,PA,Ananindeua/PA,1500800,0,2,4
@@ -1578,11 +1608,12 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-26,Brazil,SP,Guarulhos/SP,3518800,1,4,9
 2020-03-26,Brazil,PR,Guaíra/PR,4108809,0,0,1
 2020-03-26,Brazil,SP,Hortolândia/SP,3519071,0,-1,1
+2020-03-26,Brazil,AC,INDEFINIDA/AC,12,0,1,1
 2020-03-26,Brazil,AM,INDEFINIDA/AM,13,0,0,0
 2020-03-26,Brazil,BA,INDEFINIDA/BA,29,0,4,7
 2020-03-26,Brazil,CE,INDEFINIDA/CE,23,0,-2,0
 2020-03-26,Brazil,ES,INDEFINIDA/ES,32,0,0,1
-2020-03-26,Brazil,GO,INDEFINIDA/GO,52,0,-3,0
+2020-03-26,Brazil,GO,INDEFINIDA/GO,52,0,-2,1
 2020-03-26,Brazil,MG,INDEFINIDA/MG,31,0,3,5
 2020-03-26,Brazil,PE,INDEFINIDA/PE,26,1,0,5
 2020-03-26,Brazil,PR,INDEFINIDA/PR,41,0,0,4
@@ -1737,7 +1768,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-26,Brazil,ES,Vitória/ES,3205309,0,2,17
 2020-03-26,Brazil,RJ,Volta Redonda/RJ,3306305,0,1,7
 2020-03-26,Brazil,MT,Várzea Grande/MT,5108402,0,0,2
-2020-03-26,Brazil,TOTAL,TOTAL,0,77,426,2988
+2020-03-26,Brazil,TOTAL,TOTAL,0,77,428,2990
 2020-03-27,Brazil,BA,Alagoinhas/BA,2900702,0,0,1
 2020-03-27,Brazil,RS,Alvorada/RS,4300604,0,0,2
 2020-03-27,Brazil,PA,Ananindeua/PA,1500800,0,0,4
@@ -1852,7 +1883,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-27,Brazil,BA,INDEFINIDA/BA,29,0,-7,0
 2020-03-27,Brazil,CE,INDEFINIDA/CE,23,0,0,0
 2020-03-27,Brazil,ES,INDEFINIDA/ES,32,0,0,1
-2020-03-27,Brazil,GO,INDEFINIDA/GO,52,0,5,5
+2020-03-27,Brazil,GO,INDEFINIDA/GO,52,0,4,5
 2020-03-27,Brazil,MG,INDEFINIDA/MG,31,0,0,5
 2020-03-27,Brazil,PE,INDEFINIDA/PE,26,1,0,5
 2020-03-27,Brazil,PR,INDEFINIDA/PR,41,0,0,4
@@ -2022,7 +2053,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-27,Brazil,ES,Vitória/ES,3205309,0,1,18
 2020-03-27,Brazil,RJ,Volta Redonda/RJ,3306305,1,2,9
 2020-03-27,Brazil,MT,Várzea Grande/MT,5108402,0,0,2
-2020-03-27,Brazil,TOTAL,TOTAL,0,93,488,3476
+2020-03-27,Brazil,TOTAL,TOTAL,0,93,487,3476
 2020-03-28,Brazil,BA,Alagoinhas/BA,2900702,0,0,1
 2020-03-28,Brazil,RS,Alvorada/RS,4300604,0,0,2
 2020-03-28,Brazil,PA,Ananindeua/PA,1500800,0,0,4
@@ -2147,12 +2178,13 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-28,Brazil,ES,INDEFINIDA/ES,32,0,0,1
 2020-03-28,Brazil,GO,INDEFINIDA/GO,52,0,-5,0
 2020-03-28,Brazil,MG,INDEFINIDA/MG,31,0,-2,3
+2020-03-28,Brazil,MT,INDEFINIDA/MT,51,0,2,2
 2020-03-28,Brazil,PE,INDEFINIDA/PE,26,1,0,5
 2020-03-28,Brazil,PR,INDEFINIDA/PR,41,0,0,4
 2020-03-28,Brazil,RJ,INDEFINIDA/RJ,33,0,0,0
 2020-03-28,Brazil,RN,INDEFINIDA/RN,24,0,1,1
 2020-03-28,Brazil,SC,INDEFINIDA/SC,42,0,0,8
-2020-03-28,Brazil,SP,INDEFINIDA/SP,35,0,-44,0
+2020-03-28,Brazil,SP,INDEFINIDA/SP,35,17,183,227
 2020-03-28,Brazil,PB,Igaracy/PB,2502607,0,0,1
 2020-03-28,Brazil,BA,Ilhéus/BA,2913606,0,0,2
 2020-03-28,Brazil,SC,Imbituba/SC,4207304,0,0,5
@@ -2336,7 +2368,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-28,Brazil,RJ,Volta Redonda/RJ,3306305,1,2,11
 2020-03-28,Brazil,MT,Várzea Grande/MT,5108402,0,0,2
 2020-03-28,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,1,1
-2020-03-28,Brazil,TOTAL,TOTAL,0,98,250,3726
+2020-03-28,Brazil,TOTAL,TOTAL,0,115,479,3955
 2020-03-29,Brazil,AC,Acrelândia/AC,1200013,0,2,2
 2020-03-29,Brazil,BA,Alagoinhas/BA,2900702,0,0,1
 2020-03-29,Brazil,RS,Alvorada/RS,4300604,0,0,2
@@ -2465,14 +2497,16 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-29,Brazil,BA,INDEFINIDA/BA,29,0,0,0
 2020-03-29,Brazil,CE,INDEFINIDA/CE,23,0,0,0
 2020-03-29,Brazil,ES,INDEFINIDA/ES,32,0,0,1
-2020-03-29,Brazil,GO,INDEFINIDA/GO,52,0,0,0
+2020-03-29,Brazil,GO,INDEFINIDA/GO,52,0,2,2
 2020-03-29,Brazil,MG,INDEFINIDA/MG,31,0,0,3
+2020-03-29,Brazil,MT,INDEFINIDA/MT,51,0,3,5
 2020-03-29,Brazil,PE,INDEFINIDA/PE,26,1,0,5
+2020-03-29,Brazil,PI,INDEFINIDA/PI,22,0,3,3
 2020-03-29,Brazil,PR,INDEFINIDA/PR,41,0,1,5
 2020-03-29,Brazil,RJ,INDEFINIDA/RJ,33,0,0,0
 2020-03-29,Brazil,RN,INDEFINIDA/RN,24,0,0,1
 2020-03-29,Brazil,SC,INDEFINIDA/SC,42,0,0,8
-2020-03-29,Brazil,SP,INDEFINIDA/SP,35,0,0,0
+2020-03-29,Brazil,SP,INDEFINIDA/SP,35,31,45,272
 2020-03-29,Brazil,PB,Igaracy/PB,2502607,0,0,1
 2020-03-29,Brazil,BA,Ilhéus/BA,2913606,0,0,2
 2020-03-29,Brazil,SC,Imbituba/SC,4207304,0,0,5
@@ -2677,7 +2711,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-29,Brazil,RJ,Volta Redonda/RJ,3306305,1,0,11
 2020-03-29,Brazil,MT,Várzea Grande/MT,5108402,0,0,2
 2020-03-29,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
-2020-03-29,Brazil,TOTAL,TOTAL,0,106,305,4031
+2020-03-29,Brazil,TOTAL,TOTAL,0,137,358,4313
 2020-03-30,Brazil,AC,Acrelândia/AC,1200013,0,4,6
 2020-03-30,Brazil,BA,Alagoinhas/BA,2900702,0,0,1
 2020-03-30,Brazil,PR,Almirante Tamandaré/PR,4100400,0,2,2
@@ -2809,19 +2843,20 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-30,Brazil,MG,Guimarânia/MG,3128907,0,0,1
 2020-03-30,Brazil,GO,Hidrolândia/GO,5209705,0,0,1
 2020-03-30,Brazil,SP,Hortolândia/SP,3519071,0,0,1
+2020-03-30,Brazil,AC,INDEFINIDA/AC,12,0,1,1
 2020-03-30,Brazil,AL,INDEFINIDA/AL,27,0,0,4
 2020-03-30,Brazil,AM,INDEFINIDA/AM,13,0,0,0
 2020-03-30,Brazil,BA,INDEFINIDA/BA,29,0,0,0
 2020-03-30,Brazil,CE,INDEFINIDA/CE,23,0,0,0
 2020-03-30,Brazil,ES,INDEFINIDA/ES,32,0,0,1
-2020-03-30,Brazil,GO,INDEFINIDA/GO,52,0,0,0
+2020-03-30,Brazil,GO,INDEFINIDA/GO,52,0,-1,1
 2020-03-30,Brazil,MG,INDEFINIDA/MG,31,0,0,3
-2020-03-30,Brazil,PE,INDEFINIDA/PE,26,1,0,5
+2020-03-30,Brazil,PE,INDEFINIDA/PE,26,1,1,6
 2020-03-30,Brazil,PR,INDEFINIDA/PR,41,0,0,5
 2020-03-30,Brazil,RJ,INDEFINIDA/RJ,33,0,0,0
 2020-03-30,Brazil,RN,INDEFINIDA/RN,24,0,1,2
 2020-03-30,Brazil,SC,INDEFINIDA/SC,42,0,0,8
-2020-03-30,Brazil,SP,INDEFINIDA/SP,35,1,47,47
+2020-03-30,Brazil,SP,INDEFINIDA/SP,35,1,-225,47
 2020-03-30,Brazil,PB,Igaracy/PB,2502607,0,0,1
 2020-03-30,Brazil,BA,Ilhéus/BA,2913606,0,0,2
 2020-03-30,Brazil,SC,Imbituba/SC,4207304,0,0,5
@@ -3053,7 +3088,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-30,Brazil,RJ,Volta Redonda/RJ,3306305,1,0,11
 2020-03-30,Brazil,MT,Várzea Grande/MT,5108402,0,0,2
 2020-03-30,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
-2020-03-30,Brazil,TOTAL,TOTAL,0,166,629,4660
+2020-03-30,Brazil,TOTAL,TOTAL,0,166,358,4663
 2020-03-31,Brazil,PA,Abaetetuba/PA,1500107,0,1,1
 2020-03-31,Brazil,AC,Acrelândia/AC,1200013,0,1,7
 2020-03-31,Brazil,BA,Alagoinhas/BA,2900702,0,2,3
@@ -3208,9 +3243,9 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-31,Brazil,BA,INDEFINIDA/BA,29,0,0,0
 2020-03-31,Brazil,CE,INDEFINIDA/CE,23,0,0,0
 2020-03-31,Brazil,ES,INDEFINIDA/ES,32,0,0,1
-2020-03-31,Brazil,GO,INDEFINIDA/GO,52,0,0,0
+2020-03-31,Brazil,GO,INDEFINIDA/GO,52,0,-1,0
 2020-03-31,Brazil,MG,INDEFINIDA/MG,31,0,2,5
-2020-03-31,Brazil,PE,INDEFINIDA/PE,26,1,0,5
+2020-03-31,Brazil,PE,INDEFINIDA/PE,26,1,-1,5
 2020-03-31,Brazil,PR,INDEFINIDA/PR,41,0,1,6
 2020-03-31,Brazil,RJ,INDEFINIDA/RJ,33,0,0,0
 2020-03-31,Brazil,RN,INDEFINIDA/RN,24,0,0,2
@@ -3476,7 +3511,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-03-31,Brazil,SP,Votuporanga/SP,3557105,0,1,1
 2020-03-31,Brazil,MT,Várzea Grande/MT,5108402,0,0,2
 2020-03-31,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
-2020-03-31,Brazil,TOTAL,TOTAL,0,202,1164,5824
+2020-03-31,Brazil,TOTAL,TOTAL,0,202,1162,5824
 2020-04-01,Brazil,PA,Abaetetuba/PA,1500107,0,0,1
 2020-04-01,Brazil,AC,Acrelândia/AC,1200013,0,1,8
 2020-04-01,Brazil,ES,Afonso Cláudio/ES,3200102,0,1,1
@@ -4126,7 +4161,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-02,Brazil,AL,INDEFINIDA/AL,27,0,0,4
 2020-04-02,Brazil,AM,INDEFINIDA/AM,13,0,0,0
 2020-04-02,Brazil,BA,INDEFINIDA/BA,29,0,0,0
-2020-04-02,Brazil,CE,INDEFINIDA/CE,23,0,0,0
+2020-04-02,Brazil,CE,INDEFINIDA/CE,23,20,0,0
 2020-04-02,Brazil,ES,INDEFINIDA/ES,32,0,0,0
 2020-04-02,Brazil,GO,INDEFINIDA/GO,52,0,0,0
 2020-04-02,Brazil,MG,INDEFINIDA/MG,31,0,1,3
@@ -4443,7 +4478,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-02,Brazil,MT,Várzea Grande/MT,5108402,0,2,4
 2020-04-02,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
 2020-04-02,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,1
-2020-04-02,Brazil,TOTAL,TOTAL,0,284,1168,8099
+2020-04-02,Brazil,TOTAL,TOTAL,0,304,1168,8099
 2020-04-03,Brazil,PA,Abaetetuba/PA,1500107,0,0,1
 2020-04-03,Brazil,AC,Acrelândia/AC,1200013,0,1,9
 2020-04-03,Brazil,SP,Adamantina/SP,3500105,0,1,1
@@ -5238,7 +5273,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-04,Brazil,PE,INDEFINIDA/PE,26,1,1,6
 2020-04-04,Brazil,PR,INDEFINIDA/PR,41,0,0,6
 2020-04-04,Brazil,RJ,INDEFINIDA/RJ,33,0,0,1
-2020-04-04,Brazil,RN,INDEFINIDA/RN,24,0,0,5
+2020-04-04,Brazil,RN,INDEFINIDA/RN,24,1,36,41
 2020-04-04,Brazil,SC,INDEFINIDA/SC,42,0,1,9
 2020-04-04,Brazil,SP,INDEFINIDA/SP,35,0,7,76
 2020-04-04,Brazil,PR,Ibaiti/PR,4109708,0,0,1
@@ -5603,7 +5638,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-04,Brazil,MT,Várzea Grande/MT,5108402,0,0,4
 2020-04-04,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
 2020-04-04,Brazil,SP,Águas de Lindóia/SP,3500501,0,0,1
-2020-04-04,Brazil,TOTAL,TOTAL,0,443,1131,10343
+2020-04-04,Brazil,TOTAL,TOTAL,0,444,1167,10379
 2020-04-05,Brazil,PA,Abaetetuba/PA,1500107,0,0,1
 2020-04-05,Brazil,CE,Abaiara/CE,2300101,0,0,1
 2020-04-05,Brazil,AC,Acrelândia/AC,1200013,0,0,9
@@ -5837,6 +5872,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-05,Brazil,SP,Hortolândia/SP,3519071,0,0,1
 2020-04-05,Brazil,AL,INDEFINIDA/AL,27,0,1,5
 2020-04-05,Brazil,AM,INDEFINIDA/AM,13,0,0,0
+2020-04-05,Brazil,AP,INDEFINIDA/AP,16,1,0,0
 2020-04-05,Brazil,BA,INDEFINIDA/BA,29,0,0,0
 2020-04-05,Brazil,CE,INDEFINIDA/CE,23,0,-9,5
 2020-04-05,Brazil,ES,INDEFINIDA/ES,32,0,0,0
@@ -5845,7 +5881,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-05,Brazil,PE,INDEFINIDA/PE,26,1,0,6
 2020-04-05,Brazil,PR,INDEFINIDA/PR,41,0,0,6
 2020-04-05,Brazil,RJ,INDEFINIDA/RJ,33,0,0,1
-2020-04-05,Brazil,RN,INDEFINIDA/RN,24,0,0,5
+2020-04-05,Brazil,RN,INDEFINIDA/RN,24,0,-36,5
 2020-04-05,Brazil,SC,INDEFINIDA/SC,42,0,0,9
 2020-04-05,Brazil,SP,INDEFINIDA/SP,35,0,-3,73
 2020-04-05,Brazil,PR,Ibaiti/PR,4109708,0,0,1
@@ -6247,7 +6283,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-05,Brazil,MT,Várzea Grande/MT,5108402,0,0,4
 2020-04-05,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
 2020-04-05,Brazil,SP,Águas de Lindóia/SP,3500501,0,0,1
-2020-04-05,Brazil,TOTAL,TOTAL,0,496,1082,11425
+2020-04-05,Brazil,TOTAL,TOTAL,0,497,1046,11425
 2020-04-06,Brazil,PA,Abaetetuba/PA,1500107,0,0,1
 2020-04-06,Brazil,CE,Abaiara/CE,2300101,0,0,1
 2020-04-06,Brazil,AC,Acrelândia/AC,1200013,0,0,9
@@ -8014,15 +8050,17 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-08,Brazil,GO,Hidrolândia/GO,5209705,0,0,0
 2020-04-08,Brazil,CE,Horizonte/CE,2305233,0,0,6
 2020-04-08,Brazil,SP,Hortolândia/SP,3519071,0,0,2
+2020-04-08,Brazil,AC,INDEFINIDA/AC,12,1,0,0
 2020-04-08,Brazil,AL,INDEFINIDA/AL,27,1,0,6
 2020-04-08,Brazil,AM,INDEFINIDA/AM,13,0,0,0
 2020-04-08,Brazil,AP,INDEFINIDA/AP,16,1,0,0
 2020-04-08,Brazil,BA,INDEFINIDA/BA,29,0,0,0
-2020-04-08,Brazil,CE,INDEFINIDA/CE,23,0,0,12
+2020-04-08,Brazil,CE,INDEFINIDA/CE,23,3,101,113
 2020-04-08,Brazil,ES,INDEFINIDA/ES,32,0,0,0
 2020-04-08,Brazil,GO,INDEFINIDA/GO,52,0,4,4
 2020-04-08,Brazil,MG,INDEFINIDA/MG,31,0,4,14
 2020-04-08,Brazil,MT,INDEFINIDA/MT,51,0,0,2
+2020-04-08,Brazil,PA,INDEFINIDA/PA,15,0,2,2
 2020-04-08,Brazil,PE,INDEFINIDA/PE,26,1,0,7
 2020-04-08,Brazil,PR,INDEFINIDA/PR,41,0,3,11
 2020-04-08,Brazil,RJ,INDEFINIDA/RJ,33,0,0,1
@@ -8537,7 +8575,7 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-08,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
 2020-04-08,Brazil,SC,Águas Mornas/SC,4200606,0,0,1
 2020-04-08,Brazil,SP,Águas de Lindóia/SP,3500501,1,0,1
-2020-04-08,Brazil,TOTAL,TOTAL,0,808,1967,16052
+2020-04-08,Brazil,TOTAL,TOTAL,0,812,2070,16155
 2020-04-09,Brazil,PA,Abaetetuba/PA,1500107,0,0,2
 2020-04-09,Brazil,CE,Abaiara/CE,2300101,0,0,1
 2020-04-09,Brazil,AC,Acrelândia/AC,1200013,0,0,9
@@ -8844,14 +8882,14 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-09,Brazil,AM,INDEFINIDA/AM,13,0,0,0
 2020-04-09,Brazil,AP,INDEFINIDA/AP,16,1,21,21
 2020-04-09,Brazil,BA,INDEFINIDA/BA,29,1,53,53
-2020-04-09,Brazil,CE,INDEFINIDA/CE,23,15,255,267
+2020-04-09,Brazil,CE,INDEFINIDA/CE,23,15,154,267
 2020-04-09,Brazil,ES,INDEFINIDA/ES,32,0,27,27
 2020-04-09,Brazil,GO,INDEFINIDA/GO,52,0,0,4
 2020-04-09,Brazil,MA,INDEFINIDA/MA,21,0,21,21
 2020-04-09,Brazil,MG,INDEFINIDA/MG,31,0,4,18
 2020-04-09,Brazil,MS,INDEFINIDA/MS,50,0,4,4
 2020-04-09,Brazil,MT,INDEFINIDA/MT,51,1,18,20
-2020-04-09,Brazil,PA,INDEFINIDA/PA,15,1,7,7
+2020-04-09,Brazil,PA,INDEFINIDA/PA,15,1,5,7
 2020-04-09,Brazil,PB,INDEFINIDA/PB,25,0,24,24
 2020-04-09,Brazil,PE,INDEFINIDA/PE,26,11,154,161
 2020-04-09,Brazil,PI,INDEFINIDA/PI,22,0,2,2
@@ -9377,4 +9415,4 @@ date,country,state,city,ibgeID,deaths,newCases,totalCases
 2020-04-09,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1
 2020-04-09,Brazil,SC,Águas Mornas/SC,4200606,0,0,1
 2020-04-09,Brazil,SP,Águas de Lindóia/SP,3500501,1,0,1
-2020-04-09,Brazil,TOTAL,TOTAL,0,941,2146,18198
+2020-04-09,Brazil,TOTAL,TOTAL,0,941,2043,18198
