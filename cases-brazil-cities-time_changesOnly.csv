@@ -3546,11 +3546,13 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-10,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,1,2
 2020-04-10,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,1,1
 2020-04-11,Brazil,PE,Abreu e Lima/PE,2600054,0,0,4,5
+2020-04-11,Brazil,PA,Acará/PA,1500206,0,0,1,1
 2020-04-11,Brazil,SP,Agudos/SP,3500709,0,1,1,2
 2020-04-11,Brazil,GO,Aloândia/GO,5200506,0,0,1,1
 2020-04-11,Brazil,RS,Alvorada/RS,4300604,0,1,1,5
 2020-04-11,Brazil,SP,Amparo/SP,3501905,0,0,1,1
 2020-04-11,Brazil,SP,Américo Brasiliense/SP,3501707,0,0,1,1
+2020-04-11,Brazil,PA,Ananindeua/PA,1500800,0,0,4,25
 2020-04-11,Brazil,SC,Antônio Carlos/SC,4201208,1,3,0,11
 2020-04-11,Brazil,GO,Anápolis/GO,5201108,0,0,3,15
 2020-04-11,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,0,1,3
@@ -3567,6 +3569,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-11,Brazil,SP,Bady Bassitt/SP,3504602,0,0,1,2
 2020-04-11,Brazil,SC,Balneário Camboriú/SC,4202008,0,0,1,52
 2020-04-11,Brazil,MG,Barbacena/MG,3105608,0,0,1,2
+2020-04-11,Brazil,PA,Barcarena/PA,1501303,0,0,-3,2
 2020-04-11,Brazil,CE,Barroquinha/CE,2302057,0,0,1,1
 2020-04-11,Brazil,SP,Barueri/SP,3505708,0,2,-1,43
 2020-04-11,Brazil,SP,Bauru/SP,3506003,0,1,-1,10
@@ -3575,10 +3578,12 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-11,Brazil,RJ,Belford Roxo/RJ,3300456,0,3,1,29
 2020-04-11,Brazil,MG,Belo Horizonte/MG,3106200,0,6,8,338
 2020-04-11,Brazil,PE,Belo Jardim/PE,2601706,0,0,1,2
+2020-04-11,Brazil,PA,Belém/PA,1501402,1,8,14,161
 2020-04-11,Brazil,MG,Betim/MG,3106705,0,0,2,8
 2020-04-11,Brazil,RR,Boa Vista/RR,1400100,0,2,2,70
 2020-04-11,Brazil,MG,Borda da Mata/MG,3108305,0,0,1,2
 2020-04-11,Brazil,DF,Brasília/DF,5300108,0,14,36,592
+2020-04-11,Brazil,PA,Bujaru/PA,1501907,0,0,1,1
 2020-04-11,Brazil,PE,Cabo de Santo Agostinho/PE,2602902,0,4,1,14
 2020-04-11,Brazil,PE,Cachoeirinha/PE,2603108,0,0,4,5
 2020-04-11,Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,0,2,5
@@ -3596,6 +3601,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-11,Brazil,ES,Cariacica/ES,3201308,0,0,3,30
 2020-04-11,Brazil,TO,Cariri do Tocantins/TO,1703867,0,0,1,1
 2020-04-11,Brazil,PR,Cascavel/PR,4104808,1,2,1,58
+2020-04-11,Brazil,PA,Castanhal/PA,1502400,0,0,1,4
 2020-04-11,Brazil,CE,Caucaia/CE,2303709,0,1,3,26
 2020-04-11,Brazil,MG,Conceição das Alagoas/MG,3117306,0,0,1,1
 2020-04-11,Brazil,MG,Contagem/MG,3118601,0,0,1,17
@@ -3630,7 +3636,6 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-11,Brazil,SC,Gravatal/SC,4206207,0,0,1,8
 2020-04-11,Brazil,SP,Guararema/SP,3518305,0,0,-1,1
 2020-04-11,Brazil,SP,Guarulhos/SP,3518800,0,16,13,191
-2020-04-11,Brazil,PA,INDEFINIDA/PA,15,1,1,0,0
 2020-04-11,Brazil,RN,INDEFINIDA/RN,24,0,0,-1,6
 2020-04-11,Brazil,SC,INDEFINIDA/SC,42,0,0,3,11
 2020-04-11,Brazil,SP,INDEFINIDA/SP,35,0,0,-14,79
@@ -3704,6 +3709,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-11,Brazil,SP,Praia Grande/SP,3541000,1,2,2,16
 2020-04-11,Brazil,AM,Presidente Figueiredo/AM,1303536,0,1,-1,1
 2020-04-11,Brazil,SP,Presidente Prudente/SP,3541406,0,2,1,4
+2020-04-11,Brazil,PA,Quatipuru/PA,1506112,0,0,1,1
 2020-04-11,Brazil,RJ,Queimados/RJ,3304144,0,0,2,10
 2020-04-11,Brazil,PE,Quipapá/PE,2611507,0,0,1,1
 2020-04-11,Brazil,CE,Quixadá/CE,2311306,0,0,1,7
@@ -3732,6 +3738,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-11,Brazil,AP,Santana/AP,1600600,1,2,2,21
 2020-04-11,Brazil,SP,Santo André/SP,3547809,0,3,3,142
 2020-04-11,Brazil,MG,Santo Antônio do Monte/MG,3160405,0,0,2,4
+2020-04-11,Brazil,PA,Santo Antônio do Tauá/PA,1507003,0,0,1,2
 2020-04-11,Brazil,SP,Santos/SP,3548500,1,6,2,146
 2020-04-11,Brazil,ES,Serra/ES,3205002,1,3,4,80
 2020-04-11,Brazil,PE,Sertânia/PE,2614105,1,1,1,1
@@ -3755,6 +3762,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-11,Brazil,RJ,São João de Meriti/RJ,3305109,0,2,3,28
 2020-04-11,Brazil,PE,São Lourenço da Mata/PE,2613701,1,7,7,28
 2020-04-11,Brazil,MA,São Luís/MA,2111300,3,22,45,333
+2020-04-11,Brazil,PA,São Miguel do Guamá/PA,1507607,1,1,0,0
 2020-04-11,Brazil,SP,São Paulo/SP,3550308,13,422,149,6131
 2020-04-11,Brazil,AM,Tabatinga/AM,1304062,0,0,-1,1
 2020-04-11,Brazil,SP,Taboão da Serra/SP,3552809,0,5,-1,71
@@ -3781,6 +3789,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-12,Brazil,ES,Alfredo Chaves/ES,3200300,0,0,1,1
 2020-04-12,Brazil,PR,Almirante Tamandaré/PR,4100400,0,0,2,6
 2020-04-12,Brazil,MA,Altamira do Maranhão/MA,2100402,0,0,1,1
+2020-04-12,Brazil,PA,Ananindeua/PA,1500800,0,0,1,26
 2020-04-12,Brazil,RJ,Angra dos Reis/RJ,3300100,0,0,1,5
 2020-04-12,Brazil,AM,Anori/AM,1300102,0,0,1,3
 2020-04-12,Brazil,GO,Anápolis/GO,5201108,0,0,3,18
@@ -3799,6 +3808,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-12,Brazil,SP,Barueri/SP,3505708,0,2,5,48
 2020-04-12,Brazil,RJ,Belford Roxo/RJ,3300456,0,3,17,46
 2020-04-12,Brazil,MG,Belo Horizonte/MG,3106200,0,6,17,355
+2020-04-12,Brazil,PA,Belém/PA,1501402,3,11,19,180
 2020-04-12,Brazil,MG,Betim/MG,3106705,0,0,1,9
 2020-04-12,Brazil,SC,Blumenau/SC,4202404,0,0,4,65
 2020-04-12,Brazil,MG,Boa Esperança/MG,3107109,0,0,1,3
@@ -3863,7 +3873,6 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-12,Brazil,CE,INDEFINIDA/CE,23,0,0,1,21
 2020-04-12,Brazil,GO,INDEFINIDA/GO,52,0,0,-3,0
 2020-04-12,Brazil,MG,INDEFINIDA/MG,31,0,0,-6,10
-2020-04-12,Brazil,PA,INDEFINIDA/PA,15,3,4,42,42
 2020-04-12,Brazil,PI,INDEFINIDA/PI,22,0,0,4,4
 2020-04-12,Brazil,SP,INDEFINIDA/SP,35,0,0,8,87
 2020-04-12,Brazil,PR,Ibema/PR,4109757,0,0,10,11
@@ -3942,6 +3951,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-12,Brazil,TO,Palmas/TO,1721000,0,0,1,16
 2020-04-12,Brazil,MG,Paraisópolis/MG,3147303,1,2,1,4
 2020-04-12,Brazil,PR,Paranaguá/PR,4118204,0,2,1,6
+2020-04-12,Brazil,PA,Parauapebas/PA,1505536,0,0,2,10
 2020-04-12,Brazil,AM,Parintins/AM,1303403,1,3,5,11
 2020-04-12,Brazil,RN,Parnamirim/RN,2403251,0,0,2,33
 2020-04-12,Brazil,PE,Paulista/PE,2610707,0,0,7,47
