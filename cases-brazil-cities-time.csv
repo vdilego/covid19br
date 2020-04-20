@@ -21528,7 +21528,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-20,Brazil,RN,INDEFINIDA/RN,24,1,1,34,39
 2020-04-20,Brazil,RS,INDEFINIDA/RS,43,1,1,20,20
 2020-04-20,Brazil,SC,INDEFINIDA/SC,42,0,0,0,14
-2020-04-20,Brazil,SP,INDEFINIDA/SP,35,292,292,313,376
+2020-04-20,Brazil,SP,INDEFINIDA/SP,35,22,22,313,376
 2020-04-20,Brazil,PR,Ibaiti/PR,4109708,0,0,0,1
 2020-04-20,Brazil,CE,Ibaretama/CE,2305266,0,0,0,1
 2020-04-20,Brazil,AL,Ibateguara/AL,2703007,0,1,0,1
@@ -22417,4 +22417,4 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-20,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,0,1
 2020-04-20,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
 2020-04-20,Brazil,PA,Óbidos/PA,1505106,0,0,0,1
-2020-04-20,Brazil,TOTAL,TOTAL,0,360,2846,1558,40625
+2020-04-20,Brazil,TOTAL,TOTAL,0,90,2576,1558,40625
