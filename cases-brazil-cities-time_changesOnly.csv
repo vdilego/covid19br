@@ -6872,6 +6872,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,1,3,15
 2020-04-21,Brazil,ES,Apiacá/ES,3200508,0,0,2,3
 2020-04-21,Brazil,CE,Aquiraz/CE,2301000,0,0,1,39
+2020-04-21,Brazil,SE,Aracaju/SE,2800308,1,5,14,74
 2020-04-21,Brazil,CE,Aracati/CE,2301109,0,1,-2,8
 2020-04-21,Brazil,ES,Aracruz/ES,3200607,0,0,2,10
 2020-04-21,Brazil,TO,Araguaína/TO,1702109,0,0,1,6
@@ -6965,6 +6966,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,RS,Espumoso/RS,4307500,0,0,1,2
 2020-04-21,Brazil,MG,Espírito Santo do Dourado/MG,3124401,0,0,1,1
 2020-04-21,Brazil,RS,Estrela/RS,4307807,0,0,1,4
+2020-04-21,Brazil,SE,Estância/SE,2802106,0,0,6,12
 2020-04-21,Brazil,CE,Eusébio/CE,2304285,2,6,9,39
 2020-04-21,Brazil,MG,Extrema/MG,3125101,0,1,3,19
 2020-04-21,Brazil,BA,Feira de Santana/BA,2910800,0,1,3,61
@@ -6995,7 +6997,6 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,ES,INDEFINIDA/ES,32,0,1,7,55
 2020-04-21,Brazil,PR,INDEFINIDA/PR,41,0,2,3,18
 2020-04-21,Brazil,RJ,INDEFINIDA/RJ,33,2,2,0,0
-2020-04-21,Brazil,SE,INDEFINIDA/SE,28,0,0,25,25
 2020-04-21,Brazil,TO,INDEFINIDA/TO,17,0,0,1,1
 2020-04-21,Brazil,BA,Ibirataia/BA,2912905,0,0,-1,3
 2020-04-21,Brazil,CE,Icó/CE,2305407,0,0,1,4
@@ -7016,6 +7017,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,AM,Iranduba/AM,1301852,0,3,13,37
 2020-04-21,Brazil,ES,Irupi/ES,3202652,0,0,1,1
 2020-04-21,Brazil,PB,Itabaiana/PB,2506905,0,0,1,1
+2020-04-21,Brazil,SE,Itabaianinha/SE,2803005,0,1,1,7
 2020-04-21,Brazil,RJ,Itaboraí/RJ,3301900,1,7,1,48
 2020-04-21,Brazil,BA,Itabuna/BA,2914802,0,1,5,58
 2020-04-21,Brazil,AM,Itacoatiara/AM,1301902,0,1,12,39
@@ -7049,6 +7051,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,CE,Juazeiro do Norte/CE,2307304,0,0,2,7
 2020-04-21,Brazil,MG,Juiz de Fora/MG,3136702,0,2,4,99
 2020-04-21,Brazil,SP,Jundiaí/SP,3525904,1,6,2,53
+2020-04-21,Brazil,SE,Lagarto/SE,2803500,0,0,1,2
 2020-04-21,Brazil,AP,Laranjal do Jari/AP,1600279,0,0,1,8
 2020-04-21,Brazil,MG,Lavras/MG,3138203,0,0,1,7
 2020-04-21,Brazil,SP,Limeira/SP,3526902,0,1,1,10
@@ -7168,6 +7171,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,PE,Serra Talhada/PE,2613909,0,0,2,6
 2020-04-21,Brazil,ES,Serra/ES,3205002,0,11,19,307
 2020-04-21,Brazil,SP,Serrana/SP,3551504,-1,0,0,1
+2020-04-21,Brazil,SE,Simão Dias/SE,2807105,1,1,3,4
 2020-04-21,Brazil,CE,Sobral/CE,2312908,0,0,3,32
 2020-04-21,Brazil,SP,Sorocaba/SP,3552205,3,12,6,56
 2020-04-21,Brazil,PE,Surubim/PE,2614501,0,0,1,2
