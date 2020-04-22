@@ -22670,7 +22670,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,SC,Botuverá/SC,4202701,0,0,0,3
 2020-04-21,Brazil,SP,Bragança Paulista/SP,3507605,0,7,0,36
 2020-04-21,Brazil,PA,Bragança/PA,1501709,0,0,1,6
-2020-04-21,Brazil,DF,Brasília/DF,5300108,0,24,34,909
+2020-04-21,Brazil,DF,Brasília/DF,5300108,0,24,38,913
 2020-04-21,Brazil,SC,Braço do Norte/SC,4202800,0,2,0,27
 2020-04-21,Brazil,ES,Brejetuba/ES,3201159,0,0,0,1
 2020-04-21,Brazil,PA,Breves/PA,1501808,1,1,1,4
@@ -23021,10 +23021,11 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,MT,INDEFINIDA/MT,51,0,0,0,4
 2020-04-21,Brazil,PA,INDEFINIDA/PA,15,0,0,0,1
 2020-04-21,Brazil,PE,INDEFINIDA/PE,26,0,1,0,11
-2020-04-21,Brazil,PR,INDEFINIDA/PR,41,0,2,2,17
+2020-04-21,Brazil,PR,INDEFINIDA/PR,41,0,2,3,18
 2020-04-21,Brazil,RJ,INDEFINIDA/RJ,33,2,2,0,0
 2020-04-21,Brazil,RN,INDEFINIDA/RN,24,0,0,0,5
 2020-04-21,Brazil,SC,INDEFINIDA/SC,42,0,0,0,14
+2020-04-21,Brazil,SE,INDEFINIDA/SE,28,0,0,25,25
 2020-04-21,Brazil,SP,INDEFINIDA/SP,35,0,0,0,63
 2020-04-21,Brazil,TO,INDEFINIDA/TO,17,0,0,1,1
 2020-04-21,Brazil,PR,Ibaiti/PR,4109708,0,0,0,1
@@ -23977,4 +23978,4 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-21,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,0,1
 2020-04-21,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
 2020-04-21,Brazil,PA,Óbidos/PA,1505106,0,0,0,1
-2020-04-21,Brazil,TOTAL,TOTAL,0,169,2767,2660,43598
+2020-04-21,Brazil,TOTAL,TOTAL,0,169,2767,2690,43628
