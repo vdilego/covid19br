@@ -25789,7 +25789,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,SP,Bragança Paulista/SP,3507605,0,7,0,36
 2020-04-23,Brazil,PA,Bragança/PA,1501709,0,0,0,7
 2020-04-23,Brazil,MG,Brasília de Minas/MG,3108602,0,0,2,2
-2020-04-23,Brazil,DF,Brasília/DF,5300108,1,26,9,968
+2020-04-23,Brazil,DF,Brasília/DF,5300108,1,26,126,1085
 2020-04-23,Brazil,SC,Braço do Norte/SC,4202800,0,2,1,28
 2020-04-23,Brazil,ES,Brejetuba/ES,3201159,0,0,0,1
 2020-04-23,Brazil,PA,Breves/PA,1501808,0,1,0,4
@@ -27193,4 +27193,4 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,1,2
 2020-04-23,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
 2020-04-23,Brazil,PA,Óbidos/PA,1505106,1,1,0,2
-2020-04-23,Brazil,TOTAL,TOTAL,0,403,3343,3816,50239
+2020-04-23,Brazil,TOTAL,TOTAL,0,403,3343,3933,50356
