@@ -25790,7 +25790,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,SP,Bragança Paulista/SP,3507605,0,7,0,36
 2020-04-23,Brazil,PA,Bragança/PA,1501709,0,0,0,7
 2020-04-23,Brazil,MG,Brasília de Minas/MG,3108602,0,0,2,2
-2020-04-23,Brazil,DF,Brasília/DF,5300108,1,26,126,1085
+2020-04-23,Brazil,DF,Brasília/DF,5300108,1,26,9,968
 2020-04-23,Brazil,SC,Braço do Norte/SC,4202800,0,2,1,28
 2020-04-23,Brazil,ES,Brejetuba/ES,3201159,0,0,0,1
 2020-04-23,Brazil,PA,Breves/PA,1501808,0,1,0,4
@@ -25814,9 +25814,8 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,PR,CASO SEM LOCALIZAÇÃO DEFINIDA/PR,41,0,2,0,14
 2020-04-23,Brazil,RJ,CASO SEM LOCALIZAÇÃO DEFINIDA/RJ,33,1,1,-5,1
 2020-04-23,Brazil,RN,CASO SEM LOCALIZAÇÃO DEFINIDA/RN,24,0,0,0,5
-2020-04-23,Brazil,RR,CASO SEM LOCALIZAÇÃO DEFINIDA/RR,14,0,0,7,7
 2020-04-23,Brazil,SC,CASO SEM LOCALIZAÇÃO DEFINIDA/SC,42,0,0,1,15
-2020-04-23,Brazil,SE,CASO SEM LOCALIZAÇÃO DEFINIDA/SE,28,1,1,17,17
+2020-04-23,Brazil,SE,CASO SEM LOCALIZAÇÃO DEFINIDA/SE,28,1,1,6,6
 2020-04-23,Brazil,SP,CASO SEM LOCALIZAÇÃO DEFINIDA/SP,35,0,0,0,63
 2020-04-23,Brazil,PB,Cabedelo/PB,2503209,0,2,0,15
 2020-04-23,Brazil,RJ,Cabo Frio/RJ,3300704,2,2,11,23
@@ -27200,4 +27199,1654 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,1,2
 2020-04-23,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
 2020-04-23,Brazil,PA,Óbidos/PA,1505106,1,1,0,2
-2020-04-23,Brazil,TOTAL,TOTAL,0,405,3345,3949,50372
+2020-04-23,Brazil,TOTAL,TOTAL,0,405,3345,3814,50237
+2020-04-24,Brazil,PA,Abaetetuba/PA,1500107,0,0,0,6
+2020-04-24,Brazil,MG,Abaeté/MG,3100203,0,0,0,1
+2020-04-24,Brazil,BA,Abaíra/BA,2900108,0,0,0,1
+2020-04-24,Brazil,PE,Abreu e Lima/PE,2600054,0,1,0,36
+2020-04-24,Brazil,BA,Acajutiba/BA,2900306,0,0,0,1
+2020-04-24,Brazil,CE,Acarape/CE,2300150,0,1,0,4
+2020-04-24,Brazil,CE,Acaraú/CE,2300200,0,1,0,3
+2020-04-24,Brazil,RN,Acari/RN,2400109,0,0,0,1
+2020-04-24,Brazil,PA,Acará/PA,1500206,0,0,0,2
+2020-04-24,Brazil,CE,Acopiara/CE,2300309,0,0,0,3
+2020-04-24,Brazil,AC,Acrelândia/AC,1200013,0,0,0,12
+2020-04-24,Brazil,SP,Adamantina/SP,3500105,0,0,0,1
+2020-04-24,Brazil,BA,Adustina/BA,2900355,0,1,0,1
+2020-04-24,Brazil,ES,Afonso Cláudio/ES,3200102,0,0,0,2
+2020-04-24,Brazil,PA,Afuá/PA,1500305,0,0,0,1
+2020-04-24,Brazil,SP,Aguaí/SP,3500303,0,0,0,1
+2020-04-24,Brazil,SP,Agudos/SP,3500709,0,1,0,9
+2020-04-24,Brazil,BA,Aiquara/BA,2900603,0,0,0,1
+2020-04-24,Brazil,RS,Ajuricaba/RS,4300208,0,0,0,1
+2020-04-24,Brazil,PB,Alagoa Nova/PB,2500403,0,0,0,1
+2020-04-24,Brazil,PE,Alagoinha/PE,2600609,0,0,0,1
+2020-04-24,Brazil,BA,Alagoinhas/BA,2900702,0,0,0,7
+2020-04-24,Brazil,SP,Alambari/SP,3500758,0,0,0,1
+2020-04-24,Brazil,MS,Alcinópolis/MS,5000252,0,0,0,1
+2020-04-24,Brazil,MA,Alcântara/MA,2100204,0,0,0,1
+2020-04-24,Brazil,CE,Alcântaras/CE,2300507,0,0,0,2
+2020-04-24,Brazil,ES,Alegre/ES,3200201,0,0,0,1
+2020-04-24,Brazil,RS,Alegrete/RS,4300406,0,0,0,1
+2020-04-24,Brazil,PA,Alenquer/PA,1500404,0,0,0,1
+2020-04-24,Brazil,RN,Alexandria/RN,2400505,0,0,0,1
+2020-04-24,Brazil,MG,Alfenas/MG,3101607,0,0,0,2
+2020-04-24,Brazil,ES,Alfredo Chaves/ES,3200300,0,0,0,15
+2020-04-24,Brazil,PE,Aliança/PE,2600708,0,1,0,5
+2020-04-24,Brazil,BA,Almadina/BA,2900900,0,0,0,1
+2020-04-24,Brazil,MG,Almenara/MG,3101706,0,0,0,2
+2020-04-24,Brazil,PR,Almirante Tamandaré/PR,4100400,0,0,0,6
+2020-04-24,Brazil,GO,Aloândia/GO,5200506,0,0,0,1
+2020-04-24,Brazil,MG,Alpercata/MG,3101805,0,0,0,1
+2020-04-24,Brazil,MT,Alta Floresta/MT,5100250,0,0,0,1
+2020-04-24,Brazil,MA,Altamira do Maranhão/MA,2100402,0,0,0,1
+2020-04-24,Brazil,PA,Altamira/PA,1500602,0,0,0,8
+2020-04-24,Brazil,PE,Altinho/PE,2600807,0,0,0,1
+2020-04-24,Brazil,RR,Alto Alegre/RR,1400050,0,1,0,2
+2020-04-24,Brazil,PR,Alto Paraná/PR,4100608,0,0,0,3
+2020-04-24,Brazil,RO,Alto Paraíso/RO,1100403,0,0,0,1
+2020-04-24,Brazil,ES,Alto Rio Novo/ES,3200359,0,0,0,0
+2020-04-24,Brazil,CE,Alto Santo/CE,2300705,0,0,0,2
+2020-04-24,Brazil,RN,Alto do Rodrigues/RN,2400703,0,0,0,1
+2020-04-24,Brazil,PI,Altos/PI,2200400,0,0,0,1
+2020-04-24,Brazil,RS,Alvorada/RS,4300604,0,1,0,9
+2020-04-24,Brazil,PR,Amaporã/PR,4100905,0,0,0,6
+2020-04-24,Brazil,PE,Amaraji/PE,2600906,0,1,0,2
+2020-04-24,Brazil,SP,Americana/SP,3501608,0,3,0,27
+2020-04-24,Brazil,CE,Amontada/CE,2300754,0,0,0,1
+2020-04-24,Brazil,SP,Amparo/SP,3501905,0,0,0,5
+2020-04-24,Brazil,BA,Amélia Rodrigues/BA,2901106,0,0,0,1
+2020-04-24,Brazil,SP,Américo Brasiliense/SP,3501707,0,0,0,5
+2020-04-24,Brazil,AL,Anadia/AL,2700201,0,1,0,1
+2020-04-24,Brazil,MA,Anajatuba/MA,2100709,0,1,0,4
+2020-04-24,Brazil,PA,Anajás/PA,1500701,0,0,0,1
+2020-04-24,Brazil,AM,Anamã/AM,1300086,0,0,0,1
+2020-04-24,Brazil,PA,Ananindeua/PA,1500800,0,1,0,125
+2020-04-24,Brazil,ES,Anchieta/ES,3200409,0,0,0,7
+2020-04-24,Brazil,SP,Andradina/SP,3502101,0,0,0,4
+2020-04-24,Brazil,SP,Angatuba/SP,3502200,0,1,0,1
+2020-04-24,Brazil,PI,Angical do Piauí/PI,2200608,0,0,0,1
+2020-04-24,Brazil,RJ,Angra dos Reis/RJ,3300100,0,0,0,11
+2020-04-24,Brazil,GO,Anhanguera/GO,5201207,0,0,0,1
+2020-04-24,Brazil,SC,Anita Garibaldi/SC,4201000,0,0,0,1
+2020-04-24,Brazil,AM,Anori/AM,1300102,0,0,0,10
+2020-04-24,Brazil,RS,Anta Gorda/RS,4300703,0,0,0,2
+2020-04-24,Brazil,SC,Antônio Carlos/SC,4201208,0,3,0,11
+2020-04-24,Brazil,GO,Anápolis/GO,5201108,0,0,0,35
+2020-04-24,Brazil,GO,Aparecida de Goiânia/GO,5201405,0,1,0,17
+2020-04-24,Brazil,SP,Aparecida/SP,3502507,0,0,0,1
+2020-04-24,Brazil,RJ,Aperibé/RJ,3300159,0,0,0,1
+2020-04-24,Brazil,ES,Apiacá/ES,3200508,0,0,0,3
+2020-04-24,Brazil,SP,Apiaí/SP,3502705,0,0,0,1
+2020-04-24,Brazil,RN,Apodi/RN,2401008,0,1,0,7
+2020-04-24,Brazil,PR,Apucarana/PR,4101408,0,2,0,13
+2020-04-24,Brazil,CE,Apuiarés/CE,2300903,0,0,0,1
+2020-04-24,Brazil,CE,Aquiraz/CE,2301000,0,0,0,49
+2020-04-24,Brazil,SC,Arabutã/SC,4201273,0,0,0,5
+2020-04-24,Brazil,SE,Aracaju/SE,2800308,0,5,0,74
+2020-04-24,Brazil,CE,Aracati/CE,2301109,0,1,0,9
+2020-04-24,Brazil,BA,Araci/BA,2902104,0,1,0,1
+2020-04-24,Brazil,CE,Aracoiaba/CE,2301208,0,0,0,3
+2020-04-24,Brazil,ES,Aracruz/ES,3200607,0,0,0,12
+2020-04-24,Brazil,GO,Aragoiânia/GO,5201801,0,0,0,1
+2020-04-24,Brazil,MG,Araguari/MG,3103504,0,0,0,7
+2020-04-24,Brazil,TO,Araguaína/TO,1702109,0,0,0,9
+2020-04-24,Brazil,SP,Arandu/SP,3503109,0,2,0,9
+2020-04-24,Brazil,AL,Arapiraca/AL,2700300,0,0,0,3
+2020-04-24,Brazil,PR,Arapongas/PR,4101507,0,1,0,13
+2020-04-24,Brazil,SC,Araranguá/SC,4201406,0,0,0,4
+2020-04-24,Brazil,SP,Araraquara/SP,3503208,0,3,0,52
+2020-04-24,Brazil,SP,Araras/SP,3503307,0,0,0,8
+2020-04-24,Brazil,CE,Ararendá/CE,2301257,0,1,0,1
+2020-04-24,Brazil,MA,Arari/MA,2101004,0,1,0,3
+2020-04-24,Brazil,CE,Araripe/CE,2301307,0,0,0,1
+2020-04-24,Brazil,RJ,Araruama/RJ,3300209,0,1,0,19
+2020-04-24,Brazil,PR,Araruna/PR,4101705,0,0,0,8
+2020-04-24,Brazil,PR,Araucária/PR,4101804,0,0,0,6
+2020-04-24,Brazil,MG,Araxá/MG,3104007,0,0,0,3
+2020-04-24,Brazil,SP,Araçariguama/SP,3502754,0,0,0,2
+2020-04-24,Brazil,SP,Araçatuba/SP,3502804,0,1,0,40
+2020-04-24,Brazil,SP,Araçoiaba da Serra/SP,3502903,0,0,0,1
+2020-04-24,Brazil,PE,Araçoiaba/PE,2601052,0,0,0,3
+2020-04-24,Brazil,MG,Arceburgo/MG,3104106,0,0,0,1
+2020-04-24,Brazil,MG,Arcos/MG,3104205,0,0,0,7
+2020-04-24,Brazil,PE,Arcoverde/PE,2601201,0,3,0,12
+2020-04-24,Brazil,RJ,Areal/RJ,3300225,0,0,0,1
+2020-04-24,Brazil,RN,Areia Branca/RN,2401107,0,0,0,4
+2020-04-24,Brazil,SP,Areiópolis/SP,3503604,0,0,0,1
+2020-04-24,Brazil,MT,Aripuanã/MT,5101407,0,1,0,2
+2020-04-24,Brazil,RO,Ariquemes/RO,1100023,0,0,0,47
+2020-04-24,Brazil,SC,Armazém/SC,4201505,0,0,0,2
+2020-04-24,Brazil,RJ,Armação dos Búzios/RJ,3300233,0,0,0,2
+2020-04-24,Brazil,CE,Arneiroz/CE,2301505,0,0,0,1
+2020-04-24,Brazil,RJ,Arraial do Cabo/RJ,3300258,0,1,0,4
+2020-04-24,Brazil,RS,Arroio do Meio/RS,4301008,0,0,0,1
+2020-04-24,Brazil,RS,Arroio do Sal/RS,4301057,0,1,0,2
+2020-04-24,Brazil,RS,Arroio dos Ratos/RS,4301107,0,0,0,3
+2020-04-24,Brazil,SP,Artur Nogueira/SP,3503802,0,0,0,1
+2020-04-24,Brazil,SP,Arujá/SP,3503901,0,1,0,28
+2020-04-24,Brazil,PR,Assaí/PR,4101903,0,0,0,1
+2020-04-24,Brazil,PR,Assis Chateaubriand/PR,4102000,0,0,0,9
+2020-04-24,Brazil,SP,Assis/SP,3504008,0,1,0,7
+2020-04-24,Brazil,SP,Atibaia/SP,3504107,0,1,0,22
+2020-04-24,Brazil,PA,Augusto Corrêa/PA,1500909,0,0,0,2
+2020-04-24,Brazil,BA,Aurelino Leal/BA,2902401,0,0,0,1
+2020-04-24,Brazil,SC,Aurora/SC,4201901,0,0,0,1
+2020-04-24,Brazil,AM,Autazes/AM,1300300,0,0,0,3
+2020-04-24,Brazil,SP,Avaré/SP,3504503,0,1,0,8
+2020-04-24,Brazil,SP,Avaí/SP,3504305,0,0,0,1
+2020-04-24,Brazil,MA,Açailândia/MA,2100055,0,0,0,12
+2020-04-24,Brazil,RN,Açu/RN,2400208,0,1,0,24
+2020-04-24,Brazil,MA,Bacabal/MA,2101202,0,0,0,8
+2020-04-24,Brazil,MA,Bacabeira/MA,2101251,0,0,0,1
+2020-04-24,Brazil,SP,Bady Bassitt/SP,3504602,0,0,0,2
+2020-04-24,Brazil,RS,Bagé/RS,4301602,0,0,0,29
+2020-04-24,Brazil,SC,Balneário Arroio do Silva/SC,4201950,0,1,0,4
+2020-04-24,Brazil,SC,Balneário Camboriú/SC,4202008,0,2,0,63
+2020-04-24,Brazil,SC,Balneário Gaivota/SC,4202073,0,1,0,2
+2020-04-24,Brazil,SC,Balneário Piçarras/SC,4212809,0,0,0,3
+2020-04-24,Brazil,PR,Balsa Nova/PR,4102307,0,0,0,5
+2020-04-24,Brazil,MA,Balsas/MA,2101400,0,0,0,4
+2020-04-24,Brazil,CE,Banabuiú/CE,2301851,0,0,0,2
+2020-04-24,Brazil,PR,Bandeirantes/PR,4102406,0,1,0,3
+2020-04-24,Brazil,RN,Baraúna/RN,2401453,0,0,0,0
+2020-04-24,Brazil,MG,Barbacena/MG,3105608,0,0,0,4
+2020-04-24,Brazil,CE,Barbalha/CE,2301901,0,0,0,2
+2020-04-24,Brazil,PA,Barcarena/PA,1501303,0,0,0,6
+2020-04-24,Brazil,RN,Barcelona/RN,2401503,0,0,0,1
+2020-04-24,Brazil,AM,Barcelos/AM,1300409,0,1,0,1
+2020-04-24,Brazil,SP,Bariri/SP,3505203,0,0,0,1
+2020-04-24,Brazil,RJ,Barra Mansa/RJ,3300407,0,1,0,17
+2020-04-24,Brazil,SC,Barra Velha/SC,4202107,0,0,0,1
+2020-04-24,Brazil,AL,Barra de Santo Antônio/AL,2700508,0,0,0,1
+2020-04-24,Brazil,PB,Barra de São Miguel/PB,2501708,0,0,0,1
+2020-04-24,Brazil,BA,Barra do Choça/BA,2902906,0,0,0,1
+2020-04-24,Brazil,MT,Barra do Garças/MT,5101803,0,1,0,3
+2020-04-24,Brazil,RJ,Barra do Piraí/RJ,3300308,0,3,0,14
+2020-04-24,Brazil,BA,Barra do Rocha/BA,2903102,0,0,0,3
+2020-04-24,Brazil,SP,Barra do Turvo/SP,3505401,0,0,0,1
+2020-04-24,Brazil,BA,Barra/BA,2902708,0,0,0,2
+2020-04-24,Brazil,CE,Barreira/CE,2301950,0,0,0,1
+2020-04-24,Brazil,BA,Barreiras/BA,2903201,0,0,0,1
+2020-04-24,Brazil,MA,Barreirinhas/MA,2101707,0,0,0,1
+2020-04-24,Brazil,SP,Barretos/SP,3505500,0,2,0,15
+2020-04-24,Brazil,SP,Barrinha/SP,3505609,0,1,0,1
+2020-04-24,Brazil,GO,Barro Alto/GO,5203203,0,0,0,1
+2020-04-24,Brazil,BA,Barro Preto/BA,2903300,0,0,0,1
+2020-04-24,Brazil,CE,Barroquinha/CE,2302057,0,0,0,2
+2020-04-24,Brazil,SP,Barueri/SP,3505708,0,6,0,162
+2020-04-24,Brazil,MS,Bataguassu/MS,5001904,0,0,0,2
+2020-04-24,Brazil,SP,Batatais/SP,3505906,0,0,0,1
+2020-04-24,Brazil,MS,Batayporã/MS,5002001,0,2,0,6
+2020-04-24,Brazil,CE,Baturité/CE,2302107,0,0,0,4
+2020-04-24,Brazil,SP,Bauru/SP,3506003,0,5,0,61
+2020-04-24,Brazil,PB,Bayeux/PB,2501807,0,1,0,10
+2020-04-24,Brazil,RN,Baía Formosa/RN,2401404,0,0,0,1
+2020-04-24,Brazil,SP,Bebedouro/SP,3506102,0,0,0,2
+2020-04-24,Brazil,CE,Beberibe/CE,2302206,0,0,0,6
+2020-04-24,Brazil,CE,Bela Cruz/CE,2302305,0,0,0,5
+2020-04-24,Brazil,GO,Bela Vista de Goiás/GO,5203302,0,0,0,1
+2020-04-24,Brazil,RJ,Belford Roxo/RJ,3300456,0,7,0,104
+2020-04-24,Brazil,MG,Belmiro Braga/MG,3106101,0,1,0,1
+2020-04-24,Brazil,BA,Belmonte/BA,2903409,0,1,0,2
+2020-04-24,Brazil,MG,Belo Horizonte/MG,3106200,0,9,0,491
+2020-04-24,Brazil,PE,Belo Jardim/PE,2601706,0,0,0,4
+2020-04-24,Brazil,PA,Belém/PA,1501402,0,33,0,804
+2020-04-24,Brazil,PA,Benevides/PA,1501501,0,0,0,9
+2020-04-24,Brazil,AM,Benjamin Constant/AM,1300607,0,0,0,13
+2020-04-24,Brazil,RN,Bento Fernandes/RN,2401602,0,0,0,2
+2020-04-24,Brazil,RS,Bento Gonçalves/RS,4302105,0,0,0,14
+2020-04-24,Brazil,AM,Beruri/AM,1300631,0,1,0,1
+2020-04-24,Brazil,MG,Betim/MG,3106705,0,0,0,10
+2020-04-24,Brazil,PI,Betânia do Piauí/PI,2201739,0,0,0,1
+2020-04-24,Brazil,PE,Bezerros/PE,2601904,0,0,0,1
+2020-04-24,Brazil,SC,Biguaçu/SC,4202305,0,0,0,2
+2020-04-24,Brazil,SP,Bilac/SP,3506409,0,0,0,1
+2020-04-24,Brazil,SP,Birigui/SP,3506508,0,0,0,8
+2020-04-24,Brazil,SP,Biritiba-Mirim/SP,3506607,0,0,0,1
+2020-04-24,Brazil,SC,Blumenau/SC,4202404,0,0,0,86
+2020-04-24,Brazil,ES,Boa Esperança/ES,3201001,0,0,0,1
+2020-04-24,Brazil,MG,Boa Esperança/MG,3107109,0,0,0,8
+2020-04-24,Brazil,PR,Boa Vista da Aparecida/PR,4103057,0,0,0,1
+2020-04-24,Brazil,RR,Boa Vista/RR,1400100,0,2,0,262
+2020-04-24,Brazil,AL,Boca da Mata/AL,2701001,0,0,0,1
+2020-04-24,Brazil,AM,Boca do Acre/AM,1300706,0,0,0,1
+2020-04-24,Brazil,SP,Boituva/SP,3507001,0,0,0,7
+2020-04-24,Brazil,PE,Bom Conselho/PE,2602100,0,1,0,2
+2020-04-24,Brazil,MG,Bom Despacho/MG,3107406,0,0,0,1
+2020-04-24,Brazil,PE,Bom Jardim/PE,2602209,0,1,0,5
+2020-04-24,Brazil,RJ,Bom Jardim/RJ,3300506,0,1,0,4
+2020-04-24,Brazil,GO,Bom Jesus de Goiás/GO,5203500,0,0,0,1
+2020-04-24,Brazil,RJ,Bom Jesus do Itabapoana/RJ,3300605,0,1,0,6
+2020-04-24,Brazil,ES,Bom Jesus do Norte/ES,3201100,0,0,0,5
+2020-04-24,Brazil,PB,Bom Jesus/PB,2502201,0,0,0,1
+2020-04-24,Brazil,PI,Bom Princípio do Piauí/PI,2201919,0,1,0,1
+2020-04-24,Brazil,RS,Bom Retiro do Sul/RS,4302402,0,0,0,3
+2020-04-24,Brazil,PI,Bonfim do Piauí/PI,2201929,0,0,0,1
+2020-04-24,Brazil,MG,Bonfim/MG,3108107,0,1,0,1
+2020-04-24,Brazil,RR,Bonfim/RR,1400159,0,0,0,4
+2020-04-24,Brazil,PE,Bonito/PE,2602308,0,1,0,2
+2020-04-24,Brazil,MG,Borda da Mata/MG,3108305,0,0,0,2
+2020-04-24,Brazil,MG,Botelhos/MG,3108404,0,0,0,1
+2020-04-24,Brazil,SP,Botucatu/SP,3507506,0,2,0,28
+2020-04-24,Brazil,SC,Botuverá/SC,4202701,0,0,0,3
+2020-04-24,Brazil,SP,Bragança Paulista/SP,3507605,0,7,0,36
+2020-04-24,Brazil,PA,Bragança/PA,1501709,0,0,0,7
+2020-04-24,Brazil,MG,Brasília de Minas/MG,3108602,0,0,0,2
+2020-04-24,Brazil,DF,Brasília/DF,5300108,0,26,117,1085
+2020-04-24,Brazil,SC,Braço do Norte/SC,4202800,0,2,0,28
+2020-04-24,Brazil,ES,Brejetuba/ES,3201159,0,0,0,1
+2020-04-24,Brazil,PA,Breves/PA,1501808,0,1,0,4
+2020-04-24,Brazil,SP,Brodowski/SP,3507803,0,0,0,4
+2020-04-24,Brazil,BA,Brumado/BA,2904605,0,0,0,8
+2020-04-24,Brazil,SC,Brusque/SC,4202909,0,0,0,37
+2020-04-24,Brazil,BA,Buerarema/BA,2904704,0,0,0,5
+2020-04-24,Brazil,AC,Bujari/AC,1200138,0,0,0,1
+2020-04-24,Brazil,PA,Bujaru/PA,1501907,0,0,0,3
+2020-04-24,Brazil,SP,Buritama/SP,3508108,0,0,0,3
+2020-04-24,Brazil,RO,Buritis/RO,1100452,0,0,0,1
+2020-04-24,Brazil,AC,CASO SEM LOCALIZAÇÃO DEFINIDA/AC,12,1,1,7,7
+2020-04-24,Brazil,AL,CASO SEM LOCALIZAÇÃO DEFINIDA/AL,27,5,7,89,97
+2020-04-24,Brazil,AM,CASO SEM LOCALIZAÇÃO DEFINIDA/AM,13,21,21,306,306
+2020-04-24,Brazil,AP,CASO SEM LOCALIZAÇÃO DEFINIDA/AP,16,2,2,78,78
+2020-04-24,Brazil,BA,CASO SEM LOCALIZAÇÃO DEFINIDA/BA,29,2,3,117,131
+2020-04-24,Brazil,CE,CASO SEM LOCALIZAÇÃO DEFINIDA/CE,23,13,14,98,124
+2020-04-24,Brazil,ES,CASO SEM LOCALIZAÇÃO DEFINIDA/ES,32,0,1,0,75
+2020-04-24,Brazil,GO,CASO SEM LOCALIZAÇÃO DEFINIDA/GO,52,1,1,33,34
+2020-04-24,Brazil,MG,CASO SEM LOCALIZAÇÃO DEFINIDA/MG,31,3,3,109,122
+2020-04-24,Brazil,MS,CASO SEM LOCALIZAÇÃO DEFINIDA/MS,50,0,0,27,27
+2020-04-24,Brazil,MT,CASO SEM LOCALIZAÇÃO DEFINIDA/MT,51,1,1,19,23
+2020-04-24,Brazil,PA,CASO SEM LOCALIZAÇÃO DEFINIDA/PA,15,22,22,179,179
+2020-04-24,Brazil,PE,CASO SEM LOCALIZAÇÃO DEFINIDA/PE,26,40,41,394,406
+2020-04-24,Brazil,PR,CASO SEM LOCALIZAÇÃO DEFINIDA/PR,41,2,4,23,37
+2020-04-24,Brazil,RJ,CASO SEM LOCALIZAÇÃO DEFINIDA/RJ,33,40,41,110,111
+2020-04-24,Brazil,RN,CASO SEM LOCALIZAÇÃO DEFINIDA/RN,24,4,4,46,51
+2020-04-24,Brazil,RO,CASO SEM LOCALIZAÇÃO DEFINIDA/RO,11,0,0,39,39
+2020-04-24,Brazil,RR,CASO SEM LOCALIZAÇÃO DEFINIDA/RR,14,0,0,7,7
+2020-04-24,Brazil,RS,CASO SEM LOCALIZAÇÃO DEFINIDA/RS,43,2,2,22,22
+2020-04-24,Brazil,SC,CASO SEM LOCALIZAÇÃO DEFINIDA/SC,42,0,0,0,15
+2020-04-24,Brazil,SE,CASO SEM LOCALIZAÇÃO DEFINIDA/SE,28,0,1,20,26
+2020-04-24,Brazil,SP,CASO SEM LOCALIZAÇÃO DEFINIDA/SP,35,167,167,1086,1149
+2020-04-24,Brazil,PB,Cabedelo/PB,2503209,0,2,0,15
+2020-04-24,Brazil,RJ,Cabo Frio/RJ,3300704,0,2,0,23
+2020-04-24,Brazil,PE,Cabo de Santo Agostinho/PE,2602902,0,12,0,43
+2020-04-24,Brazil,SP,Cabreúva/SP,3508405,0,0,0,1
+2020-04-24,Brazil,MA,Cachoeira Grande/MA,2102374,0,0,0,2
+2020-04-24,Brazil,SP,Cachoeira Paulista/SP,3508603,0,0,0,3
+2020-04-24,Brazil,PA,Cachoeira do Arari/PA,1502004,0,0,0,3
+2020-04-24,Brazil,RS,Cachoeira do Sul/RS,4303004,0,0,0,2
+2020-04-24,Brazil,BA,Cachoeira/BA,2904902,0,0,0,1
+2020-04-24,Brazil,RJ,Cachoeiras de Macacu/RJ,3300803,0,1,0,7
+2020-04-24,Brazil,PE,Cachoeirinha/PE,2603108,0,0,0,8
+2020-04-24,Brazil,RS,Cachoeirinha/RS,4303103,0,0,0,9
+2020-04-24,Brazil,ES,Cachoeiro de Itapemirim/ES,3201209,0,0,0,8
+2020-04-24,Brazil,MG,Caeté/MG,3110004,0,0,0,1
+2020-04-24,Brazil,PE,Caetés/PE,2603207,0,0,0,1
+2020-04-24,Brazil,SP,Caiabu/SP,3508900,0,1,0,1
+2020-04-24,Brazil,RN,Caicó/RN,2402006,0,0,0,1
+2020-04-24,Brazil,SP,Caieiras/SP,3509007,0,7,0,52
+2020-04-24,Brazil,SP,Cajamar/SP,3509205,0,2,0,15
+2020-04-24,Brazil,MA,Cajapió/MA,2102408,0,0,0,1
+2020-04-24,Brazil,SP,Cajati/SP,3509254,0,0,0,1
+2020-04-24,Brazil,PB,Cajazeiras/PB,2503704,0,1,0,4
+2020-04-24,Brazil,SP,Cajuru/SP,3509403,0,0,0,2
+2020-04-24,Brazil,GO,Caldas Novas/GO,5204508,0,0,0,1
+2020-04-24,Brazil,BA,Camacan/BA,2905602,0,0,0,1
+2020-04-24,Brazil,MG,Camanducaia/MG,3110509,0,0,0,2
+2020-04-24,Brazil,RS,Camaquã/RS,4303509,0,0,0,0
+2020-04-24,Brazil,PE,Camaragibe/PE,2603454,0,14,0,124
+2020-04-24,Brazil,BA,Camaçari/BA,2905701,0,0,0,34
+2020-04-24,Brazil,SC,Camboriú/SC,4203204,0,3,0,62
+2020-04-24,Brazil,MG,Cambuquira/MG,3110707,0,0,0,2
+2020-04-24,Brazil,MG,Cambuí/MG,3110608,0,0,0,7
+2020-04-24,Brazil,PR,Cambé/PR,4103701,0,0,0,4
+2020-04-24,Brazil,PA,Cametá/PA,1502103,0,1,0,2
+2020-04-24,Brazil,PE,Camocim de São Félix/PE,2603504,0,0,0,1
+2020-04-24,Brazil,CE,Camocim/CE,2302602,0,0,0,1
+2020-04-24,Brazil,GO,Campestre de Goiás/GO,5204607,0,0,0,1
+2020-04-24,Brazil,PR,Campina Grande do Sul/PR,4104006,0,0,0,5
+2020-04-24,Brazil,PB,Campina Grande/PB,2504009,0,2,0,30
+2020-04-24,Brazil,PR,Campina da Lagoa/PR,4103909,0,1,0,1
+2020-04-24,Brazil,RS,Campinas do Sul/RS,4303806,0,0,0,1
+2020-04-24,Brazil,SP,Campinas/SP,3509502,0,9,0,211
+2020-04-24,Brazil,BA,Campo Alegre de Lourdes/BA,2905909,0,0,0,1
+2020-04-24,Brazil,MG,Campo Belo/MG,3111200,0,0,0,3
+2020-04-24,Brazil,RS,Campo Bom/RS,4303905,0,0,0,4
+2020-04-24,Brazil,BA,Campo Formoso/BA,2906006,0,0,0,1
+2020-04-24,Brazil,MS,Campo Grande/MS,5002704,0,2,0,96
+2020-04-24,Brazil,PR,Campo Largo/PR,4104204,0,2,0,17
+2020-04-24,Brazil,SP,Campo Limpo Paulista/SP,3509601,0,1,0,8
+2020-04-24,Brazil,PR,Campo Magro/PR,4104253,0,0,0,1
+2020-04-24,Brazil,PI,Campo Maior/PI,2202208,0,0,0,4
+2020-04-24,Brazil,PR,Campo Mourão/PR,4104303,0,4,0,26
+2020-04-24,Brazil,MT,Campo Novo do Parecis/MT,5102637,0,0,0,1
+2020-04-24,Brazil,RN,Campo Redondo/RN,2402105,0,0,0,1
+2020-04-24,Brazil,MG,Campos Altos/MG,3111507,0,0,0,1
+2020-04-24,Brazil,MG,Campos Gerais/MG,3111606,0,0,0,1
+2020-04-24,Brazil,SP,Campos do Jordão/SP,3509700,0,0,0,1
+2020-04-24,Brazil,RJ,Campos dos Goytacazes/RJ,3301009,0,1,0,8
+2020-04-24,Brazil,SP,Cananéia/SP,3509908,0,0,0,2
+2020-04-24,Brazil,BA,Canarana/BA,2906204,0,0,0,2
+2020-04-24,Brazil,MT,Canarana/MT,5102702,0,0,0,1
+2020-04-24,Brazil,BA,Canavieiras/BA,2906303,0,0,0,5
+2020-04-24,Brazil,PA,Canaã dos Carajás/PA,1502152,0,1,0,2
+2020-04-24,Brazil,BA,Candeias/BA,2906501,0,0,0,2
+2020-04-24,Brazil,RS,Candelária/RS,4304200,0,0,0,1
+2020-04-24,Brazil,SC,Canelinha/SC,4203709,0,0,0,1
+2020-04-24,Brazil,RN,Canguaretama/RN,2402204,0,3,0,11
+2020-04-24,Brazil,RS,Canguçu/RS,4304507,0,0,0,2
+2020-04-24,Brazil,CE,Canindé/CE,2302800,0,0,0,10
+2020-04-24,Brazil,RS,Canoas/RS,4304606,0,1,0,19
+2020-04-24,Brazil,BA,Cansanção/BA,2906808,0,0,0,1
+2020-04-24,Brazil,RJ,Cantagalo/RJ,3301108,0,0,0,1
+2020-04-24,Brazil,MA,Cantanhede/MA,2102705,0,0,0,1
+2020-04-24,Brazil,RR,Cantá/RR,1400175,0,0,0,4
+2020-04-24,Brazil,AM,Canutama/AM,1300904,0,0,0,1
+2020-04-24,Brazil,PA,Capanema/PA,1502202,0,0,0,9
+2020-04-24,Brazil,SP,Capela do Alto/SP,3510302,0,0,0,1
+2020-04-24,Brazil,AL,Capela/AL,2701704,0,0,0,1
+2020-04-24,Brazil,SE,Capela/SE,2801306,0,0,0,1
+2020-04-24,Brazil,BA,Capim Grosso/BA,2906873,0,1,0,2
+2020-04-24,Brazil,CE,Capistrano/CE,2302909,0,1,0,2
+2020-04-24,Brazil,PA,Capitão Poço/PA,1502301,0,0,0,1
+2020-04-24,Brazil,MG,Capitólio/MG,3112802,0,0,0,1
+2020-04-24,Brazil,SC,Capivari de Baixo/SC,4203956,0,0,0,2
+2020-04-24,Brazil,PE,Capoeiras/PE,2603801,0,0,0,1
+2020-04-24,Brazil,SP,Capão Bonito/SP,3510203,0,0,0,1
+2020-04-24,Brazil,RS,Capão da Canoa/RS,4304630,0,0,0,6
+2020-04-24,Brazil,RS,Capão do Leão/RS,4304663,0,0,0,1
+2020-04-24,Brazil,PI,Caracol/PI,2202505,0,0,0,1
+2020-04-24,Brazil,SP,Caraguatatuba/SP,3510500,0,2,0,14
+2020-04-24,Brazil,MG,Carangola/MG,3113305,0,0,0,1
+2020-04-24,Brazil,RJ,Carapebus/RJ,3300936,0,0,0,1
+2020-04-24,Brazil,SP,Carapicuíba/SP,3510609,0,6,0,111
+2020-04-24,Brazil,AM,Carauari/AM,1301001,0,1,0,1
+2020-04-24,Brazil,RS,Carazinho/RS,4304705,0,0,0,2
+2020-04-24,Brazil,RN,Caraúbas/RN,2402303,0,0,0,1
+2020-04-24,Brazil,AM,Careiro da Várzea/AM,1301159,0,0,0,3
+2020-04-24,Brazil,AM,Careiro/AM,1301100,0,2,0,16
+2020-04-24,Brazil,ES,Cariacica/ES,3201308,0,4,0,139
+2020-04-24,Brazil,CE,Caridade/CE,2303006,0,0,0,5
+2020-04-24,Brazil,TO,Cariri do Tocantins/TO,1703867,0,0,0,1
+2020-04-24,Brazil,CE,Cariús/CE,2303303,0,1,0,1
+2020-04-24,Brazil,RS,Carlos Barbosa/RS,4304804,0,0,0,6
+2020-04-24,Brazil,MG,Carlos Chagas/MG,3113701,0,0,0,1
+2020-04-24,Brazil,MG,Carmo da Cachoeira/MG,3113909,0,0,0,1
+2020-04-24,Brazil,MG,Carmo do Cajuru/MG,3114204,0,0,0,2
+2020-04-24,Brazil,GO,Carmo do Rio Verde/GO,5205000,0,0,0,1
+2020-04-24,Brazil,RN,Carnaubais/RN,2402501,0,0,0,1
+2020-04-24,Brazil,CE,Carnaubal/CE,2303402,0,0,0,1
+2020-04-24,Brazil,PE,Carnaíba/PE,2603900,0,1,0,1
+2020-04-24,Brazil,RN,Carnaúba dos Dantas/RN,2402402,0,0,0,1
+2020-04-24,Brazil,RR,Caroebe/RR,1400233,0,0,0,1
+2020-04-24,Brazil,PE,Carpina/PE,2604007,0,0,0,5
+2020-04-24,Brazil,PE,Caruaru/PE,2604106,0,2,0,16
+2020-04-24,Brazil,CE,Cascavel/CE,2303501,0,1,0,10
+2020-04-24,Brazil,PR,Cascavel/PR,4104808,0,3,0,66
+2020-04-24,Brazil,RJ,Casimiro de Abreu/RJ,3301306,0,0,0,13
+2020-04-24,Brazil,PA,Castanhal/PA,1502400,0,0,0,30
+2020-04-24,Brazil,PI,Castelo do Piauí/PI,2202604,0,0,0,1
+2020-04-24,Brazil,ES,Castelo/ES,3201407,0,0,0,4
+2020-04-24,Brazil,SP,Castilho/SP,3511003,0,0,0,2
+2020-04-24,Brazil,BA,Castro Alves/BA,2907301,0,0,0,1
+2020-04-24,Brazil,PR,Castro/PR,4104907,0,0,0,2
+2020-04-24,Brazil,MG,Cataguases/MG,3115300,0,0,0,2
+2020-04-24,Brazil,GO,Catalão/GO,5205109,0,0,0,1
+2020-04-24,Brazil,SP,Catanduva/SP,3511102,0,3,0,10
+2020-04-24,Brazil,SC,Catanduvas/SC,4204004,0,0,0,3
+2020-04-24,Brazil,CE,Catarina/CE,2303600,0,0,0,1
+2020-04-24,Brazil,PE,Catende/PE,2604205,0,1,0,2
+2020-04-24,Brazil,BA,Catu/BA,2907509,0,0,0,4
+2020-04-24,Brazil,CE,Caucaia/CE,2303709,0,8,0,162
+2020-04-24,Brazil,RS,Caxias do Sul/RS,4305108,0,0,0,46
+2020-04-24,Brazil,MA,Caxias/MA,2103000,0,0,0,7
+2020-04-24,Brazil,SC,Caçador/SC,4203006,0,0,0,5
+2020-04-24,Brazil,SP,Caçapava/SP,3508504,0,0,0,10
+2020-04-24,Brazil,RN,Ceará-Mirim/RN,2402600,0,1,0,9
+2020-04-24,Brazil,SP,Cedral/SP,3511300,0,0,0,1
+2020-04-24,Brazil,MG,Centralina/MG,3115805,0,1,0,2
+2020-04-24,Brazil,GO,Ceres/GO,5205406,0,0,0,3
+2020-04-24,Brazil,RN,Cerro Corá/RN,2402709,0,1,0,1
+2020-04-24,Brazil,RS,Cerro Grande do Sul/RS,4305173,0,0,0,1
+2020-04-24,Brazil,MT,Chapada dos Guimarães/MT,5103007,0,0,0,0
+2020-04-24,Brazil,RS,Chapada/RS,4305306,0,0,0,2
+2020-04-24,Brazil,MA,Chapadinha/MA,2103208,0,0,0,9
+2020-04-24,Brazil,MS,Chapadão do Sul/MS,5002951,0,0,0,9
+2020-04-24,Brazil,SC,Chapecó/SC,4204202,0,0,0,6
+2020-04-24,Brazil,RS,Charqueadas/RS,4305355,0,0,0,2
+2020-04-24,Brazil,SP,Chavantes/SP,3557204,0,0,0,1
+2020-04-24,Brazil,PR,Chopinzinho/PR,4105409,0,0,0,1
+2020-04-24,Brazil,CE,Chorozinho/CE,2303956,0,0,0,3
+2020-04-24,Brazil,PE,Chã Grande/PE,2604502,0,0,0,9
+2020-04-24,Brazil,PE,Chã de Alegria/PE,2604403,0,0,0,4
+2020-04-24,Brazil,PR,Cianorte/PR,4105508,0,1,0,15
+2020-04-24,Brazil,GO,Cidade Ocidental/GO,5205497,0,0,0,4
+2020-04-24,Brazil,RS,Cidreira/RS,4305454,0,1,0,2
+2020-04-24,Brazil,BA,Coaraci/BA,2908002,0,0,0,7
+2020-04-24,Brazil,AM,Coari/AM,1301209,0,0,0,2
+2020-04-24,Brazil,SC,Cocal do Sul/SC,4204251,0,1,0,1
+2020-04-24,Brazil,MA,Codó/MA,2103307,0,0,0,1
+2020-04-24,Brazil,PA,Colares/PA,1502608,0,0,0,1
+2020-04-24,Brazil,ES,Colatina/ES,3201506,0,0,0,19
+2020-04-24,Brazil,MA,Colinas/MA,2103505,0,0,0,2
+2020-04-24,Brazil,PR,Colombo/PR,4105805,0,0,0,9
+2020-04-24,Brazil,PI,Colônia do Gurguéia/PI,2202752,0,0,0,1
+2020-04-24,Brazil,MG,Conceição das Alagoas/MG,3117306,0,0,0,2
+2020-04-24,Brazil,RJ,Conceição de Macabu/RJ,3301405,0,0,0,2
+2020-04-24,Brazil,PA,Conceição do Araguaia/PA,1502707,0,0,0,1
+2020-04-24,Brazil,BA,Conceição do Coité/BA,2908408,0,0,0,2
+2020-04-24,Brazil,BA,Conceição do Jacuípe/BA,2908507,0,0,0,1
+2020-04-24,Brazil,SP,Conchas/SP,3512308,0,1,0,1
+2020-04-24,Brazil,PA,Concórdia do Pará/PA,1502756,0,0,0,1
+2020-04-24,Brazil,SC,Concórdia/SC,4204301,0,0,0,9
+2020-04-24,Brazil,PE,Condado/PE,2604601,0,0,0,1
+2020-04-24,Brazil,BA,Conde/BA,2908606,0,0,0,1
+2020-04-24,Brazil,PB,Conde/PB,2504603,0,0,0,1
+2020-04-24,Brazil,MT,Confresa/MT,5103353,0,0,0,1
+2020-04-24,Brazil,PB,Congo/PB,2504702,0,0,0,1
+2020-04-24,Brazil,MT,Conquista D'Oeste/MT,5103361,0,0,0,1
+2020-04-24,Brazil,MG,Conselheiro Lafaiete/MG,3118304,0,0,0,12
+2020-04-24,Brazil,MG,Contagem/MG,3118601,0,1,0,43
+2020-04-24,Brazil,PR,Contenda/PR,4106209,0,0,0,1
+2020-04-24,Brazil,BA,Coração de Maria/BA,2908903,0,0,0,1
+2020-04-24,Brazil,CE,Coreaú/CE,2304004,0,0,0,2
+2020-04-24,Brazil,PB,Coremas/PB,2504801,0,0,0,1
+2020-04-24,Brazil,PR,Cornélio Procópio/PR,4106407,0,0,0,1
+2020-04-24,Brazil,MG,Coromandel/MG,3119302,0,0,0,2
+2020-04-24,Brazil,MG,Coronel Fabriciano/MG,3119401,0,0,0,6
+2020-04-24,Brazil,RN,Coronel João Pessoa/RN,2402907,0,0,0,1
+2020-04-24,Brazil,MS,Corumbá/MS,5003207,0,0,0,2
+2020-04-24,Brazil,SP,Cotia/SP,3513009,0,5,0,95
+2020-04-24,Brazil,MS,Coxim/MS,5003306,0,0,0,1
+2020-04-24,Brazil,CE,Crateús/CE,2304103,0,0,0,9
+2020-04-24,Brazil,CE,Crato/CE,2304202,0,0,0,4
+2020-04-24,Brazil,SP,Cravinhos/SP,3513108,0,1,0,7
+2020-04-24,Brazil,BA,Cravolândia/BA,2909505,0,0,0,2
+2020-04-24,Brazil,SC,Criciúma/SC,4204608,0,4,0,47
+2020-04-24,Brazil,CE,Croatá/CE,2304236,0,0,0,1
+2020-04-24,Brazil,PB,Cruz do Espírito Santo/PB,2504900,0,0,0,1
+2020-04-24,Brazil,AC,Cruzeiro do Sul/AC,1200203,0,0,0,5
+2020-04-24,Brazil,PR,Cruzeiro do Sul/PR,4106704,0,0,0,1
+2020-04-24,Brazil,RS,Cruzeiro do Sul/RS,4306205,0,0,0,3
+2020-04-24,Brazil,SP,Cruzeiro/SP,3513405,0,1,0,3
+2020-04-24,Brazil,SP,Cubatão/SP,3513504,0,0,0,26
+2020-04-24,Brazil,MT,Cuiabá/MT,5103403,0,1,0,108
+2020-04-24,Brazil,PE,Cupira/PE,2605004,0,0,0,1
+2020-04-24,Brazil,BA,Curaçá/BA,2909901,0,0,0,6
+2020-04-24,Brazil,PA,Curionópolis/PA,1502772,0,1,0,1
+2020-04-24,Brazil,PR,Curitiba/PR,4106902,0,14,0,389
+2020-04-24,Brazil,RN,Currais Novos/RN,2403103,0,0,0,2
+2020-04-24,Brazil,PA,Curralinho/PA,1502806,0,0,0,0
+2020-04-24,Brazil,MA,Cururupu/MA,2103703,0,1,0,1
+2020-04-24,Brazil,PA,Curuçá/PA,1502905,0,0,0,1
+2020-04-24,Brazil,MG,Curvelo/MG,3120904,0,0,0,0
+2020-04-24,Brazil,PE,Custódia/PE,2605103,0,1,0,1
+2020-04-24,Brazil,MT,Cáceres/MT,5102504,0,1,0,4
+2020-04-24,Brazil,MA,Davinópolis/MA,2103752,0,0,0,1
+2020-04-24,Brazil,PI,Demerval Lobão/PI,2203305,0,0,0,1
+2020-04-24,Brazil,SP,Diadema/SP,3513801,0,5,0,151
+2020-04-24,Brazil,TO,Dianópolis/TO,1707009,0,0,0,1
+2020-04-24,Brazil,BA,Dias d'Ávila/BA,2910057,0,0,0,4
+2020-04-24,Brazil,MG,Divinésia/MG,3121902,0,0,0,1
+2020-04-24,Brazil,MG,Divinópolis/MG,3122306,0,1,0,41
+2020-04-24,Brazil,RS,Dois Irmãos/RS,4306403,0,0,0,3
+2020-04-24,Brazil,PR,Dois Vizinhos/PR,4107207,0,0,0,1
+2020-04-24,Brazil,RS,Dom Pedrito/RS,4306601,0,0,0,1
+2020-04-24,Brazil,ES,Domingos Martins/ES,3201902,0,0,0,3
+2020-04-24,Brazil,MS,Dourados/MS,5003702,0,0,0,11
+2020-04-24,Brazil,SP,Dracena/SP,3514403,0,2,0,3
+2020-04-24,Brazil,SP,Duartina/SP,3514502,0,0,0,1
+2020-04-24,Brazil,RJ,Duque de Caxias/RJ,3301702,0,40,0,243
+2020-04-24,Brazil,RS,Eldorado do Sul/RS,4306767,0,0,0,1
+2020-04-24,Brazil,SP,Eldorado/SP,3514809,0,1,0,1
+2020-04-24,Brazil,SP,Elias Fausto/SP,3514908,0,0,0,1
+2020-04-24,Brazil,SP,Embu das Artes/SP,3515004,0,5,0,64
+2020-04-24,Brazil,SP,Embu-Guaçu/SP,3515103,0,3,0,10
+2020-04-24,Brazil,RS,Encantado/RS,4306809,0,0,0,4
+2020-04-24,Brazil,RN,Encanto/RN,2403301,0,1,0,4
+2020-04-24,Brazil,RS,Encruzilhada do Sul/RS,4306908,0,1,0,2
+2020-04-24,Brazil,RS,Erechim/RS,4307005,0,0,0,4
+2020-04-24,Brazil,CE,Ererê/CE,2304277,0,0,0,1
+2020-04-24,Brazil,RS,Ernestina/RS,4307054,0,0,0,1
+2020-04-24,Brazil,PE,Escada/PE,2605202,0,0,0,4
+2020-04-24,Brazil,MG,Esmeraldas/MG,3124104,0,0,0,1
+2020-04-24,Brazil,MG,Espera Feliz/MG,3124203,0,0,0,4
+2020-04-24,Brazil,PI,Esperantina/PI,2203701,0,0,0,4
+2020-04-24,Brazil,MG,Espinosa/MG,3124302,0,1,0,1
+2020-04-24,Brazil,RS,Espumoso/RS,4307500,0,0,0,2
+2020-04-24,Brazil,MG,Espírito Santo do Dourado/MG,3124401,0,0,0,1
+2020-04-24,Brazil,SP,Espírito Santo do Pinhal/SP,3515186,0,0,0,1
+2020-04-24,Brazil,RS,Esteio/RS,4307708,0,0,0,5
+2020-04-24,Brazil,SP,Estiva Gerbi/SP,3557303,0,0,0,1
+2020-04-24,Brazil,RS,Estrela/RS,4307807,0,0,0,4
+2020-04-24,Brazil,RS,Estância Velha/RS,4307609,0,0,0,3
+2020-04-24,Brazil,SE,Estância/SE,2802106,0,0,0,12
+2020-04-24,Brazil,BA,Euclides da Cunha/BA,2910701,0,0,0,1
+2020-04-24,Brazil,BA,Eunápolis/BA,2910727,0,0,0,16
+2020-04-24,Brazil,CE,Eusébio/CE,2304285,0,6,0,44
+2020-04-24,Brazil,MG,Extrema/MG,3125101,0,1,0,20
+2020-04-24,Brazil,RN,Extremoz/RN,2403608,0,0,0,8
+2020-04-24,Brazil,GO,Faina/GO,5207535,0,0,0,1
+2020-04-24,Brazil,CE,Farias Brito/CE,2304301,0,1,0,1
+2020-04-24,Brazil,RS,Farroupilha/RS,4307906,0,0,0,7
+2020-04-24,Brazil,SP,Fartura/SP,3515400,0,0,0,1
+2020-04-24,Brazil,PR,Faxinal/PR,4107603,0,0,0,1
+2020-04-24,Brazil,PR,Fazenda Rio Grande/PR,4107652,0,0,0,7
+2020-04-24,Brazil,PE,Feira Nova/PE,2605400,0,0,0,2
+2020-04-24,Brazil,BA,Feira de Santana/BA,2910800,0,1,0,63
+2020-04-24,Brazil,RN,Fernando Pedroza/RN,2403756,0,0,0,1
+2020-04-24,Brazil,PE,Fernando de Noronha/PE,2605459,0,0,0,28
+2020-04-24,Brazil,SP,Fernandópolis/SP,3515509,0,0,0,4
+2020-04-24,Brazil,SP,Ferraz de Vasconcelos/SP,3515707,0,3,0,60
+2020-04-24,Brazil,PE,Ferreiros/PE,2605509,0,0,0,1
+2020-04-24,Brazil,MG,Ferros/MG,3125903,0,0,0,5
+2020-04-24,Brazil,RS,Flores da Cunha/RS,4308201,0,0,0,1
+2020-04-24,Brazil,BA,Floresta Azul/BA,2911006,0,0,0,2
+2020-04-24,Brazil,PR,Floresta/PR,4107900,0,0,0,2
+2020-04-24,Brazil,PI,Floriano/PI,2203909,0,0,0,4
+2020-04-24,Brazil,SC,Florianópolis/SC,4205407,0,4,0,249
+2020-04-24,Brazil,MG,Formiga/MG,3126109,0,0,0,1
+2020-04-24,Brazil,GO,Formosa/GO,5208004,0,0,0,4
+2020-04-24,Brazil,CE,Forquilha/CE,2304350,0,0,0,0
+2020-04-24,Brazil,SC,Forquilhinha/SC,4205456,0,0,0,1
+2020-04-24,Brazil,CE,Fortaleza/CE,2304400,0,212,0,3791
+2020-04-24,Brazil,CE,Fortim/CE,2304459,0,0,0,1
+2020-04-24,Brazil,PR,Foz do Iguaçu/PR,4108304,0,0,0,38
+2020-04-24,Brazil,SP,Franca/SP,3516200,0,0,0,6
+2020-04-24,Brazil,PI,Francinópolis/PI,2204006,0,0,0,1
+2020-04-24,Brazil,PR,Francisco Beltrão/PR,4108403,0,0,0,3
+2020-04-24,Brazil,SP,Francisco Morato/SP,3516309,0,1,0,34
+2020-04-24,Brazil,SP,Franco da Rocha/SP,3516408,0,6,0,68
+2020-04-24,Brazil,PE,Frei Miguelinho/PE,2605806,0,0,0,2
+2020-04-24,Brazil,MG,Frutal/MG,3127107,0,0,0,2
+2020-04-24,Brazil,ES,Fundão/ES,3202207,0,0,0,8
+2020-04-24,Brazil,PE,Gameleira/PE,2605905,0,1,0,1
+2020-04-24,Brazil,BA,Gandu/BA,2911204,0,0,0,1
+2020-04-24,Brazil,PE,Garanhuns/PE,2606002,0,2,0,9
+2020-04-24,Brazil,RS,Garibaldi/RS,4308607,0,0,0,9
+2020-04-24,Brazil,SC,Garopaba/SC,4205704,0,0,0,2
+2020-04-24,Brazil,PA,Garrafão do Norte/PA,1503077,0,0,0,1
+2020-04-24,Brazil,SP,Garça/SP,3516705,0,0,0,1
+2020-04-24,Brazil,SC,Gaspar/SC,4205902,0,1,0,7
+2020-04-24,Brazil,RS,Glorinha/RS,4309050,0,0,0,1
+2020-04-24,Brazil,PE,Glória do Goitá/PE,2606101,0,2,0,6
+2020-04-24,Brazil,PE,Goiana/PE,2606200,0,3,0,8
+2020-04-24,Brazil,GO,Goiandira/GO,5208509,0,1,0,2
+2020-04-24,Brazil,GO,Goianira/GO,5208806,0,0,0,1
+2020-04-24,Brazil,MG,Goianá/MG,3127388,0,0,0,2
+2020-04-24,Brazil,PA,Goianésia do Pará/PA,1503093,0,0,0,1
+2020-04-24,Brazil,GO,Goianésia/GO,5208608,0,2,0,24
+2020-04-24,Brazil,GO,Goiatuba/GO,5209101,0,0,0,1
+2020-04-24,Brazil,PR,Goioerê/PR,4108601,0,0,0,4
+2020-04-24,Brazil,GO,Goiânia/GO,5208707,0,11,0,257
+2020-04-24,Brazil,BA,Gongogi/BA,2911501,0,2,0,3
+2020-04-24,Brazil,SC,Governador Celso Ramos/SC,4206009,0,0,0,3
+2020-04-24,Brazil,MA,Governador Nunes Freire/MA,2104677,0,0,0,1
+2020-04-24,Brazil,MG,Governador Valadares/MG,3127701,0,2,0,10
+2020-04-24,Brazil,CE,Granja/CE,2304707,0,0,0,2
+2020-04-24,Brazil,SC,Gravatal/SC,4206207,0,0,0,11
+2020-04-24,Brazil,RS,Gravataí/RS,4309209,0,0,0,17
+2020-04-24,Brazil,PE,Gravatá/PE,2606408,0,0,0,2
+2020-04-24,Brazil,CE,Graça/CE,2304657,0,0,0,4
+2020-04-24,Brazil,CE,Groaíras/CE,2304905,0,0,0,1
+2020-04-24,Brazil,SC,Guabiruba/SC,4206306,0,0,0,2
+2020-04-24,Brazil,PR,Guairaçá/PR,4108908,0,0,0,3
+2020-04-24,Brazil,CE,Guaiúba/CE,2304954,0,0,0,1
+2020-04-24,Brazil,BA,Guanambi/BA,2911709,0,0,0,0
+2020-04-24,Brazil,RJ,Guapimirim/RJ,3301850,0,0,0,5
+2020-04-24,Brazil,GO,Guapó/GO,5209200,0,0,0,1
+2020-04-24,Brazil,PB,Guarabira/PB,2506301,0,0,0,3
+2020-04-24,Brazil,PR,Guaraci/PR,4109203,0,0,0,2
+2020-04-24,Brazil,CE,Guaraciaba do Norte/CE,2305001,0,0,0,1
+2020-04-24,Brazil,SC,Guaramirim/SC,4206504,0,0,0,1
+2020-04-24,Brazil,PR,Guaraniaçu/PR,4109302,0,0,0,5
+2020-04-24,Brazil,MG,Guaranésia/MG,3128303,0,0,0,1
+2020-04-24,Brazil,ES,Guarapari/ES,3202405,0,0,0,14
+2020-04-24,Brazil,PR,Guarapuava/PR,4109401,0,0,0,3
+2020-04-24,Brazil,SP,Guararapes/SP,3518206,0,0,0,3
+2020-04-24,Brazil,SP,Guararema/SP,3518305,0,0,0,2
+2020-04-24,Brazil,SP,Guaratinguetá/SP,3518404,0,0,0,1
+2020-04-24,Brazil,SP,Guarujá/SP,3518701,0,2,0,73
+2020-04-24,Brazil,SP,Guarulhos/SP,3518800,0,42,0,356
+2020-04-24,Brazil,MG,Guaxupé/MG,3128709,0,0,0,2
+2020-04-24,Brazil,ES,Guaçuí/ES,3202306,0,0,0,3
+2020-04-24,Brazil,RS,Guaíba/RS,4309308,0,0,0,2
+2020-04-24,Brazil,PR,Guaíra/PR,4108809,0,1,0,9
+2020-04-24,Brazil,MG,Guimarânia/MG,3128907,0,0,0,1
+2020-04-24,Brazil,TO,Gurupi/TO,1709500,0,0,0,1
+2020-04-24,Brazil,SP,Guzolândia/SP,3518909,0,0,0,1
+2020-04-24,Brazil,RS,Harmonia/RS,4309555,0,0,0,5
+2020-04-24,Brazil,SC,Herval d'Oeste/SC,4206702,0,0,0,2
+2020-04-24,Brazil,CE,Hidrolândia/CE,2305209,0,0,0,2
+2020-04-24,Brazil,GO,Hidrolândia/GO,5209705,0,0,0,0
+2020-04-24,Brazil,CE,Horizonte/CE,2305233,0,2,0,21
+2020-04-24,Brazil,SP,Hortolândia/SP,3519071,0,0,0,10
+2020-04-24,Brazil,PR,Ibaiti/PR,4109708,0,0,0,1
+2020-04-24,Brazil,CE,Ibaretama/CE,2305266,0,1,0,1
+2020-04-24,Brazil,AL,Ibateguara/AL,2703007,0,1,0,1
+2020-04-24,Brazil,PR,Ibema/PR,4109757,0,0,0,11
+2020-04-24,Brazil,BA,Ibicaraí/BA,2912103,0,0,0,2
+2020-04-24,Brazil,CE,Ibicuitinga/CE,2305332,0,0,0,1
+2020-04-24,Brazil,PR,Ibiporã/PR,4109807,0,0,0,1
+2020-04-24,Brazil,RS,Ibirapuitã/RS,4309951,0,0,0,2
+2020-04-24,Brazil,BA,Ibirataia/BA,2912905,0,0,0,3
+2020-04-24,Brazil,ES,Ibiraçu/ES,3202504,0,0,0,2
+2020-04-24,Brazil,MG,Ibirité/MG,3129806,0,0,0,4
+2020-04-24,Brazil,SP,Ibirá/SP,3519402,0,0,0,1
+2020-04-24,Brazil,SP,Ibiúna/SP,3519709,0,0,0,3
+2020-04-24,Brazil,BA,Ibotirama/BA,2913200,0,0,0,1
+2020-04-24,Brazil,CE,Icapuí/CE,2305357,0,0,0,2
+2020-04-24,Brazil,MA,Icatu/MA,2105104,0,0,0,0
+2020-04-24,Brazil,CE,Icó/CE,2305407,0,0,0,5
+2020-04-24,Brazil,RN,Ielmo Marinho/RN,2404606,0,0,0,1
+2020-04-24,Brazil,SP,Iepê/SP,3519907,0,1,0,1
+2020-04-24,Brazil,PB,Igaracy/PB,2502607,0,0,0,1
+2020-04-24,Brazil,SP,Igarapava/SP,3520103,0,0,0,2
+2020-04-24,Brazil,PA,Igarapé-Açu/PA,1503200,0,0,0,3
+2020-04-24,Brazil,PE,Igarassu/PE,2606804,0,5,0,31
+2020-04-24,Brazil,SP,Igaratá/SP,3520202,0,0,0,1
+2020-04-24,Brazil,RJ,Iguaba Grande/RJ,3301876,0,3,0,11
+2020-04-24,Brazil,SP,Iguape/SP,3520301,0,0,0,3
+2020-04-24,Brazil,CE,Iguatu/CE,2305506,0,4,0,18
+2020-04-24,Brazil,SP,Ilha Comprida/SP,3520426,0,1,0,16
+2020-04-24,Brazil,SP,Ilha Solteira/SP,3520442,0,0,0,1
+2020-04-24,Brazil,PE,Ilha de Itamaracá/PE,2607604,0,0,0,6
+2020-04-24,Brazil,SP,Ilhabela/SP,3520400,0,0,0,3
+2020-04-24,Brazil,SC,Ilhota/SC,4207106,0,0,0,1
+2020-04-24,Brazil,BA,Ilhéus/BA,2913606,0,3,0,127
+2020-04-24,Brazil,PR,Imbaú/PR,4110078,0,0,0,2
+2020-04-24,Brazil,SC,Imbituba/SC,4207304,0,0,0,16
+2020-04-24,Brazil,RS,Imbé/RS,4310330,0,0,0,1
+2020-04-24,Brazil,MA,Imperatriz/MA,2105302,0,3,0,54
+2020-04-24,Brazil,PE,Inajá/PE,2607000,0,0,0,1
+2020-04-24,Brazil,SC,Indaial/SC,4207502,0,1,0,5
+2020-04-24,Brazil,SP,Indaiatuba/SP,3520509,0,3,0,13
+2020-04-24,Brazil,CE,Independência/CE,2305605,0,0,0,2
+2020-04-24,Brazil,SE,Indiaroba/SE,2802809,0,0,0,1
+2020-04-24,Brazil,PA,Inhangapi/PA,1503408,0,0,0,1
+2020-04-24,Brazil,PI,Inhuma/PI,2204709,0,0,0,1
+2020-04-24,Brazil,GO,Inhumas/GO,5210000,0,0,0,1
+2020-04-24,Brazil,MG,Ipaba/MG,3131158,0,0,0,2
+2020-04-24,Brazil,RN,Ipanguaçu/RN,2404705,0,1,0,2
+2020-04-24,Brazil,CE,Ipaporanga/CE,2305654,0,0,0,2
+2020-04-24,Brazil,MG,Ipatinga/MG,3131307,0,0,0,10
+2020-04-24,Brazil,CE,Ipaumirim/CE,2305704,0,0,0,1
+2020-04-24,Brazil,BA,Ipiaú/BA,2913903,0,1,0,16
+2020-04-24,Brazil,MT,Ipiranga do Norte/MT,5104526,0,0,0,1
+2020-04-24,Brazil,BA,Ipirá/BA,2914000,0,0,0,4
+2020-04-24,Brazil,PE,Ipojuca/PE,2607208,0,3,0,14
+2020-04-24,Brazil,PE,Ipubi/PE,2607307,0,0,0,8
+2020-04-24,Brazil,CE,Ipueiras/CE,2305902,0,1,0,2
+2020-04-24,Brazil,MG,Ipuiúna/MG,3131505,0,0,0,1
+2020-04-24,Brazil,SC,Ipumirim/SC,4207700,0,0,0,6
+2020-04-24,Brazil,CE,Iracema/CE,2306009,0,0,0,2
+2020-04-24,Brazil,SP,Iracemápolis/SP,3521408,0,0,0,1
+2020-04-24,Brazil,AM,Iranduba/AM,1301852,0,5,0,50
+2020-04-24,Brazil,SC,Irani/SC,4207809,0,0,0,6
+2020-04-24,Brazil,SC,Irati/SC,4207858,0,0,0,1
+2020-04-24,Brazil,BA,Irecê/BA,2914604,0,0,0,1
+2020-04-24,Brazil,PR,Iretama/PR,4110805,0,1,0,1
+2020-04-24,Brazil,ES,Irupi/ES,3202652,0,0,0,1
+2020-04-24,Brazil,PB,Itabaiana/PB,2506905,0,0,0,1
+2020-04-24,Brazil,SE,Itabaiana/SE,2802908,0,0,0,4
+2020-04-24,Brazil,SE,Itabaianinha/SE,2803005,0,1,0,7
+2020-04-24,Brazil,BA,Itabela/BA,2914653,0,0,0,1
+2020-04-24,Brazil,BA,Itaberaba/BA,2914703,0,0,0,1
+2020-04-24,Brazil,MG,Itabira/MG,3131703,0,1,0,6
+2020-04-24,Brazil,RJ,Itaboraí/RJ,3301900,0,7,0,58
+2020-04-24,Brazil,BA,Itabuna/BA,2914802,0,2,0,99
+2020-04-24,Brazil,AM,Itacoatiara/AM,1301902,0,4,0,56
+2020-04-24,Brazil,BA,Itagi/BA,2915106,0,0,0,1
+2020-04-24,Brazil,BA,Itagibá/BA,2915205,0,1,0,6
+2020-04-24,Brazil,MG,Itaguara/MG,3132206,0,0,0,1
+2020-04-24,Brazil,GO,Itaguaru/GO,5210604,0,0,0,2
+2020-04-24,Brazil,RJ,Itaguaí/RJ,3302007,0,3,0,17
+2020-04-24,Brazil,CE,Itaitinga/CE,2306256,0,1,0,21
+2020-04-24,Brazil,PA,Itaituba/PA,1503606,0,0,0,6
+2020-04-24,Brazil,CE,Itaiçaba/CE,2306207,0,0,0,1
+2020-04-24,Brazil,SC,Itaiópolis/SC,4208104,0,0,0,1
+2020-04-24,Brazil,SC,Itajaí/SC,4208203,0,3,0,45
+2020-04-24,Brazil,MG,Itajubá/MG,3132404,0,0,0,5
+2020-04-24,Brazil,BA,Itajuípe/BA,2915502,0,0,0,8
+2020-04-24,Brazil,BA,Itamaraju/BA,2915601,0,0,0,1
+2020-04-24,Brazil,BA,Itamari/BA,2915700,0,0,0,0
+2020-04-24,Brazil,PE,Itambé/PE,2607653,0,0,0,2
+2020-04-24,Brazil,MG,Itanhandu/MG,3133105,0,0,0,4
+2020-04-24,Brazil,SP,Itanhaém/SP,3522109,0,1,0,6
+2020-04-24,Brazil,MG,Itaobim/MG,3133303,0,0,0,1
+2020-04-24,Brazil,CE,Itapajé/CE,2306306,0,0,0,1
+2020-04-24,Brazil,BA,Itapebi/BA,2916302,0,0,0,5
+2020-04-24,Brazil,SP,Itapecerica da Serra/SP,3522208,0,6,0,61
+2020-04-24,Brazil,MG,Itapecerica/MG,3133501,0,0,0,7
+2020-04-24,Brazil,MA,Itapecuru Mirim/MA,2105401,0,0,0,0
+2020-04-24,Brazil,SC,Itapema/SC,4208302,0,1,0,10
+2020-04-24,Brazil,ES,Itapemirim/ES,3202801,0,0,0,2
+2020-04-24,Brazil,RJ,Itaperuna/RJ,3302205,0,0,0,3
+2020-04-24,Brazil,PR,Itaperuçu/PR,4111258,0,0,0,1
+2020-04-24,Brazil,PE,Itapetim/PE,2607703,0,1,0,1
+2020-04-24,Brazil,BA,Itapetinga/BA,2916401,0,1,0,5
+2020-04-24,Brazil,SP,Itapetininga/SP,3522307,0,1,0,8
+2020-04-24,Brazil,MG,Itapeva/MG,3133600,0,0,0,1
+2020-04-24,Brazil,SP,Itapeva/SP,3522406,0,0,0,1
+2020-04-24,Brazil,SP,Itapevi/SP,3522505,0,9,0,60
+2020-04-24,Brazil,CE,Itapipoca/CE,2306405,0,0,0,5
+2020-04-24,Brazil,SP,Itapira/SP,3522604,0,3,0,15
+2020-04-24,Brazil,SC,Itapiranga/SC,4208401,0,0,0,1
+2020-04-24,Brazil,PE,Itapissuma/PE,2607752,0,0,0,3
+2020-04-24,Brazil,CE,Itapiúna/CE,2306504,0,0,0,1
+2020-04-24,Brazil,SE,Itaporanga d'Ajuda/SE,2803203,0,0,0,1
+2020-04-24,Brazil,PB,Itapororoca/PB,2507101,0,0,0,2
+2020-04-24,Brazil,BA,Itapé/BA,2916203,0,1,0,1
+2020-04-24,Brazil,SP,Itaquaquecetuba/SP,3523107,0,0,0,55
+2020-04-24,Brazil,BA,Itarantim/BA,2916807,0,0,0,1
+2020-04-24,Brazil,SP,Itararé/SP,3523206,0,0,0,1
+2020-04-24,Brazil,CE,Itarema/CE,2306553,0,0,0,1
+2020-04-24,Brazil,SP,Itariri/SP,3523305,0,1,0,1
+2020-04-24,Brazil,RJ,Itatiaia/RJ,3302254,0,0,0,3
+2020-04-24,Brazil,SP,Itatiba/SP,3523404,0,1,0,4
+2020-04-24,Brazil,BA,Itatim/BA,2916856,0,0,0,1
+2020-04-24,Brazil,SP,Itatinga/SP,3523503,0,0,0,1
+2020-04-24,Brazil,CE,Itatira/CE,2306603,0,0,0,1
+2020-04-24,Brazil,PI,Itaueira/PI,2205102,0,0,0,1
+2020-04-24,Brazil,MG,Itaúna/MG,3133808,0,0,0,1
+2020-04-24,Brazil,BA,Itororó/BA,2917102,0,0,0,4
+2020-04-24,Brazil,SP,Itu/SP,3523909,0,0,0,8
+2020-04-24,Brazil,BA,Ituberá/BA,2917300,0,0,0,1
+2020-04-24,Brazil,MG,Ituiutaba/MG,3134202,0,0,0,2
+2020-04-24,Brazil,GO,Itumbiara/GO,5211503,0,0,0,10
+2020-04-24,Brazil,SP,Itupeva/SP,3524006,0,1,0,4
+2020-04-24,Brazil,SC,Ituporanga/SC,4208500,0,0,0,2
+2020-04-24,Brazil,PR,Ivaiporã/PR,4111506,0,1,0,6
+2020-04-24,Brazil,RS,Ivoti/RS,4310801,0,1,0,4
+2020-04-24,Brazil,SC,Içara/SC,4207007,0,0,0,7
+2020-04-24,Brazil,PE,Jaboatão dos Guararapes/PE,2607901,0,27,0,282
+2020-04-24,Brazil,SP,Jaborandi/SP,3524204,0,0,0,1
+2020-04-24,Brazil,SC,Jaborá/SC,4208609,0,0,0,1
+2020-04-24,Brazil,SP,Jaboticabal/SP,3524303,0,3,0,13
+2020-04-24,Brazil,MG,Jaboticatubas/MG,3134608,0,0,0,2
+2020-04-24,Brazil,PR,Jacarezinho/PR,4111803,0,0,0,1
+2020-04-24,Brazil,SP,Jacareí/SP,3524402,0,1,0,23
+2020-04-24,Brazil,SP,Jaci/SP,3524501,0,0,0,6
+2020-04-24,Brazil,MT,Jaciara/MT,5104807,0,0,0,2
+2020-04-24,Brazil,PR,Jaguapitã/PR,4111902,0,0,0,1
+2020-04-24,Brazil,BA,Jaguaquara/BA,2917607,0,0,0,5
+2020-04-24,Brazil,CE,Jaguaretama/CE,2306702,0,0,0,1
+2020-04-24,Brazil,CE,Jaguaribe/CE,2306900,0,2,0,11
+2020-04-24,Brazil,SP,Jaguariúna/SP,3524709,0,0,0,4
+2020-04-24,Brazil,CE,Jaguaruana/CE,2307007,0,0,0,3
+2020-04-24,Brazil,SC,Jaguaruna/SC,4208807,0,0,0,4
+2020-04-24,Brazil,SP,Jales/SP,3524808,0,0,0,2
+2020-04-24,Brazil,MG,Janaúba/MG,3135100,0,0,0,3
+2020-04-24,Brazil,SP,Jandira/SP,3525003,0,2,0,18
+2020-04-24,Brazil,RN,Januário Cicco/RN,2405306,0,0,0,1
+2020-04-24,Brazil,RJ,Japeri/RJ,3302270,0,1,0,13
+2020-04-24,Brazil,PR,Japurá/PR,4112405,0,0,0,1
+2020-04-24,Brazil,SC,Jaraguá do Sul/SC,4208906,0,0,0,12
+2020-04-24,Brazil,CE,Jardim/CE,2307106,0,0,0,1
+2020-04-24,Brazil,SP,Jardinópolis/SP,3525102,0,0,0,3
+2020-04-24,Brazil,RO,Jaru/RO,1100114,0,0,0,1
+2020-04-24,Brazil,PR,Jataizinho/PR,4112702,0,0,0,2
+2020-04-24,Brazil,GO,Jataí/GO,5211909,0,0,0,4
+2020-04-24,Brazil,PE,Jataúba/PE,2608008,0,0,0,1
+2020-04-24,Brazil,PE,Jatobá/PE,2608057,0,0,0,1
+2020-04-24,Brazil,RN,Jaçanã/RN,2405009,0,0,0,2
+2020-04-24,Brazil,SP,Jaú/SP,3525300,0,0,0,5
+2020-04-24,Brazil,MG,Jeceaba/MG,3135407,0,0,0,1
+2020-04-24,Brazil,BA,Jequié/BA,2918001,0,0,0,21
+2020-04-24,Brazil,ES,Jerônimo Monteiro/ES,3203106,0,0,0,1
+2020-04-24,Brazil,RO,Ji-Paraná/RO,1100122,0,2,0,8
+2020-04-24,Brazil,SP,Joanópolis/SP,3525508,0,0,0,1
+2020-04-24,Brazil,SC,Joaçaba/SC,4209003,0,0,0,6
+2020-04-24,Brazil,SC,Joinville/SC,4209102,0,2,0,114
+2020-04-24,Brazil,SP,José Bonifácio/SP,3525706,0,0,0,2
+2020-04-24,Brazil,PE,João Alfredo/PE,2608107,0,0,0,5
+2020-04-24,Brazil,MG,João Monlevade/MG,3136207,0,0,0,4
+2020-04-24,Brazil,ES,João Neiva/ES,3203130,0,0,0,2
+2020-04-24,Brazil,PB,João Pessoa/PB,2507507,0,28,0,254
+2020-04-24,Brazil,CE,Juazeiro do Norte/CE,2307304,0,0,0,9
+2020-04-24,Brazil,BA,Juazeiro/BA,2918407,0,1,0,7
+2020-04-24,Brazil,PE,Jucati/PE,2608255,0,0,0,1
+2020-04-24,Brazil,CE,Jucás/CE,2307403,0,0,0,4
+2020-04-24,Brazil,MG,Juiz de Fora/MG,3136702,0,2,0,102
+2020-04-24,Brazil,MA,Junco do Maranhão/MA,2105658,0,0,0,1
+2020-04-24,Brazil,PB,Junco do Seridó/PB,2507804,0,1,0,3
+2020-04-24,Brazil,SP,Jundiaí/SP,3525904,0,10,0,70
+2020-04-24,Brazil,SP,Junqueirópolis/SP,3526001,0,0,0,1
+2020-04-24,Brazil,PE,Jupi/PE,2608305,0,0,0,1
+2020-04-24,Brazil,SP,Juquitiba/SP,3526209,0,1,0,1
+2020-04-24,Brazil,PA,Juruti/PA,1503903,0,1,0,5
+2020-04-24,Brazil,AM,Juruá/AM,1302207,0,0,0,1
+2020-04-24,Brazil,PR,Jussara/PR,4113007,0,1,0,1
+2020-04-24,Brazil,AM,Jutaí/AM,1302306,0,0,0,1
+2020-04-24,Brazil,MS,Ladário/MS,5005202,0,0,0,1
+2020-04-24,Brazil,SE,Lagarto/SE,2803500,0,0,0,2
+2020-04-24,Brazil,SC,Lages/SC,4209300,0,0,0,13
+2020-04-24,Brazil,MA,Lago da Pedra/MA,2105708,0,1,0,1
+2020-04-24,Brazil,MG,Lagoa Dourada/MG,3137403,0,0,0,1
+2020-04-24,Brazil,MG,Lagoa Santa/MG,3137601,0,0,0,3
+2020-04-24,Brazil,MG,Lagoa da Prata/MG,3137205,0,0,0,15
+2020-04-24,Brazil,PE,Lagoa de Itaenga/PE,2608503,0,0,0,1
+2020-04-24,Brazil,RN,Lagoa de Pedras/RN,2406304,0,1,0,1
+2020-04-24,Brazil,PI,Lagoa do Barro do Piauí/PI,2205565,0,0,0,1
+2020-04-24,Brazil,PE,Lagoa do Carro/PE,2608453,0,1,0,2
+2020-04-24,Brazil,PE,Lagoa dos Gatos/PE,2608701,0,1,0,1
+2020-04-24,Brazil,SC,Laguna/SC,4209409,0,0,0,5
+2020-04-24,Brazil,RS,Lajeado/RS,4311403,0,0,0,40
+2020-04-24,Brazil,RN,Lajes Pintadas/RN,2406809,0,0,0,1
+2020-04-24,Brazil,MT,Lambari D'Oeste/MT,5105234,0,0,0,1
+2020-04-24,Brazil,PR,Lapa/PR,4113205,0,0,0,3
+2020-04-24,Brazil,SP,Laranjal Paulista/SP,3526407,0,2,0,5
+2020-04-24,Brazil,AP,Laranjal do Jari/AP,1600279,0,0,0,15
+2020-04-24,Brazil,BA,Lauro de Freitas/BA,2919207,0,4,0,37
+2020-04-24,Brazil,CE,Lavras da Mangabeira/CE,2307502,0,0,0,1
+2020-04-24,Brazil,MG,Lavras/MG,3138203,0,0,0,7
+2020-04-24,Brazil,SP,Leme/SP,3526704,0,2,0,4
+2020-04-24,Brazil,SP,Lençóis Paulista/SP,3526803,0,0,0,4
+2020-04-24,Brazil,MG,Leopoldina/MG,3138401,0,0,0,1
+2020-04-24,Brazil,PR,Leópolis/PR,4113403,0,0,0,1
+2020-04-24,Brazil,BA,Licínio de Almeida/BA,2919405,0,0,0,1
+2020-04-24,Brazil,SP,Limeira/SP,3526902,0,1,0,10
+2020-04-24,Brazil,AL,Limoeiro de Anadia/AL,2704203,0,0,0,1
+2020-04-24,Brazil,CE,Limoeiro do Norte/CE,2307601,0,2,0,8
+2020-04-24,Brazil,PE,Limoeiro/PE,2608909,0,3,0,10
+2020-04-24,Brazil,SC,Lindóia do Sul/SC,4209854,0,0,0,4
+2020-04-24,Brazil,ES,Linhares/ES,3203205,0,1,0,33
+2020-04-24,Brazil,SP,Lins/SP,3527108,0,2,0,8
+2020-04-24,Brazil,PR,Londrina/PR,4113700,0,8,0,91
+2020-04-24,Brazil,SP,Lorena/SP,3527207,0,0,0,1
+2020-04-24,Brazil,SP,Louveira/SP,3527306,0,0,0,1
+2020-04-24,Brazil,MT,Lucas do Rio Verde/MT,5105259,0,1,0,1
+2020-04-24,Brazil,SP,Lucélia/SP,3527405,0,2,0,2
+2020-04-24,Brazil,PI,Luzilândia/PI,2205805,0,0,0,1
+2020-04-24,Brazil,GO,Luziânia/GO,5212501,0,2,0,9
+2020-04-24,Brazil,PI,Luís Correia/PI,2205706,0,0,0,2
+2020-04-24,Brazil,BA,Luís Eduardo Magalhães/BA,2919553,0,0,0,2
+2020-04-24,Brazil,RN,Luís Gomes/RN,2407005,0,0,0,1
+2020-04-24,Brazil,AM,Lábrea/AM,1302405,0,0,0,13
+2020-04-24,Brazil,PE,Macaparana/PE,2609006,0,2,0,4
+2020-04-24,Brazil,AP,Macapá/AP,1600303,0,14,0,451
+2020-04-24,Brazil,SP,Macatuba/SP,3528007,0,0,0,1
+2020-04-24,Brazil,RJ,Macaé/RJ,3302403,0,8,0,40
+2020-04-24,Brazil,RN,Macaíba/RN,2407104,0,0,0,11
+2020-04-24,Brazil,SP,Macedônia/SP,3528205,0,0,0,0
+2020-04-24,Brazil,AL,Maceió/AL,2704302,0,14,0,280
+2020-04-24,Brazil,MG,Machado/MG,3139003,0,0,0,2
+2020-04-24,Brazil,PE,Machados/PE,2609105,0,1,0,2
+2020-04-24,Brazil,RJ,Macuco/RJ,3302452,0,0,0,1
+2020-04-24,Brazil,SC,Mafra/SC,4210100,0,0,0,2
+2020-04-24,Brazil,RJ,Magé/RJ,3302502,0,3,0,52
+2020-04-24,Brazil,SP,Mairinque/SP,3528403,0,0,0,1
+2020-04-24,Brazil,SP,Mairiporã/SP,3528502,0,4,0,14
+2020-04-24,Brazil,AM,Manacapuru/AM,1302504,0,14,0,238
+2020-04-24,Brazil,AM,Manaquiri/AM,1302553,0,0,0,2
+2020-04-24,Brazil,AM,Manaus/AM,1302603,0,193,0,2286
+2020-04-24,Brazil,PR,Mandaguari/PR,4114203,0,0,0,1
+2020-04-24,Brazil,PR,Mandirituba/PR,4114302,0,0,0,3
+2020-04-24,Brazil,RJ,Mangaratiba/RJ,3302601,0,2,0,6
+2020-04-24,Brazil,MG,Manhuaçu/MG,3139409,0,0,0,3
+2020-04-24,Brazil,AM,Manicoré/AM,1302702,0,1,0,2
+2020-04-24,Brazil,PR,Manoel Ribas/PR,4114500,0,1,0,1
+2020-04-24,Brazil,PA,Marabá/PA,1504208,0,1,0,9
+2020-04-24,Brazil,CE,Maracanaú/CE,2307650,0,7,0,101
+2020-04-24,Brazil,CE,Maranguape/CE,2307700,0,2,0,34
+2020-04-24,Brazil,PA,Marapanim/PA,1504406,0,0,0,4
+2020-04-24,Brazil,RS,Maratá/RS,4311791,0,0,0,1
+2020-04-24,Brazil,RS,Marau/RS,4311809,0,1,0,33
+2020-04-24,Brazil,AM,Maraã/AM,1302801,0,0,0,7
+2020-04-24,Brazil,PR,Marechal Cândido Rondon/PR,4114609,0,0,0,2
+2020-04-24,Brazil,AL,Marechal Deodoro/AL,2704708,0,1,0,7
+2020-04-24,Brazil,MG,Mariana/MG,3140001,0,1,0,12
+2020-04-24,Brazil,AL,Maribondo/AL,2704807,0,0,0,1
+2020-04-24,Brazil,RJ,Maricá/RJ,3302700,0,7,0,40
+2020-04-24,Brazil,PR,Maringá/PR,4115200,0,5,0,50
+2020-04-24,Brazil,MG,Maripá de Minas/MG,3140209,0,0,0,1
+2020-04-24,Brazil,PA,Marituba/PA,1504422,0,1,0,19
+2020-04-24,Brazil,PR,Mariópolis/PR,4115309,0,0,0,2
+2020-04-24,Brazil,MG,Marliéria/MG,3140308,0,0,0,1
+2020-04-24,Brazil,PR,Marumbi/PR,4115507,0,0,0,2
+2020-04-24,Brazil,SP,Marília/SP,3529005,0,1,0,8
+2020-04-24,Brazil,CE,Massapê/CE,2308005,0,0,0,4
+2020-04-24,Brazil,SC,Massaranduba/SC,4210605,0,1,0,1
+2020-04-24,Brazil,MG,Matias Barbosa/MG,3140803,0,0,0,0
+2020-04-24,Brazil,MA,Matinha/MA,2106508,0,0,0,3
+2020-04-24,Brazil,PR,Matinhos/PR,4115705,0,0,0,2
+2020-04-24,Brazil,MG,Matozinhos/MG,3141108,0,0,0,1
+2020-04-24,Brazil,SP,Matão/SP,3529302,0,0,0,3
+2020-04-24,Brazil,CE,Mauriti/CE,2308104,0,0,0,2
+2020-04-24,Brazil,SP,Mauá/SP,3529401,0,4,0,115
+2020-04-24,Brazil,AM,Maués/AM,1302900,0,5,0,36
+2020-04-24,Brazil,AP,Mazagão/AP,1600402,0,0,0,3
+2020-04-24,Brazil,BA,Medeiros Neto/BA,2921104,0,0,0,1
+2020-04-24,Brazil,PR,Medianeira/PR,4115804,0,0,0,4
+2020-04-24,Brazil,SC,Meleiro/SC,4210803,0,0,0,1
+2020-04-24,Brazil,RJ,Mendes/RJ,3302809,0,0,0,1
+2020-04-24,Brazil,RJ,Mesquita/RJ,3302858,0,9,0,89
+2020-04-24,Brazil,PI,Miguel Alves/PI,2206209,0,0,0,2
+2020-04-24,Brazil,RJ,Miguel Pereira/RJ,3302908,0,1,0,6
+2020-04-24,Brazil,SP,Miguelópolis/SP,3529708,0,0,0,1
+2020-04-24,Brazil,MA,Milagres do Maranhão/MA,2106672,0,0,0,1
+2020-04-24,Brazil,CE,Milagres/CE,2308302,0,0,0,1
+2020-04-24,Brazil,RS,Minas do Leão/RS,4312252,0,0,0,2
+2020-04-24,Brazil,SP,Mineiros do Tietê/SP,3529807,0,1,0,3
+2020-04-24,Brazil,SP,Miracatu/SP,3529906,0,0,0,2
+2020-04-24,Brazil,MA,Miranda do Norte/MA,2106755,0,0,0,2
+2020-04-24,Brazil,MS,Miranda/MS,5005608,0,0,0,1
+2020-04-24,Brazil,SP,Mirandópolis/SP,3530102,0,0,0,1
+2020-04-24,Brazil,BA,Mirante/BA,2921450,0,0,0,1
+2020-04-24,Brazil,MT,Mirassol d'Oeste/MT,5105622,0,0,0,5
+2020-04-24,Brazil,SP,Mirassol/SP,3530300,0,0,0,6
+2020-04-24,Brazil,MA,Mirinzal/MA,2106805,0,0,0,1
+2020-04-24,Brazil,SP,Mococa/SP,3530508,0,1,0,2
+2020-04-24,Brazil,SP,Mogi Guaçu/SP,3530706,0,1,0,10
+2020-04-24,Brazil,SP,Mogi Mirim/SP,3530805,0,0,0,1
+2020-04-24,Brazil,SP,Mogi das Cruzes/SP,3530607,0,8,0,128
+2020-04-24,Brazil,CE,Mombaça/CE,2308500,0,1,0,6
+2020-04-24,Brazil,SP,Mongaguá/SP,3531100,0,1,0,5
+2020-04-24,Brazil,PA,Monte Alegre/PA,1504802,0,0,0,3
+2020-04-24,Brazil,RN,Monte Alegre/RN,2407807,0,0,0,4
+2020-04-24,Brazil,SP,Monte Alto/SP,3531308,0,1,0,11
+2020-04-24,Brazil,MG,Monte Azul/MG,3142908,0,0,0,1
+2020-04-24,Brazil,MG,Monte Carmelo/MG,3143104,0,0,0,5
+2020-04-24,Brazil,SP,Monte Mor/SP,3531803,0,0,0,1
+2020-04-24,Brazil,RS,Montenegro/RS,4312401,0,0,0,3
+2020-04-24,Brazil,MG,Montes Claros/MG,3143302,0,1,0,5
+2020-04-24,Brazil,GO,Montividiu/GO,5213756,0,0,0,1
+2020-04-24,Brazil,MA,Monção/MA,2106904,0,0,0,1
+2020-04-24,Brazil,PE,Moreno/PE,2609402,0,2,0,19
+2020-04-24,Brazil,BA,Morpará/BA,2921609,0,0,0,1
+2020-04-24,Brazil,PR,Morretes/PR,4116208,0,0,0,1
+2020-04-24,Brazil,GO,Morrinhos/GO,5213806,0,0,0,0
+2020-04-24,Brazil,SP,Morro Agudo/SP,3531902,0,0,0,2
+2020-04-24,Brazil,SC,Morro da Fumaça/SC,4211207,0,0,0,2
+2020-04-24,Brazil,MG,Morro da Garça/MG,3143609,0,1,0,1
+2020-04-24,Brazil,MA,Morros/MA,2107100,0,0,0,1
+2020-04-24,Brazil,SP,Morungaba/SP,3532009,0,0,0,4
+2020-04-24,Brazil,RN,Mossoró/RN,2408003,0,8,0,106
+2020-04-24,Brazil,PA,Muaná/PA,1504901,0,0,0,1
+2020-04-24,Brazil,RR,Mucajaí/RR,1400308,0,0,0,1
+2020-04-24,Brazil,BA,Mucugê/BA,2921906,0,0,0,1
+2020-04-24,Brazil,CE,Mulungu/CE,2309102,0,0,0,2
+2020-04-24,Brazil,MS,Mundo Novo/MS,5005681,0,0,0,2
+2020-04-24,Brazil,MG,Munhoz/MG,3143807,0,0,0,3
+2020-04-24,Brazil,MG,Muriaé/MG,3143906,0,0,0,7
+2020-04-24,Brazil,AL,Murici/AL,2705507,0,0,0,2
+2020-04-24,Brazil,RS,Muçum/RS,4312609,0,0,0,1
+2020-04-24,Brazil,MG,Mário Campos/MG,3140159,0,0,0,1
+2020-04-24,Brazil,PA,Mãe do Rio/PA,1504059,0,0,0,1
+2020-04-24,Brazil,MG,Nanuque/MG,3144300,0,1,0,2
+2020-04-24,Brazil,RN,Natal/RN,2408102,0,8,0,335
+2020-04-24,Brazil,SC,Navegantes/SC,4211306,0,0,0,19
+2020-04-24,Brazil,MS,Naviraí/MS,5005707,0,0,0,1
+2020-04-24,Brazil,MG,Nazareno/MG,3144508,0,0,0,1
+2020-04-24,Brazil,SP,Nazaré Paulista/SP,3532405,0,0,0,1
+2020-04-24,Brazil,PE,Nazaré da Mata/PE,2609501,0,0,0,2
+2020-04-24,Brazil,PI,Nazaré do Piauí/PI,2206704,0,0,0,1
+2020-04-24,Brazil,PI,Nazária/PI,2206720,0,0,0,1
+2020-04-24,Brazil,GO,Nerópolis/GO,5214507,0,0,0,1
+2020-04-24,Brazil,AM,Nhamundá/AM,1303007,0,0,0,1
+2020-04-24,Brazil,SP,Nhandeara/SP,3532603,0,0,0,1
+2020-04-24,Brazil,RS,Nicolau Vergueiro/RS,4312674,0,0,0,1
+2020-04-24,Brazil,RJ,Nilópolis/RJ,3303203,0,2,0,42
+2020-04-24,Brazil,RJ,Niterói/RJ,3303302,0,16,0,239
+2020-04-24,Brazil,SE,Nossa Senhora da Glória/SE,2804508,0,0,0,2
+2020-04-24,Brazil,SE,Nossa Senhora do Socorro/SE,2804805,0,0,0,1
+2020-04-24,Brazil,MS,Nova Andradina/MS,5006200,0,0,0,11
+2020-04-24,Brazil,PR,Nova Esperança/PR,4116901,0,0,0,5
+2020-04-24,Brazil,RJ,Nova Friburgo/RJ,3303401,0,2,0,35
+2020-04-24,Brazil,GO,Nova Glória/GO,5214861,0,0,0,1
+2020-04-24,Brazil,RJ,Nova Iguaçu/RJ,3303500,0,19,0,264
+2020-04-24,Brazil,PA,Nova Ipixuna/PA,1504976,0,0,0,1
+2020-04-24,Brazil,MG,Nova Lima/MG,3144805,0,0,0,50
+2020-04-24,Brazil,PR,Nova Londrina/PR,4117107,0,0,0,2
+2020-04-24,Brazil,MT,Nova Monte Verde/MT,5108956,0,0,0,1
+2020-04-24,Brazil,MT,Nova Mutum/MT,5106224,0,0,0,1
+2020-04-24,Brazil,SP,Nova Odessa/SP,3533403,0,1,0,2
+2020-04-24,Brazil,AM,Nova Olinda do Norte/AM,1303106,0,0,0,1
+2020-04-24,Brazil,RS,Nova Palma/RS,4313102,0,0,0,1
+2020-04-24,Brazil,MG,Nova Serrana/MG,3145208,0,1,0,1
+2020-04-24,Brazil,BA,Nova Soure/BA,2922904,0,0,0,1
+2020-04-24,Brazil,SC,Nova Trento/SC,4211504,0,0,0,1
+2020-04-24,Brazil,GO,Nova Veneza/GO,5215009,0,0,0,1
+2020-04-24,Brazil,SC,Nova Veneza/SC,4211603,0,0,0,2
+2020-04-24,Brazil,ES,Nova Venécia/ES,3203908,0,0,0,4
+2020-04-24,Brazil,AM,Novo Airão/AM,1303205,0,1,0,2
+2020-04-24,Brazil,MG,Novo Cruzeiro/MG,3145307,0,1,0,1
+2020-04-24,Brazil,GO,Novo Gama/GO,5215231,0,0,0,1
+2020-04-24,Brazil,RS,Novo Hamburgo/RS,4313409,0,2,0,26
+2020-04-24,Brazil,CE,Novo Oriente/CE,2309409,0,0,0,2
+2020-04-24,Brazil,PA,Novo Progresso/PA,1505031,0,0,0,2
+2020-04-24,Brazil,RS,Não-Me-Toque/RS,4312658,0,0,0,3
+2020-04-24,Brazil,RN,Nísia Floresta/RN,2408201,0,0,0,1
+2020-04-24,Brazil,CE,Ocara/CE,2309458,0,0,0,3
+2020-04-24,Brazil,PA,Oeiras do Pará/PA,1505205,0,0,0,4
+2020-04-24,Brazil,AP,Oiapoque/AP,1600501,0,0,0,6
+2020-04-24,Brazil,PE,Olinda/PE,2609600,0,25,0,324
+2020-04-24,Brazil,SP,Olímpia/SP,3533908,0,0,0,4
+2020-04-24,Brazil,PA,Oriximiná/PA,1505304,0,0,0,0
+2020-04-24,Brazil,SC,Orleans/SC,4211702,0,0,0,4
+2020-04-24,Brazil,SP,Orlândia/SP,3534302,0,0,0,4
+2020-04-24,Brazil,PE,Orocó/PE,2609808,0,0,0,1
+2020-04-24,Brazil,CE,Orós/CE,2309508,0,0,0,0
+2020-04-24,Brazil,SP,Osasco/SP,3534401,0,38,0,373
+2020-04-24,Brazil,RS,Osório/RS,4313508,0,0,0,2
+2020-04-24,Brazil,SP,Ourinhos/SP,3534708,0,0,0,10
+2020-04-24,Brazil,BA,Ouriçangas/BA,2923308,0,0,0,0
+2020-04-24,Brazil,MG,Ouro Fino/MG,3146008,0,1,0,1
+2020-04-24,Brazil,RO,Ouro Preto do Oeste/RO,1100155,0,0,0,7
+2020-04-24,Brazil,PA,Ourém/PA,1505403,0,0,0,2
+2020-04-24,Brazil,CE,Pacajus/CE,2309607,0,0,0,5
+2020-04-24,Brazil,PA,Pacajá/PA,1505486,0,0,0,1
+2020-04-24,Brazil,RR,Pacaraima/RR,1400456,0,0,0,13
+2020-04-24,Brazil,CE,Pacatuba/CE,2309706,0,0,0,24
+2020-04-24,Brazil,SE,Pacatuba/SE,2804904,0,0,0,2
+2020-04-24,Brazil,CE,Pacoti/CE,2309805,0,0,0,1
+2020-04-24,Brazil,PR,Paiçandu/PR,4117503,0,0,0,1
+2020-04-24,Brazil,SC,Palhoça/SC,4211900,0,1,0,20
+2020-04-24,Brazil,SC,Palma Sola/SC,4212007,0,0,0,1
+2020-04-24,Brazil,PE,Palmares/PE,2610004,0,3,0,5
+2020-04-24,Brazil,PR,Palmas/PR,4117602,0,0,0,1
+2020-04-24,Brazil,TO,Palmas/TO,1721000,0,1,0,28
+2020-04-24,Brazil,AL,Palmeira dos Índios/AL,2706307,0,0,0,2
+2020-04-24,Brazil,PR,Palmeira/PR,4117701,0,0,0,2
+2020-04-24,Brazil,BA,Palmeiras/BA,2923506,0,0,0,1
+2020-04-24,Brazil,SP,Palmital/SP,3535309,0,0,0,1
+2020-04-24,Brazil,PE,Panelas/PE,2610202,0,0,0,1
+2020-04-24,Brazil,SC,Papanduva/SC,4212205,0,0,0,2
+2020-04-24,Brazil,RJ,Paracambi/RJ,3303609,0,1,0,10
+2020-04-24,Brazil,MG,Paracatu/MG,3147006,0,0,0,8
+2020-04-24,Brazil,CE,Paracuru/CE,2310209,0,0,0,1
+2020-04-24,Brazil,MG,Paraisópolis/MG,3147303,0,2,0,4
+2020-04-24,Brazil,BA,Paramirim/BA,2923605,0,0,0,1
+2020-04-24,Brazil,PR,Paranacity/PR,4118105,0,0,0,5
+2020-04-24,Brazil,PR,Paranaguá/PR,4118204,0,2,0,12
+2020-04-24,Brazil,GO,Paranaiguara/GO,5216304,0,0,0,1
+2020-04-24,Brazil,PR,Paranavaí/PR,4118402,0,2,0,12
+2020-04-24,Brazil,MS,Paranaíba/MS,5006309,0,0,0,2
+2020-04-24,Brazil,RJ,Paraty/RJ,3303807,0,1,0,4
+2020-04-24,Brazil,PA,Parauapebas/PA,1505536,0,4,0,31
+2020-04-24,Brazil,RS,Paraí/RS,4314001,0,0,0,2
+2020-04-24,Brazil,RJ,Paraíba do Sul/RJ,3303708,0,0,0,3
+2020-04-24,Brazil,MS,Paraíso das Águas/MS,5006275,0,0,0,1
+2020-04-24,Brazil,TO,Paraíso do Tocantins/TO,1716109,0,1,0,1
+2020-04-24,Brazil,GO,Paraúna/GO,5216403,0,1,0,3
+2020-04-24,Brazil,RS,Pareci Novo/RS,4314035,0,0,0,1
+2020-04-24,Brazil,AM,Parintins/AM,1303403,0,3,0,44
+2020-04-24,Brazil,AL,Paripueira/AL,2706448,0,1,0,1
+2020-04-24,Brazil,SP,Pariquera-Açu/SP,3536208,0,1,0,5
+2020-04-24,Brazil,RN,Parnamirim/RN,2403251,0,1,0,81
+2020-04-24,Brazil,PI,Parnaíba/PI,2207702,0,3,0,10
+2020-04-24,Brazil,MG,Pará de Minas/MG,3147105,0,0,0,5
+2020-04-24,Brazil,RN,Passa e Fica/RN,2409100,0,0,0,1
+2020-04-24,Brazil,PE,Passira/PE,2610509,0,0,0,3
+2020-04-24,Brazil,RS,Passo Fundo/RS,4314100,0,6,0,73
+2020-04-24,Brazil,MG,Passos/MG,3147907,0,0,0,1
+2020-04-24,Brazil,PR,Pato Branco/PR,4118501,0,1,0,14
+2020-04-24,Brazil,MG,Patos de Minas/MG,3148004,0,1,0,14
+2020-04-24,Brazil,PB,Patos/PB,2510808,0,2,0,8
+2020-04-24,Brazil,MG,Patrocínio/MG,3148103,0,1,0,9
+2020-04-24,Brazil,RJ,Paty do Alferes/RJ,3303856,0,0,0,2
+2020-04-24,Brazil,RN,Pau dos Ferros/RN,2409407,0,0,0,3
+2020-04-24,Brazil,PE,Paudalho/PE,2610608,0,7,0,18
+2020-04-24,Brazil,PE,Paulista/PE,2610707,0,11,0,208
+2020-04-24,Brazil,SP,Paulistânia/SP,3536570,0,1,0,1
+2020-04-24,Brazil,BA,Paulo Afonso/BA,2924009,0,0,0,2
+2020-04-24,Brazil,SC,Paulo Lopes/SC,4212304,0,0,0,2
+2020-04-24,Brazil,SP,Paulínia/SP,3536505,0,0,0,9
+2020-04-24,Brazil,MA,Paço do Lumiar/MA,2107506,0,3,0,63
+2020-04-24,Brazil,PR,Peabiru/PR,4118808,0,0,0,2
+2020-04-24,Brazil,SP,Pederneiras/SP,3536703,0,0,0,2
+2020-04-24,Brazil,SP,Pedra Bela/SP,3536802,0,1,0,1
+2020-04-24,Brazil,AP,Pedra Branca do Amapari/AP,1600154,0,0,0,1
+2020-04-24,Brazil,CE,Pedra Branca/CE,2310506,0,1,0,2
+2020-04-24,Brazil,PE,Pedra/PE,2610806,0,0,0,4
+2020-04-24,Brazil,SC,Pedras Grandes/SC,4212403,0,1,0,2
+2020-04-24,Brazil,MA,Pedreiras/MA,2108207,0,0,0,1
+2020-04-24,Brazil,ES,Pedro Canário/ES,3204054,0,0,0,1
+2020-04-24,Brazil,PI,Pedro II/PI,2207900,0,1,0,3
+2020-04-24,Brazil,RS,Pelotas/RS,4314407,0,0,0,12
+2020-04-24,Brazil,SC,Penha/SC,4212502,0,1,0,4
+2020-04-24,Brazil,CE,Pentecoste/CE,2310704,0,0,0,4
+2020-04-24,Brazil,SP,Penápolis/SP,3537305,0,0,0,1
+2020-04-24,Brazil,MG,Perdões/MG,3149903,0,0,0,1
+2020-04-24,Brazil,CE,Pereiro/CE,2310803,0,0,0,3
+2020-04-24,Brazil,SP,Peruíbe/SP,3537602,0,0,0,9
+2020-04-24,Brazil,SC,Pescaria Brava/SC,4212650,0,0,0,1
+2020-04-24,Brazil,PE,Pesqueira/PE,2610905,0,0,0,1
+2020-04-24,Brazil,PE,Petrolina/PE,2611101,0,0,0,14
+2020-04-24,Brazil,RJ,Petrópolis/RJ,3303906,0,8,0,76
+2020-04-24,Brazil,PI,Picos/PI,2208007,0,1,0,2
+2020-04-24,Brazil,MG,Piedade dos Gerais/MG,3150406,0,0,0,1
+2020-04-24,Brazil,SP,Piedade/SP,3537800,0,0,0,2
+2020-04-24,Brazil,SP,Pilar do Sul/SP,3537909,0,0,0,3
+2020-04-24,Brazil,AL,Pilar/AL,2706901,0,0,0,3
+2020-04-24,Brazil,RO,Pimenta Bueno/RO,1100189,0,0,0,1
+2020-04-24,Brazil,PI,Pimenteiras/PI,2208106,0,0,0,1
+2020-04-24,Brazil,SP,Pindamonhangaba/SP,3538006,0,1,0,6
+2020-04-24,Brazil,SP,Pindorama/SP,3538105,0,0,0,2
+2020-04-24,Brazil,CE,Pindoretama/CE,2310852,0,1,0,2
+2020-04-24,Brazil,PR,Pinhais/PR,4119152,0,1,0,19
+2020-04-24,Brazil,PR,Pinhal de São Bento/PR,4119251,0,0,0,1
+2020-04-24,Brazil,RJ,Pinheiral/RJ,3303955,0,0,0,4
+2020-04-24,Brazil,PR,Pinhão/PR,4119301,0,0,0,2
+2020-04-24,Brazil,SP,Piracaia/SP,3538600,0,0,0,1
+2020-04-24,Brazil,SP,Piracicaba/SP,3538709,0,2,0,34
+2020-04-24,Brazil,PI,Piracuruca/PI,2208304,0,2,0,6
+2020-04-24,Brazil,SP,Piraju/SP,3538808,0,0,0,2
+2020-04-24,Brazil,SP,Pirajuí/SP,3538907,0,0,0,1
+2020-04-24,Brazil,MG,Pirapetinga/MG,3151107,0,0,0,1
+2020-04-24,Brazil,MG,Pirapora/MG,3151206,0,0,0,2
+2020-04-24,Brazil,PR,Piraquara/PR,4119509,0,0,0,3
+2020-04-24,Brazil,SP,Pirassununga/SP,3539301,0,0,0,1
+2020-04-24,Brazil,RS,Piratini/RS,4314605,0,0,0,1
+2020-04-24,Brazil,SP,Piratininga/SP,3539400,0,0,0,3
+2020-04-24,Brazil,RJ,Piraí/RJ,3304003,0,0,0,3
+2020-04-24,Brazil,GO,Pirenópolis/GO,5217302,0,0,0,0
+2020-04-24,Brazil,GO,Pires do Rio/GO,5217401,0,1,0,3
+2020-04-24,Brazil,BA,Piripá/BA,2924702,0,0,0,1
+2020-04-24,Brazil,SP,Pitangueiras/SP,3539509,0,1,0,1
+2020-04-24,Brazil,MG,Piumhi/MG,3151503,0,1,0,2
+2020-04-24,Brazil,ES,Piúma/ES,3204203,0,0,0,2
+2020-04-24,Brazil,PR,Planaltina do Paraná/PR,4119707,0,0,0,2
+2020-04-24,Brazil,GO,Planaltina/GO,5217609,0,1,0,1
+2020-04-24,Brazil,AC,Plácido de Castro/AC,1200385,0,1,0,21
+2020-04-24,Brazil,BA,Pojuca/BA,2925204,0,0,0,1
+2020-04-24,Brazil,PB,Pombal/PB,2512101,0,0,0,2
+2020-04-24,Brazil,PE,Pombos/PE,2611309,0,1,0,8
+2020-04-24,Brazil,SC,Pomerode/SC,4213203,0,0,0,2
+2020-04-24,Brazil,PR,Ponta Grossa/PR,4119905,0,0,0,11
+2020-04-24,Brazil,MS,Ponta Porã/MS,5006606,0,0,0,1
+2020-04-24,Brazil,MT,Pontal do Araguaia/MT,5106653,0,0,0,1
+2020-04-24,Brazil,SP,Pontal/SP,3540200,0,0,0,4
+2020-04-24,Brazil,MT,Pontes e Lacerda/MT,5106752,0,0,0,1
+2020-04-24,Brazil,SP,Populina/SP,3540408,0,0,0,1
+2020-04-24,Brazil,RJ,Porciúncula/RJ,3304102,0,0,0,1
+2020-04-24,Brazil,CE,Porteiras/CE,2311108,0,0,0,2
+2020-04-24,Brazil,AC,Porto Acre/AC,1200807,0,0,0,1
+2020-04-24,Brazil,RS,Porto Alegre/RS,4314902,0,10,0,413
+2020-04-24,Brazil,SC,Porto Belo/SC,4213500,0,1,0,5
+2020-04-24,Brazil,SP,Porto Feliz/SP,3540606,0,0,0,4
+2020-04-24,Brazil,SP,Porto Ferreira/SP,3540705,0,1,0,2
+2020-04-24,Brazil,MG,Porto Firme/MG,3152303,0,0,0,1
+2020-04-24,Brazil,AP,Porto Grande/AP,1600535,0,0,0,6
+2020-04-24,Brazil,AL,Porto Real do Colégio/AL,2707503,0,0,0,1
+2020-04-24,Brazil,RJ,Porto Real/RJ,3304110,0,0,0,3
+2020-04-24,Brazil,BA,Porto Seguro/BA,2925303,0,0,0,17
+2020-04-24,Brazil,RO,Porto Velho/RO,1100205,0,3,0,180
+2020-04-24,Brazil,SE,Porto da Folha/SE,2805604,0,0,0,1
+2020-04-24,Brazil,CE,Potiretama/CE,2311231,0,0,0,1
+2020-04-24,Brazil,MG,Pouso Alegre/MG,3152501,0,2,0,21
+2020-04-24,Brazil,SC,Pouso Redondo/SC,4213708,0,1,0,1
+2020-04-24,Brazil,SP,Poá/SP,3539806,0,3,0,32
+2020-04-24,Brazil,RN,Poço Branco/RN,2410108,0,0,0,1
+2020-04-24,Brazil,MG,Poços de Caldas/MG,3151800,0,1,0,11
+2020-04-24,Brazil,PE,Poção/PE,2611200,0,0,0,1
+2020-04-24,Brazil,BA,Prado/BA,2925501,0,0,0,4
+2020-04-24,Brazil,SP,Praia Grande/SP,3541000,0,7,0,60
+2020-04-24,Brazil,SP,Pratânia/SP,3541059,0,0,0,2
+2020-04-24,Brazil,AM,Presidente Figueiredo/AM,1303536,0,1,0,12
+2020-04-24,Brazil,MA,Presidente Juscelino/MA,2109205,0,0,0,4
+2020-04-24,Brazil,ES,Presidente Kennedy/ES,3204302,0,1,0,3
+2020-04-24,Brazil,SP,Presidente Prudente/SP,3541406,0,2,0,8
+2020-04-24,Brazil,SP,Presidente Venceslau/SP,3541505,0,4,0,9
+2020-04-24,Brazil,MT,Primavera do Leste/MT,5107040,0,0,0,6
+2020-04-24,Brazil,PA,Primavera/PA,1506104,0,0,0,1
+2020-04-24,Brazil,PR,Primeiro de Maio/PR,4120507,0,1,0,2
+2020-04-24,Brazil,GO,Professor Jamil/GO,5218391,0,1,0,5
+2020-04-24,Brazil,SP,Promissão/SP,3541604,0,0,0,3
+2020-04-24,Brazil,SE,Propriá/SE,2805703,0,0,0,2
+2020-04-24,Brazil,PR,Quatiguá/PR,4120705,0,1,0,2
+2020-04-24,Brazil,PA,Quatipuru/PA,1506112,0,0,0,1
+2020-04-24,Brazil,RJ,Quatis/RJ,3304128,0,0,0,3
+2020-04-24,Brazil,PR,Quatro Barras/PR,4120804,0,0,0,1
+2020-04-24,Brazil,SP,Quatá/SP,3541703,0,0,0,2
+2020-04-24,Brazil,PB,Queimadas/PB,2512507,0,0,0,1
+2020-04-24,Brazil,RJ,Queimados/RJ,3304144,0,3,0,35
+2020-04-24,Brazil,PR,Querência do Norte/PR,4121000,0,0,0,1
+2020-04-24,Brazil,SP,Quintana/SP,3542008,0,0,0,1
+2020-04-24,Brazil,PE,Quipapá/PE,2611507,0,0,0,1
+2020-04-24,Brazil,RJ,Quissamã/RJ,3304151,0,0,0,3
+2020-04-24,Brazil,PR,Quitandinha/PR,4121208,0,0,0,2
+2020-04-24,Brazil,CE,Quiterianópolis/CE,2311264,0,0,0,1
+2020-04-24,Brazil,PE,Quixaba/PE,2611533,0,0,0,1
+2020-04-24,Brazil,CE,Quixadá/CE,2311306,0,0,0,20
+2020-04-24,Brazil,CE,Quixeramobim/CE,2311405,0,1,0,11
+2020-04-24,Brazil,CE,Quixeré/CE,2311504,0,0,0,2
+2020-04-24,Brazil,PR,Ramilândia/PR,4121257,0,0,0,1
+2020-04-24,Brazil,SP,Rancharia/SP,3542206,0,0,0,1
+2020-04-24,Brazil,SC,Rancho Queimado/SC,4214300,0,0,0,2
+2020-04-24,Brazil,MA,Raposa/MA,2109452,0,2,0,10
+2020-04-24,Brazil,PE,Recife/PE,2611606,0,138,0,2062
+2020-04-24,Brazil,CE,Redenção/CE,2311603,0,0,0,5
+2020-04-24,Brazil,PA,Redenção/PA,1506138,0,0,0,1
+2020-04-24,Brazil,SP,Registro/SP,3542602,0,1,0,4
+2020-04-24,Brazil,CE,Reriutaba/CE,2311702,0,0,0,1
+2020-04-24,Brazil,RJ,Resende/RJ,3304201,0,4,0,15
+2020-04-24,Brazil,PB,Riachão do Poço/PB,2512762,0,1,0,1
+2020-04-24,Brazil,GO,Rialma/GO,5218607,0,0,0,4
+2020-04-24,Brazil,PI,Ribeira do Piauí/PI,2208874,0,0,0,1
+2020-04-24,Brazil,BA,Ribeira do Pombal/BA,2926608,0,0,0,1
+2020-04-24,Brazil,SP,Ribeirão Pires/SP,3543303,0,1,0,35
+2020-04-24,Brazil,SP,Ribeirão Preto/SP,3543402,0,5,0,88
+2020-04-24,Brazil,MG,Ribeirão das Neves/MG,3154606,0,0,0,2
+2020-04-24,Brazil,PE,Ribeirão/PE,2611804,0,0,0,2
+2020-04-24,Brazil,SP,Rincão/SP,3543709,0,0,0,1
+2020-04-24,Brazil,SP,Rinópolis/SP,3543808,0,0,0,1
+2020-04-24,Brazil,RJ,Rio Bonito/RJ,3304300,0,3,0,15
+2020-04-24,Brazil,PR,Rio Branco do Sul/PR,4122206,0,0,0,4
+2020-04-24,Brazil,AC,Rio Branco/AC,1200401,0,9,0,185
+2020-04-24,Brazil,MT,Rio Branco/MT,5107206,0,0,0,2
+2020-04-24,Brazil,SP,Rio Claro/SP,3543907,0,4,0,14
+2020-04-24,Brazil,PE,Rio Formoso/PE,2611903,0,0,0,3
+2020-04-24,Brazil,SP,Rio Grande da Serra/SP,3544103,0,0,0,9
+2020-04-24,Brazil,RS,Rio Grande/RS,4315602,0,0,0,4
+2020-04-24,Brazil,AL,Rio Largo/AL,2707701,0,0,0,5
+2020-04-24,Brazil,SC,Rio Negrinho/SC,4215000,0,0,0,1
+2020-04-24,Brazil,PR,Rio Negro/PR,4122305,0,0,0,2
+2020-04-24,Brazil,ES,Rio Novo do Sul/ES,3204401,0,0,0,3
+2020-04-24,Brazil,RS,Rio Pardo/RS,4315701,0,0,0,1
+2020-04-24,Brazil,AM,Rio Preto da Eva/AM,1303569,0,0,0,2
+2020-04-24,Brazil,BA,Rio Real/BA,2927002,0,0,0,1
+2020-04-24,Brazil,SC,Rio Rufino/SC,4215059,0,0,0,1
+2020-04-24,Brazil,MS,Rio Verde de Mato Grosso/MS,5007406,0,0,0,1
+2020-04-24,Brazil,GO,Rio Verde/GO,5218805,0,1,0,13
+2020-04-24,Brazil,RJ,Rio das Flores/RJ,3304508,0,0,0,2
+2020-04-24,Brazil,RJ,Rio das Ostras/RJ,3304524,0,5,0,24
+2020-04-24,Brazil,RJ,Rio de Janeiro/RJ,3304557,0,322,0,4027
+2020-04-24,Brazil,BA,Rio do Pires/BA,2926905,0,0,0,2
+2020-04-24,Brazil,SC,Rio do Sul/SC,4214805,0,0,0,2
+2020-04-24,Brazil,RS,Rolante/RS,4316006,0,0,0,1
+2020-04-24,Brazil,RO,Rolim de Moura/RO,1100288,0,0,0,3
+2020-04-24,Brazil,PR,Rolândia/PR,4122404,0,0,0,3
+2020-04-24,Brazil,PA,Rondon do Pará/PA,1506187,0,1,0,1
+2020-04-24,Brazil,MT,Rondonópolis/MT,5107602,0,2,0,35
+2020-04-24,Brazil,RR,Rorainópolis/RR,1400472,0,0,0,9
+2020-04-24,Brazil,RS,Rosário do Sul/RS,4316402,0,0,0,1
+2020-04-24,Brazil,MA,Rosário/MA,2109601,0,0,0,6
+2020-04-24,Brazil,CE,Russas/CE,2311801,0,1,0,14
+2020-04-24,Brazil,MG,Sabará/MG,3156700,0,0,0,10
+2020-04-24,Brazil,SP,Salesópolis/SP,3545001,0,1,0,1
+2020-04-24,Brazil,SC,Salete/SC,4215307,0,0,0,2
+2020-04-24,Brazil,PE,Salgueiro/PE,2612208,0,0,0,8
+2020-04-24,Brazil,PA,Salinópolis/PA,1506203,0,0,0,2
+2020-04-24,Brazil,CE,Salitre/CE,2311959,0,1,0,1
+2020-04-24,Brazil,SP,Salto de Pirapora/SP,3545308,0,0,0,6
+2020-04-24,Brazil,SP,Salto/SP,3545209,0,0,0,5
+2020-04-24,Brazil,BA,Salvador/BA,2927408,0,34,0,1137
+2020-04-24,Brazil,PA,Salvaterra/PA,1506302,0,0,0,2
+2020-04-24,Brazil,RS,Sananduva/RS,4316600,0,0,0,3
+2020-04-24,Brazil,SC,Sangão/SC,4215455,0,0,0,2
+2020-04-24,Brazil,PE,Sanharó/PE,2612406,0,0,0,0
+2020-04-24,Brazil,RS,Sant'Ana do Livramento/RS,4317103,0,0,0,9
+2020-04-24,Brazil,SP,Santa Branca/SP,3546009,0,1,0,2
+2020-04-24,Brazil,SP,Santa Bárbara d'Oeste/SP,3545803,0,1,0,2
+2020-04-24,Brazil,PA,Santa Bárbara do Pará/PA,1506351,0,0,0,7
+2020-04-24,Brazil,SC,Santa Cecília/SC,4215505,0,0,0,1
+2020-04-24,Brazil,RS,Santa Clara do Sul/RS,4316758,0,0,0,1
+2020-04-24,Brazil,BA,Santa Cruz Cabrália/BA,2927705,0,0,0,7
+2020-04-24,Brazil,PR,Santa Cruz de Monte Castelo/PR,4123303,0,0,0,2
+2020-04-24,Brazil,PA,Santa Cruz do Arari/PA,1506401,0,0,0,4
+2020-04-24,Brazil,PE,Santa Cruz do Capibaribe/PE,2612505,0,0,0,2
+2020-04-24,Brazil,SP,Santa Cruz do Rio Pardo/SP,3546405,0,0,0,6
+2020-04-24,Brazil,RS,Santa Cruz do Sul/RS,4316808,0,0,0,1
+2020-04-24,Brazil,RN,Santa Cruz/RN,2411205,0,0,0,3
+2020-04-24,Brazil,PR,Santa Fé/PR,4123402,0,1,0,7
+2020-04-24,Brazil,SP,Santa Gertrudes/SP,3546702,0,0,0,1
+2020-04-24,Brazil,MA,Santa Inês/MA,2109908,0,0,0,3
+2020-04-24,Brazil,PR,Santa Isabel do Ivaí/PR,4123709,0,0,0,0
+2020-04-24,Brazil,AM,Santa Isabel do Rio Negro/AM,1303601,0,0,0,1
+2020-04-24,Brazil,SP,Santa Isabel/SP,3546801,0,3,0,5
+2020-04-24,Brazil,PA,Santa Izabel do Pará/PA,1506500,0,0,0,19
+2020-04-24,Brazil,ES,Santa Leopoldina/ES,3204500,0,0,0,1
+2020-04-24,Brazil,BA,Santa Luzia/BA,2928059,0,0,0,2
+2020-04-24,Brazil,MG,Santa Luzia/MG,3157807,0,0,0,7
+2020-04-24,Brazil,SP,Santa Lúcia/SP,3546900,0,0,0,2
+2020-04-24,Brazil,BA,Santa Maria da Vitória/BA,2928109,0,0,0,1
+2020-04-24,Brazil,MG,Santa Maria de Itabira/MG,3158003,0,0,0,1
+2020-04-24,Brazil,ES,Santa Maria de Jetibá/ES,3204559,0,0,0,4
+2020-04-24,Brazil,PA,Santa Maria do Pará/PA,1506609,0,0,0,1
+2020-04-24,Brazil,RS,Santa Maria/RS,4316907,0,0,0,22
+2020-04-24,Brazil,PR,Santa Mônica/PR,4123956,0,1,0,7
+2020-04-24,Brazil,CE,Santa Quitéria/CE,2312205,0,1,0,4
+2020-04-24,Brazil,SP,Santa Rita do Passa Quatro/SP,3547502,0,1,0,1
+2020-04-24,Brazil,MA,Santa Rita/MA,2110203,0,0,0,13
+2020-04-24,Brazil,PB,Santa Rita/PB,2513703,0,4,0,25
+2020-04-24,Brazil,SC,Santa Rosa de Lima/SC,4215604,0,0,0,0
+2020-04-24,Brazil,SC,Santa Rosa do Sul/SC,4215653,0,0,0,1
+2020-04-24,Brazil,RS,Santa Rosa/RS,4317202,0,0,0,4
+2020-04-24,Brazil,ES,Santa Teresa/ES,3204609,0,0,0,4
+2020-04-24,Brazil,BA,Santa Teresinha/BA,2928505,0,0,0,2
+2020-04-24,Brazil,PR,Santa Terezinha de Itaipu/PR,4124053,0,0,0,1
+2020-04-24,Brazil,SP,Santana de Parnaíba/SP,3547304,0,1,0,66
+2020-04-24,Brazil,CE,Santana do Acaraú/CE,2312007,0,0,0,4
+2020-04-24,Brazil,PR,Santana do Itararé/PR,4124004,0,0,0,1
+2020-04-24,Brazil,MG,Santana do Paraíso/MG,3158953,0,0,0,3
+2020-04-24,Brazil,AP,Santana/AP,1600600,0,2,0,69
+2020-04-24,Brazil,PA,Santarém/PA,1506807,0,5,0,39
+2020-04-24,Brazil,RS,Santiago/RS,4317400,0,0,0,1
+2020-04-24,Brazil,SC,Santo Amaro da Imperatriz/SC,4215703,0,0,0,3
+2020-04-24,Brazil,SP,Santo André/SP,3547809,0,15,0,286
+2020-04-24,Brazil,SP,Santo Antônio da Alegria/SP,3547908,0,1,0,1
+2020-04-24,Brazil,RS,Santo Antônio da Patrulha/RS,4317608,0,0,0,2
+2020-04-24,Brazil,RJ,Santo Antônio de Pádua/RJ,3304706,0,0,0,1
+2020-04-24,Brazil,PR,Santo Antônio do Caiuá/PR,4124202,0,1,0,2
+2020-04-24,Brazil,GO,Santo Antônio do Descoberto/GO,5219753,0,0,0,3
+2020-04-24,Brazil,AM,Santo Antônio do Içá/AM,1303700,0,0,0,11
+2020-04-24,Brazil,MG,Santo Antônio do Monte/MG,3160405,0,0,0,3
+2020-04-24,Brazil,PA,Santo Antônio do Tauá/PA,1507003,0,0,0,14
+2020-04-24,Brazil,RN,Santo Antônio/RN,2411502,0,0,0,6
+2020-04-24,Brazil,RS,Santo Cristo/RS,4317905,0,0,0,1
+2020-04-24,Brazil,MG,Santos Dumont/MG,3160702,0,0,0,3
+2020-04-24,Brazil,SP,Santos/SP,3548500,0,19,0,332
+2020-04-24,Brazil,RS,Sapiranga/RS,4319901,0,0,0,7
+2020-04-24,Brazil,RS,Sapucaia do Sul/RS,4320008,0,0,0,8
+2020-04-24,Brazil,RJ,Sapucaia/RJ,3305406,0,2,0,3
+2020-04-24,Brazil,PB,Sapé/PB,2515302,0,1,0,10
+2020-04-24,Brazil,RJ,Saquarema/RJ,3305505,0,0,0,5
+2020-04-24,Brazil,PR,Sarandi/PR,4126256,0,0,0,2
+2020-04-24,Brazil,RS,Sarandi/RS,4320107,0,0,0,1
+2020-04-24,Brazil,MG,Sarzedo/MG,3165537,0,0,0,1
+2020-04-24,Brazil,AL,Satuba/AL,2708907,0,0,0,2
+2020-04-24,Brazil,SC,Schroeder/SC,4217402,0,0,0,1
+2020-04-24,Brazil,MS,Selvíria/MS,5007802,0,0,0,1
+2020-04-24,Brazil,MG,Senador Amaral/MG,3165578,0,0,0,4
+2020-04-24,Brazil,GO,Senador Canedo/GO,5220454,0,0,0,4
+2020-04-24,Brazil,AC,Senador Guiomard/AC,1200450,0,0,0,2
+2020-04-24,Brazil,CE,Senador Pompeu/CE,2312700,0,0,0,5
+2020-04-24,Brazil,CE,Senador Sá/CE,2312809,0,0,0,1
+2020-04-24,Brazil,RS,Serafina Corrêa/RS,4320404,0,1,0,8
+2020-04-24,Brazil,RJ,Seropédica/RJ,3305554,0,0,0,5
+2020-04-24,Brazil,PB,Serra Branca/PB,2515500,0,0,0,1
+2020-04-24,Brazil,RN,Serra Negra do Norte/RN,2413409,0,0,0,1
+2020-04-24,Brazil,BA,Serra Preta/BA,2930402,0,0,0,1
+2020-04-24,Brazil,PE,Serra Talhada/PE,2613909,0,0,0,6
+2020-04-24,Brazil,RN,Serra de São Bento/RN,2413300,0,0,0,1
+2020-04-24,Brazil,AP,Serra do Navio/AP,1600055,0,0,0,2
+2020-04-24,Brazil,BA,Serra do Ramalho/BA,2930154,0,0,0,1
+2020-04-24,Brazil,MG,Serra do Salitre/MG,3166808,0,0,0,1
+2020-04-24,Brazil,ES,Serra/ES,3205002,0,14,0,333
+2020-04-24,Brazil,SP,Serrana/SP,3551504,0,0,0,1
+2020-04-24,Brazil,BA,Serrinha/BA,2930501,0,0,0,4
+2020-04-24,Brazil,PR,Sertaneja/PR,4126405,0,0,0,1
+2020-04-24,Brazil,PE,Sertânia/PE,2614105,0,1,0,1
+2020-04-24,Brazil,SP,Sertãozinho/SP,3551702,0,1,0,9
+2020-04-24,Brazil,MG,Sete Lagoas/MG,3167202,0,0,0,6
+2020-04-24,Brazil,SC,Siderópolis/SC,4217600,0,0,0,7
+2020-04-24,Brazil,MS,Sidrolândia/MS,5007901,0,0,0,1
+2020-04-24,Brazil,RJ,Silva Jardim/RJ,3305604,0,0,0,3
+2020-04-24,Brazil,GO,Silvânia/GO,5220603,0,0,0,1
+2020-04-24,Brazil,SE,Simão Dias/SE,2807105,0,1,0,4
+2020-04-24,Brazil,BA,Simões Filho/BA,2930709,0,0,0,6
+2020-04-24,Brazil,MT,Sinop/MT,5107909,0,0,0,14
+2020-04-24,Brazil,PR,Siqueira Campos/PR,4126603,0,1,0,1
+2020-04-24,Brazil,PE,Sirinhaém/PE,2614204,0,0,0,3
+2020-04-24,Brazil,CE,Sobral/CE,2312908,0,2,0,75
+2020-04-24,Brazil,MG,Sobrália/MG,3167707,0,0,0,1
+2020-04-24,Brazil,RS,Soledade/RS,4320800,0,0,0,1
+2020-04-24,Brazil,CE,Solonópole/CE,2313005,0,1,0,1
+2020-04-24,Brazil,SC,Sombrio/SC,4217709,0,1,0,11
+2020-04-24,Brazil,MS,Sonora/MS,5007935,0,0,0,11
+2020-04-24,Brazil,ES,Sooretama/ES,3205010,0,0,0,2
+2020-04-24,Brazil,SP,Sorocaba/SP,3552205,0,12,0,58
+2020-04-24,Brazil,PB,Sousa/PB,2516201,0,0,0,4
+2020-04-24,Brazil,SP,Sumaré/SP,3552403,0,0,0,10
+2020-04-24,Brazil,RJ,Sumidouro/RJ,3305703,0,0,0,2
+2020-04-24,Brazil,PE,Surubim/PE,2614501,0,0,0,3
+2020-04-24,Brazil,SP,Suzano/SP,3552502,0,7,0,84
+2020-04-24,Brazil,MA,São Benedito do Rio Preto/MA,2110401,0,0,0,1
+2020-04-24,Brazil,SC,São Bento do Sul/SC,4215802,0,0,0,1
+2020-04-24,Brazil,PE,São Bento do Una/PE,2613008,0,0,0,1
+2020-04-24,Brazil,PB,São Bento/PB,2513901,0,0,0,1
+2020-04-24,Brazil,SP,São Bernardo do Campo/SP,3548708,0,25,0,358
+2020-04-24,Brazil,MG,São Brás do Suaçuí/MG,3160900,0,0,0,2
+2020-04-24,Brazil,PA,São Caetano de Odivelas/PA,1507102,0,0,0,1
+2020-04-24,Brazil,SP,São Caetano do Sul/SP,3548807,0,5,0,114
+2020-04-24,Brazil,PE,São Caitano/PE,2613107,0,0,0,4
+2020-04-24,Brazil,SP,São Carlos/SP,3548906,0,2,0,9
+2020-04-24,Brazil,SE,São Cristóvão/SE,2806701,0,0,0,3
+2020-04-24,Brazil,RS,São Domingos do Sul/RS,4318051,0,0,0,3
+2020-04-24,Brazil,BA,São Domingos/BA,2928950,0,0,0,1
+2020-04-24,Brazil,SC,São Domingos/SC,4216107,0,0,0,5
+2020-04-24,Brazil,RJ,São Fidélis/RJ,3304805,0,0,0,3
+2020-04-24,Brazil,RJ,São Francisco de Itabapoana/RJ,3304755,0,1,0,2
+2020-04-24,Brazil,BA,São Francisco do Conde/BA,2929206,0,0,0,3
+2020-04-24,Brazil,SC,São Francisco do Sul/SC,4216206,0,0,0,2
+2020-04-24,Brazil,MG,São Francisco/MG,3161106,0,1,0,1
+2020-04-24,Brazil,AM,São Gabriel da Cachoeira/AM,1303809,0,0,0,0
+2020-04-24,Brazil,ES,São Gabriel da Palha/ES,3204708,0,0,0,3
+2020-04-24,Brazil,RS,São Gabriel/RS,4318309,0,0,0,1
+2020-04-24,Brazil,MG,São Geraldo da Piedade/MG,3161601,0,1,0,1
+2020-04-24,Brazil,PA,São Geraldo do Araguaia/PA,1507458,0,0,0,1
+2020-04-24,Brazil,CE,São Gonçalo do Amarante/CE,2312403,0,1,0,6
+2020-04-24,Brazil,RN,São Gonçalo do Amarante/RN,2412005,0,2,0,39
+2020-04-24,Brazil,RJ,São Gonçalo/RJ,3304904,0,14,0,144
+2020-04-24,Brazil,MG,São Gotardo/MG,3162104,0,0,0,2
+2020-04-24,Brazil,SP,São Joaquim da Barra/SP,3549409,0,0,0,2
+2020-04-24,Brazil,RS,São Jorge/RS,4318440,0,0,0,2
+2020-04-24,Brazil,PE,São José da Coroa Grande/PE,2613404,0,1,0,4
+2020-04-24,Brazil,MG,São José da Lapa/MG,3162955,0,0,0,2
+2020-04-24,Brazil,BA,São José da Vitória/BA,2929354,0,0,0,1
+2020-04-24,Brazil,RN,São José de Mipibu/RN,2412203,0,0,0,5
+2020-04-24,Brazil,MA,São José de Ribamar/MA,2111201,0,5,0,126
+2020-04-24,Brazil,ES,São José do Calçado/ES,3204807,0,0,0,2
+2020-04-24,Brazil,PI,São José do Divino/PI,2210052,0,1,0,3
+2020-04-24,Brazil,PE,São José do Egito/PE,2613602,0,0,0,1
+2020-04-24,Brazil,PI,São José do Piauí/PI,2210201,0,0,0,1
+2020-04-24,Brazil,SP,São José do Rio Pardo/SP,3549706,0,0,0,1
+2020-04-24,Brazil,SP,São José do Rio Preto/SP,3549805,0,8,0,74
+2020-04-24,Brazil,SP,São José dos Campos/SP,3549904,0,5,0,141
+2020-04-24,Brazil,PR,São José dos Pinhais/PR,4125506,0,0,0,18
+2020-04-24,Brazil,MT,São José dos Quatro Marcos/MT,5107107,0,0,0,5
+2020-04-24,Brazil,SC,São José/SC,4216602,0,1,0,48
+2020-04-24,Brazil,MG,São João Nepomuceno/MG,3162906,0,0,0,1
+2020-04-24,Brazil,RJ,São João da Barra/RJ,3305000,0,0,0,1
+2020-04-24,Brazil,SP,São João da Boa Vista/SP,3549102,0,0,0,5
+2020-04-24,Brazil,RJ,São João de Meriti/RJ,3305109,0,8,0,116
+2020-04-24,Brazil,PA,São João de Pirabas/PA,1507474,0,0,0,1
+2020-04-24,Brazil,MG,São João del Rei/MG,3162500,0,0,0,5
+2020-04-24,Brazil,PA,São João do Araguaia/PA,1507508,0,0,0,1
+2020-04-24,Brazil,PR,São João do Caiuá/PR,4124905,0,0,0,7
+2020-04-24,Brazil,PR,São João do Ivaí/PR,4125001,0,1,0,6
+2020-04-24,Brazil,CE,São João do Jaguaribe/CE,2312502,0,0,0,1
+2020-04-24,Brazil,PB,São João do Rio do Peixe/PB,2500700,0,0,0,2
+2020-04-24,Brazil,MA,São João dos Patos/MA,2111102,0,0,0,1
+2020-04-24,Brazil,RS,São Leopoldo/RS,4318705,0,1,0,24
+2020-04-24,Brazil,PE,São Lourenço da Mata/PE,2613701,0,20,0,94
+2020-04-24,Brazil,SP,São Lourenço da Serra/SP,3549953,0,1,0,2
+2020-04-24,Brazil,SC,São Lourenço do Oeste/SC,4216909,0,0,0,2
+2020-04-24,Brazil,RS,São Lourenço do Sul/RS,4318804,0,0,0,2
+2020-04-24,Brazil,MG,São Lourenço/MG,3163706,0,0,0,2
+2020-04-24,Brazil,SC,São Ludgero/SC,4217006,0,1,0,6
+2020-04-24,Brazil,RR,São Luiz/RR,1400605,0,0,0,1
+2020-04-24,Brazil,GO,São Luís de Montes Belos/GO,5220108,0,0,0,2
+2020-04-24,Brazil,CE,São Luís do Curu/CE,2312601,0,1,0,4
+2020-04-24,Brazil,MA,São Luís/MA,2111300,0,71,0,1567
+2020-04-24,Brazil,PR,São Manoel do Paraná/PR,4125555,0,0,0,1
+2020-04-24,Brazil,SP,São Manuel/SP,3550100,0,1,0,5
+2020-04-24,Brazil,ES,São Mateus/ES,3204906,0,1,0,12
+2020-04-24,Brazil,SP,São Miguel Arcanjo/SP,3550209,0,0,0,3
+2020-04-24,Brazil,RN,São Miguel do Gostoso/RN,2412559,0,0,0,1
+2020-04-24,Brazil,PA,São Miguel do Guamá/PA,1507607,0,1,0,10
+2020-04-24,Brazil,AL,São Miguel dos Milagres/AL,2708709,0,1,0,1
+2020-04-24,Brazil,RN,São Miguel/RN,2412500,0,0,0,1
+2020-04-24,Brazil,AM,São Paulo de Olivença/AM,1303908,0,0,0,17
+2020-04-24,Brazil,SP,São Paulo/SP,3550308,0,912,0,11225
+2020-04-24,Brazil,RJ,São Pedro da Aldeia/RJ,3305208,0,2,0,15
+2020-04-24,Brazil,SC,São Pedro de Alcântara/SC,4217253,0,0,0,1
+2020-04-24,Brazil,RN,São Pedro/RN,2412708,0,0,0,1
+2020-04-24,Brazil,SP,São Pedro/SP,3550407,0,0,0,1
+2020-04-24,Brazil,RN,São Rafael/RN,2412807,0,1,0,3
+2020-04-24,Brazil,PI,São Raimundo Nonato/PI,2210607,0,0,0,13
+2020-04-24,Brazil,ES,São Roque do Canaã/ES,3204955,0,0,0,2
+2020-04-24,Brazil,SP,São Roque/SP,3550605,0,0,0,8
+2020-04-24,Brazil,PA,São Sebastião da Boa Vista/PA,1507706,0,0,0,6
+2020-04-24,Brazil,SP,São Sebastião da Grama/SP,3550803,0,0,0,1
+2020-04-24,Brazil,RS,São Sebastião do Caí/RS,4319505,0,0,0,2
+2020-04-24,Brazil,MG,São Sebastião do Paraíso/MG,3164704,0,1,0,2
+2020-04-24,Brazil,SP,São Sebastião/SP,3550704,0,2,0,14
+2020-04-24,Brazil,MG,São Tomás de Aquino/MG,3165107,0,1,0,2
+2020-04-24,Brazil,PE,São Vicente Ferrer/PE,2613800,0,0,0,1
+2020-04-24,Brazil,SP,São Vicente/SP,3551009,0,1,0,61
+2020-04-24,Brazil,TO,Sítio Novo do Tocantins/TO,1720804,0,0,0,1
+2020-04-24,Brazil,AM,Tabatinga/AM,1304062,0,1,0,33
+2020-04-24,Brazil,RS,Tabaí/RS,4320859,0,0,0,4
+2020-04-24,Brazil,PE,Tabira/PE,2614600,0,1,0,1
+2020-04-24,Brazil,SP,Taboão da Serra/SP,3552809,0,11,0,140
+2020-04-24,Brazil,CE,Tabuleiro do Norte/CE,2313104,0,0,0,4
+2020-04-24,Brazil,SP,Taiaçu/SP,3553104,0,0,0,0
+2020-04-24,Brazil,PA,Tailândia/PA,1507953,0,0,0,1
+2020-04-24,Brazil,RN,Taipu/RN,2413904,0,1,0,1
+2020-04-24,Brazil,PE,Tamandaré/PE,2614857,0,0,0,1
+2020-04-24,Brazil,PR,Tamboara/PR,4126702,0,0,0,1
+2020-04-24,Brazil,SP,Tanabi/SP,3553401,0,0,0,3
+2020-04-24,Brazil,MT,Tangará da Serra/MT,5107958,0,0,0,5
+2020-04-24,Brazil,SC,Tangará/SC,4217907,0,1,0,2
+2020-04-24,Brazil,RJ,Tanguá/RJ,3305752,0,6,0,11
+2020-04-24,Brazil,BA,Taperoá/BA,2931202,0,0,0,4
+2020-04-24,Brazil,PB,Taperoá/PB,2516508,0,1,0,1
+2020-04-24,Brazil,RS,Taquara/RS,4321204,0,0,0,1
+2020-04-24,Brazil,RS,Taquari/RS,4321303,0,0,0,8
+2020-04-24,Brazil,SP,Taquaritinga/SP,3553708,0,0,0,1
+2020-04-24,Brazil,SP,Taquarituba/SP,3553807,0,0,0,1
+2020-04-24,Brazil,SP,Tarabai/SP,3553906,0,0,0,2
+2020-04-24,Brazil,SP,Tatuí/SP,3554003,0,0,0,8
+2020-04-24,Brazil,SP,Taubaté/SP,3554102,0,0,0,9
+2020-04-24,Brazil,CE,Tauá/CE,2313302,0,0,0,12
+2020-04-24,Brazil,AM,Tefé/AM,1304203,0,1,0,7
+2020-04-24,Brazil,BA,Teixeira de Freitas/BA,2931350,0,0,0,9
+2020-04-24,Brazil,PR,Telêmaco Borba/PR,4127106,0,0,0,11
+2020-04-24,Brazil,RN,Tenente Ananias/RN,2414100,0,2,0,2
+2020-04-24,Brazil,PI,Teresina/PI,2211001,0,7,0,179
+2020-04-24,Brazil,RJ,Teresópolis/RJ,3305802,0,1,0,31
+2020-04-24,Brazil,PA,Terra Alta/PA,1507961,0,0,0,1
+2020-04-24,Brazil,PR,Terra Boa/PR,4127205,0,0,0,2
+2020-04-24,Brazil,PR,Terra Rica/PR,4127304,0,0,0,1
+2020-04-24,Brazil,SP,Terra Roxa/SP,3554409,0,0,0,1
+2020-04-24,Brazil,RS,Teutônia/RS,4321451,0,0,0,1
+2020-04-24,Brazil,MG,Teófilo Otoni/MG,3168606,0,0,0,1
+2020-04-24,Brazil,CE,Tianguá/CE,2313401,0,1,0,4
+2020-04-24,Brazil,RN,Tibau/RN,2411056,0,0,0,2
+2020-04-24,Brazil,SC,Tijucas/SC,4218004,0,0,0,4
+2020-04-24,Brazil,PE,Timbaúba/PE,2615300,0,2,0,5
+2020-04-24,Brazil,SC,Timbé do Sul/SC,4218103,0,0,0,1
+2020-04-24,Brazil,SC,Timbó/SC,4218202,0,0,0,4
+2020-04-24,Brazil,MA,Timon/MA,2112209,0,0,0,9
+2020-04-24,Brazil,MG,Timóteo/MG,3168705,0,0,0,8
+2020-04-24,Brazil,RS,Tio Hugo/RS,4321469,0,1,0,2
+2020-04-24,Brazil,TO,Tocantinópolis/TO,1721208,0,0,0,1
+2020-04-24,Brazil,MG,Toledo/MG,3169109,0,0,0,4
+2020-04-24,Brazil,PR,Toledo/PR,4127700,0,0,0,1
+2020-04-24,Brazil,SE,Tomar do Geru/SE,2807501,0,0,0,1
+2020-04-24,Brazil,AM,Tonantins/AM,1304237,0,0,0,12
+2020-04-24,Brazil,PE,Toritama/PE,2615409,0,0,0,1
+2020-04-24,Brazil,RS,Torres/RS,4321501,0,0,0,9
+2020-04-24,Brazil,RN,Touros/RN,2414407,0,1,0,1
+2020-04-24,Brazil,PA,Tracuateua/PA,1508035,0,0,0,1
+2020-04-24,Brazil,PE,Tracunhaém/PE,2615508,0,0,0,2
+2020-04-24,Brazil,CE,Trairi/CE,2313500,0,0,0,2
+2020-04-24,Brazil,RJ,Trajano de Moraes/RJ,3305901,0,0,0,0
+2020-04-24,Brazil,RS,Tramandaí/RS,4321600,0,0,0,1
+2020-04-24,Brazil,SC,Treze de Maio/SC,4218400,0,0,0,3
+2020-04-24,Brazil,GO,Trindade/GO,5221403,0,0,0,7
+2020-04-24,Brazil,PE,Triunfo/PE,2615706,0,0,0,2
+2020-04-24,Brazil,RS,Triunfo/RS,4322004,0,0,0,2
+2020-04-24,Brazil,MA,Trizidela do Vale/MA,2112233,0,0,0,2
+2020-04-24,Brazil,MS,Três Lagoas/MS,5008305,0,3,0,24
+2020-04-24,Brazil,MG,Três Marias/MG,3169356,0,0,0,1
+2020-04-24,Brazil,MG,Três Pontas/MG,3169406,0,1,0,2
+2020-04-24,Brazil,RJ,Três Rios/RJ,3306008,0,0,0,5
+2020-04-24,Brazil,SC,Tubarão/SC,4218707,0,2,0,34
+2020-04-24,Brazil,PA,Tucumã/PA,1508084,0,0,0,1
+2020-04-24,Brazil,RS,Tucunduva/RS,4322103,0,0,0,1
+2020-04-24,Brazil,PA,Tucuruí/PA,1508100,0,0,0,5
+2020-04-24,Brazil,MA,Tuntum/MA,2112308,0,0,0,1
+2020-04-24,Brazil,PE,Tupanatinga/PE,2615805,0,0,0,3
+2020-04-24,Brazil,RS,Tupandi/RS,4322251,0,0,0,1
+2020-04-24,Brazil,PE,Tuparetama/PE,2615904,0,0,0,1
+2020-04-24,Brazil,SP,Tupã/SP,3555000,0,0,0,2
+2020-04-24,Brazil,PR,Tupãssi/PR,4127957,0,0,0,1
+2020-04-24,Brazil,CE,Tururu/CE,2313559,0,0,0,1
+2020-04-24,Brazil,SP,Ubatuba/SP,3555406,0,0,0,3
+2020-04-24,Brazil,BA,Ubatã/BA,2932309,0,0,0,4
+2020-04-24,Brazil,MG,Uberaba/MG,3170107,0,3,0,29
+2020-04-24,Brazil,MG,Uberlândia/MG,3170206,0,5,0,76
+2020-04-24,Brazil,MG,Ubá/MG,3169901,0,0,0,4
+2020-04-24,Brazil,PR,Umuarama/PR,4128104,0,0,0,4
+2020-04-24,Brazil,BA,Una/BA,2932507,0,0,0,2
+2020-04-24,Brazil,MG,Unaí/MG,3170404,0,0,0,2
+2020-04-24,Brazil,PR,União da Vitória/PR,4128203,0,0,0,6
+2020-04-24,Brazil,MT,União do Sul/MT,5108303,0,0,0,1
+2020-04-24,Brazil,AL,União dos Palmares/AL,2709301,0,0,0,1
+2020-04-24,Brazil,PI,União/PI,2211100,0,0,0,2
+2020-04-24,Brazil,MA,Urbano Santos/MA,2112605,0,0,0,3
+2020-04-24,Brazil,GO,Uruaçu/GO,5221601,0,0,0,0
+2020-04-24,Brazil,CE,Uruburetama/CE,2313807,0,0,0,3
+2020-04-24,Brazil,RS,Uruguaiana/RS,4322400,0,0,0,3
+2020-04-24,Brazil,CE,Uruoca/CE,2313906,0,0,0,1
+2020-04-24,Brazil,RO,Urupá/RO,1101708,0,0,0,1
+2020-04-24,Brazil,SC,Urussanga/SC,4219002,0,1,0,3
+2020-04-24,Brazil,BA,Uruçuca/BA,2932705,0,3,0,14
+2020-04-24,Brazil,BA,Utinga/BA,2932804,0,1,0,1
+2020-04-24,Brazil,RS,Vacaria/RS,4322509,0,1,0,4
+2020-04-24,Brazil,BA,Valente/BA,2933000,0,0,0,1
+2020-04-24,Brazil,BA,Valença/BA,2932903,0,0,0,4
+2020-04-24,Brazil,RJ,Valença/RJ,3306107,0,0,0,4
+2020-04-24,Brazil,SP,Valinhos/SP,3556206,0,3,0,14
+2020-04-24,Brazil,GO,Valparaíso de Goiás/GO,5221858,0,1,0,7
+2020-04-24,Brazil,SC,Vargem Bonita/SC,4219176,0,0,0,1
+2020-04-24,Brazil,SP,Vargem Grande Paulista/SP,3556453,0,3,0,10
+2020-04-24,Brazil,MA,Vargem Grande/MA,2112704,0,0,0,2
+2020-04-24,Brazil,MG,Varginha/MG,3170701,0,1,0,11
+2020-04-24,Brazil,MG,Varzelândia/MG,3170909,0,1,0,1
+2020-04-24,Brazil,RJ,Vassouras/RJ,3306206,0,0,0,3
+2020-04-24,Brazil,MG,Vazante/MG,3171006,0,0,0,2
+2020-04-24,Brazil,ES,Venda Nova do Imigrante/ES,3205069,0,0,0,8
+2020-04-24,Brazil,RS,Venâncio Aires/RS,4322608,0,0,0,3
+2020-04-24,Brazil,BA,Vera Cruz/BA,2933208,0,0,0,1
+2020-04-24,Brazil,RS,Veranópolis/RS,4322806,0,0,0,1
+2020-04-24,Brazil,PE,Vertentes/PE,2616209,0,0,0,1
+2020-04-24,Brazil,PR,Verê/PR,4128609,0,0,0,3
+2020-04-24,Brazil,MG,Vespasiano/MG,3171204,0,0,0,0
+2020-04-24,Brazil,RS,Viamão/RS,4323002,0,0,0,17
+2020-04-24,Brazil,ES,Viana/ES,3205101,0,1,0,14
+2020-04-24,Brazil,MA,Viana/MA,2112803,0,0,0,2
+2020-04-24,Brazil,GO,Vianópolis/GO,5222005,0,0,0,1
+2020-04-24,Brazil,RS,Victor Graeff/RS,4323200,0,0,0,2
+2020-04-24,Brazil,PE,Vicência/PE,2616308,0,0,0,1
+2020-04-24,Brazil,SC,Vidal Ramos/SC,4219200,0,0,0,1
+2020-04-24,Brazil,SC,Videira/SC,4219309,0,0,0,2
+2020-04-24,Brazil,PA,Vigia/PA,1508209,0,0,0,16
+2020-04-24,Brazil,MT,Vila Bela da Santíssima Trindade/MT,5105507,0,0,0,1
+2020-04-24,Brazil,RS,Vila Maria/RS,4323408,0,0,0,1
+2020-04-24,Brazil,ES,Vila Valério/ES,3205176,0,0,0,1
+2020-04-24,Brazil,ES,Vila Velha/ES,3205200,0,10,0,381
+2020-04-24,Brazil,RO,Vilhena/RO,1100304,0,0,0,1
+2020-04-24,Brazil,SP,Vinhedo/SP,3556701,0,1,0,17
+2020-04-24,Brazil,SP,Vista Alegre do Alto/SP,3556909,0,0,0,1
+2020-04-24,Brazil,MA,Vitorino Freire/MA,2113009,0,0,0,1
+2020-04-24,Brazil,PR,Vitorino/PR,4128708,0,0,0,1
+2020-04-24,Brazil,BA,Vitória da Conquista/BA,2933307,0,1,0,23
+2020-04-24,Brazil,PE,Vitória de Santo Antão/PE,2616407,0,7,0,36
+2020-04-24,Brazil,AP,Vitória do Jari/AP,1600808,0,0,0,2
+2020-04-24,Brazil,MA,Vitória do Mearim/MA,2112902,0,0,0,6
+2020-04-24,Brazil,ES,Vitória/ES,3205309,0,10,0,312
+2020-04-24,Brazil,CE,Viçosa do Ceará/CE,2314102,0,1,0,1
+2020-04-24,Brazil,AL,Viçosa/AL,2709400,0,1,0,1
+2020-04-24,Brazil,MG,Viçosa/MG,3171303,0,0,0,0
+2020-04-24,Brazil,RJ,Volta Redonda/RJ,3306305,0,6,0,181
+2020-04-24,Brazil,SP,Votorantim/SP,3557006,0,2,0,7
+2020-04-24,Brazil,SP,Votuporanga/SP,3557105,0,0,0,9
+2020-04-24,Brazil,CE,Várzea Alegre/CE,2314003,0,0,0,3
+2020-04-24,Brazil,MT,Várzea Grande/MT,5108402,0,0,0,12
+2020-04-24,Brazil,SP,Várzea Paulista/SP,3556503,0,2,0,6
+2020-04-24,Brazil,SC,Xaxim/SC,4219705,0,0,0,1
+2020-04-24,Brazil,PE,Xexéu/PE,2616506,0,0,0,1
+2020-04-24,Brazil,PA,Xinguara/PA,1508407,0,0,0,2
+2020-04-24,Brazil,MA,Zé Doca/MA,2114007,0,0,0,4
+2020-04-24,Brazil,PI,Água Branca/PI,2200202,0,0,0,3
+2020-04-24,Brazil,BA,Água Fria/BA,2900405,0,1,0,1
+2020-04-24,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,0,6
+2020-04-24,Brazil,SC,Águas Mornas/SC,4200606,0,0,0,1
+2020-04-24,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,0,2
+2020-04-24,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
+2020-04-24,Brazil,PA,Óbidos/PA,1505106,0,1,0,2
+2020-04-24,Brazil,TOTAL,TOTAL,0,326,3671,2926,53163
