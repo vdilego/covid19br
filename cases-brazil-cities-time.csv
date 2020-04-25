@@ -25765,7 +25765,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,ES,Boa Esperança/ES,3201001,0,0,0,1
 2020-04-23,Brazil,MG,Boa Esperança/MG,3107109,0,0,1,8
 2020-04-23,Brazil,PR,Boa Vista da Aparecida/PR,4103057,0,0,0,1
-2020-04-23,Brazil,RR,Boa Vista/RR,1400100,0,2,0,262
+2020-04-23,Brazil,RR,Boa Vista/RR,1400100,0,2,6,268
 2020-04-23,Brazil,AL,Boca da Mata/AL,2701001,0,0,0,1
 2020-04-23,Brazil,AM,Boca do Acre/AM,1300706,0,0,0,1
 2020-04-23,Brazil,SP,Boituva/SP,3507001,0,0,0,7
@@ -26586,7 +26586,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,PA,Ourém/PA,1505403,0,0,0,2
 2020-04-23,Brazil,CE,Pacajus/CE,2309607,0,0,0,5
 2020-04-23,Brazil,PA,Pacajá/PA,1505486,0,0,0,1
-2020-04-23,Brazil,RR,Pacaraima/RR,1400456,0,0,0,13
+2020-04-23,Brazil,RR,Pacaraima/RR,1400456,0,0,1,14
 2020-04-23,Brazil,CE,Pacatuba/CE,2309706,0,0,6,24
 2020-04-23,Brazil,SE,Pacatuba/SE,2804904,0,0,0,2
 2020-04-23,Brazil,CE,Pacoti/CE,2309805,0,0,1,1
@@ -27199,7 +27199,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-23,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,1,2
 2020-04-23,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
 2020-04-23,Brazil,PA,Óbidos/PA,1505106,1,1,0,2
-2020-04-23,Brazil,TOTAL,TOTAL,0,409,3349,3870,50293
+2020-04-23,Brazil,TOTAL,TOTAL,0,409,3349,3877,50300
 2020-04-24,Brazil,PA,Abaetetuba/PA,1500107,0,0,0,6
 2020-04-24,Brazil,MG,Abaeté/MG,3100203,0,0,0,1
 2020-04-24,Brazil,BA,Abaíra/BA,2900108,0,0,0,1
@@ -27242,6 +27242,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,MA,Altamira do Maranhão/MA,2100402,0,0,0,1
 2020-04-24,Brazil,PA,Altamira/PA,1500602,0,0,0,8
 2020-04-24,Brazil,PE,Altinho/PE,2600807,0,0,0,1
+2020-04-24,Brazil,MA,Alto Alegre do Pindaré/MA,2100477,0,0,1,1
 2020-04-24,Brazil,RR,Alto Alegre/RR,1400050,0,1,0,2
 2020-04-24,Brazil,PR,Alto Paraná/PR,4100608,0,0,0,3
 2020-04-24,Brazil,RO,Alto Paraíso/RO,1100403,0,0,0,1
@@ -27284,7 +27285,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,CE,Apuiarés/CE,2300903,0,0,0,1
 2020-04-24,Brazil,CE,Aquiraz/CE,2301000,0,0,4,53
 2020-04-24,Brazil,SC,Arabutã/SC,4201273,0,0,0,5
-2020-04-24,Brazil,SE,Aracaju/SE,2800308,0,5,0,86
+2020-04-24,Brazil,SE,Aracaju/SE,2800308,0,5,9,95
 2020-04-24,Brazil,CE,Aracati/CE,2301109,0,1,2,11
 2020-04-24,Brazil,BA,Araci/BA,2902104,0,1,0,1
 2020-04-24,Brazil,CE,Aracoiaba/CE,2301208,0,0,0,3
@@ -27293,7 +27294,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,MG,Araguari/MG,3103504,0,0,0,7
 2020-04-24,Brazil,TO,Araguaína/TO,1702109,0,0,0,9
 2020-04-24,Brazil,SP,Arandu/SP,3503109,0,2,0,9
-2020-04-24,Brazil,AL,Arapiraca/AL,2700300,0,0,0,3
+2020-04-24,Brazil,AL,Arapiraca/AL,2700300,0,0,1,4
 2020-04-24,Brazil,PR,Arapongas/PR,4101507,0,1,0,13
 2020-04-24,Brazil,SC,Araranguá/SC,4201406,0,0,0,4
 2020-04-24,Brazil,SP,Araraquara/SP,3503208,0,3,-3,49
@@ -27336,10 +27337,10 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,AM,Autazes/AM,1300300,0,0,0,3
 2020-04-24,Brazil,SP,Avaré/SP,3504503,0,1,2,10
 2020-04-24,Brazil,SP,Avaí/SP,3504305,0,0,0,1
-2020-04-24,Brazil,MA,Açailândia/MA,2100055,0,0,0,12
+2020-04-24,Brazil,MA,Açailândia/MA,2100055,0,0,-1,11
 2020-04-24,Brazil,RN,Açu/RN,2400208,0,1,0,25
-2020-04-24,Brazil,MA,Bacabal/MA,2101202,0,0,0,8
-2020-04-24,Brazil,MA,Bacabeira/MA,2101251,0,0,0,1
+2020-04-24,Brazil,MA,Bacabal/MA,2101202,1,1,1,9
+2020-04-24,Brazil,MA,Bacabeira/MA,2101251,0,0,1,2
 2020-04-24,Brazil,SP,Bady Bassitt/SP,3504602,0,0,0,2
 2020-04-24,Brazil,RS,Bagé/RS,4301602,0,0,0,29
 2020-04-24,Brazil,SC,Balneário Arroio do Silva/SC,4201950,0,1,0,4
@@ -27413,7 +27414,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,MG,Boa Esperança/MG,3107109,0,0,0,8
 2020-04-24,Brazil,CE,Boa Viagem/CE,2302404,0,0,1,1
 2020-04-24,Brazil,PR,Boa Vista da Aparecida/PR,4103057,0,0,0,1
-2020-04-24,Brazil,RR,Boa Vista/RR,1400100,0,2,0,262
+2020-04-24,Brazil,RR,Boa Vista/RR,1400100,0,2,0,268
 2020-04-24,Brazil,AL,Boca da Mata/AL,2701001,0,0,0,1
 2020-04-24,Brazil,AM,Boca do Acre/AM,1300706,0,0,0,1
 2020-04-24,Brazil,SP,Boituva/SP,3507001,0,0,0,7
@@ -27453,14 +27454,13 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,SP,Buritama/SP,3508108,0,0,1,4
 2020-04-24,Brazil,RO,Buritis/RO,1100452,0,0,0,1
 2020-04-24,Brazil,AC,CASO SEM LOCALIZAÇÃO DEFINIDA/AC,12,1,1,7,7
-2020-04-24,Brazil,AL,CASO SEM LOCALIZAÇÃO DEFINIDA/AL,27,5,7,89,97
+2020-04-24,Brazil,AL,CASO SEM LOCALIZAÇÃO DEFINIDA/AL,27,0,2,1,9
 2020-04-24,Brazil,AM,CASO SEM LOCALIZAÇÃO DEFINIDA/AM,13,21,21,306,306
 2020-04-24,Brazil,AP,CASO SEM LOCALIZAÇÃO DEFINIDA/AP,16,2,2,93,93
 2020-04-24,Brazil,BA,CASO SEM LOCALIZAÇÃO DEFINIDA/BA,29,2,3,134,148
 2020-04-24,Brazil,CE,CASO SEM LOCALIZAÇÃO DEFINIDA/CE,23,0,1,18,44
 2020-04-24,Brazil,ES,CASO SEM LOCALIZAÇÃO DEFINIDA/ES,32,0,1,154,229
 2020-04-24,Brazil,GO,CASO SEM LOCALIZAÇÃO DEFINIDA/GO,52,1,1,33,34
-2020-04-24,Brazil,MA,CASO SEM LOCALIZAÇÃO DEFINIDA/MA,21,0,0,154,154
 2020-04-24,Brazil,MG,CASO SEM LOCALIZAÇÃO DEFINIDA/MG,31,0,0,2,15
 2020-04-24,Brazil,MS,CASO SEM LOCALIZAÇÃO DEFINIDA/MS,50,0,0,27,27
 2020-04-24,Brazil,MT,CASO SEM LOCALIZAÇÃO DEFINIDA/MT,51,1,1,20,24
@@ -27472,16 +27472,15 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RJ,CASO SEM LOCALIZAÇÃO DEFINIDA/RJ,33,40,41,110,111
 2020-04-24,Brazil,RN,CASO SEM LOCALIZAÇÃO DEFINIDA/RN,24,0,1,0,8
 2020-04-24,Brazil,RO,CASO SEM LOCALIZAÇÃO DEFINIDA/RO,11,0,0,40,40
-2020-04-24,Brazil,RR,CASO SEM LOCALIZAÇÃO DEFINIDA/RR,14,0,0,48,48
+2020-04-24,Brazil,RR,CASO SEM LOCALIZAÇÃO DEFINIDA/RR,14,0,0,41,41
 2020-04-24,Brazil,SC,CASO SEM LOCALIZAÇÃO DEFINIDA/SC,42,0,0,39,54
-2020-04-24,Brazil,SE,CASO SEM LOCALIZAÇÃO DEFINIDA/SE,28,0,0,10,10
 2020-04-24,Brazil,SP,CASO SEM LOCALIZAÇÃO DEFINIDA/SP,35,0,0,0,63
 2020-04-24,Brazil,TO,CASO SEM LOCALIZAÇÃO DEFINIDA/TO,17,0,0,7,7
 2020-04-24,Brazil,PB,Cabedelo/PB,2503209,0,2,0,15
 2020-04-24,Brazil,RJ,Cabo Frio/RJ,3300704,0,2,0,23
 2020-04-24,Brazil,PE,Cabo de Santo Agostinho/PE,2602902,0,12,0,43
 2020-04-24,Brazil,SP,Cabreúva/SP,3508405,0,0,0,1
-2020-04-24,Brazil,MA,Cachoeira Grande/MA,2102374,0,0,0,2
+2020-04-24,Brazil,MA,Cachoeira Grande/MA,2102374,0,0,2,4
 2020-04-24,Brazil,SP,Cachoeira Paulista/SP,3508603,0,0,0,3
 2020-04-24,Brazil,PA,Cachoeira do Arari/PA,1502004,0,0,0,3
 2020-04-24,Brazil,RS,Cachoeira do Sul/RS,4303004,0,0,0,2
@@ -27623,7 +27622,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RS,Cerro Grande do Sul/RS,4305173,0,0,0,1
 2020-04-24,Brazil,MT,Chapada dos Guimarães/MT,5103007,0,0,0,0
 2020-04-24,Brazil,RS,Chapada/RS,4305306,0,0,0,2
-2020-04-24,Brazil,MA,Chapadinha/MA,2103208,0,0,0,9
+2020-04-24,Brazil,MA,Chapadinha/MA,2103208,0,0,-3,6
 2020-04-24,Brazil,MS,Chapadão do Sul/MS,5002951,0,0,0,9
 2020-04-24,Brazil,SC,Chapecó/SC,4204202,0,0,0,6
 2020-04-24,Brazil,RS,Charqueadas/RS,4305355,0,0,0,2
@@ -27697,6 +27696,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PE,Custódia/PE,2605103,0,1,0,1
 2020-04-24,Brazil,MT,Cáceres/MT,5102504,0,1,0,4
 2020-04-24,Brazil,MA,Davinópolis/MA,2103752,0,0,0,1
+2020-04-24,Brazil,AL,Delmiro Gouveia/AL,2702405,0,0,1,1
 2020-04-24,Brazil,PI,Demerval Lobão/PI,2203305,0,0,0,1
 2020-04-24,Brazil,SP,Diadema/SP,3513801,6,11,0,151
 2020-04-24,Brazil,TO,Dianópolis/TO,1707009,0,0,0,1
@@ -27707,6 +27707,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RS,Dois Irmãos/RS,4306403,0,0,0,3
 2020-04-24,Brazil,PR,Dois Vizinhos/PR,4107207,0,0,0,1
 2020-04-24,Brazil,RS,Dom Pedrito/RS,4306601,0,0,0,1
+2020-04-24,Brazil,MA,Dom Pedro/MA,2103802,0,0,1,1
 2020-04-24,Brazil,ES,Domingos Martins/ES,3201902,0,0,0,3
 2020-04-24,Brazil,MS,Dourados/MS,5003702,0,0,0,11
 2020-04-24,Brazil,SP,Dracena/SP,3514403,0,2,1,4
@@ -27877,7 +27878,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PR,Imbaú/PR,4110078,0,0,0,2
 2020-04-24,Brazil,SC,Imbituba/SC,4207304,0,0,0,16
 2020-04-24,Brazil,RS,Imbé/RS,4310330,0,0,0,1
-2020-04-24,Brazil,MA,Imperatriz/MA,2105302,0,3,0,54
+2020-04-24,Brazil,MA,Imperatriz/MA,2105302,0,3,28,82
 2020-04-24,Brazil,PE,Inajá/PE,2607000,0,0,0,1
 2020-04-24,Brazil,SC,Indaial/SC,4207502,0,1,0,5
 2020-04-24,Brazil,SP,Indaiatuba/SP,3520509,0,3,1,14
@@ -28072,7 +28073,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PR,Leópolis/PR,4113403,0,0,0,1
 2020-04-24,Brazil,BA,Licínio de Almeida/BA,2919405,0,0,0,1
 2020-04-24,Brazil,SP,Limeira/SP,3526902,0,1,3,13
-2020-04-24,Brazil,AL,Limoeiro de Anadia/AL,2704203,0,0,0,1
+2020-04-24,Brazil,AL,Limoeiro de Anadia/AL,2704203,1,1,0,1
 2020-04-24,Brazil,CE,Limoeiro do Norte/CE,2307601,0,2,6,14
 2020-04-24,Brazil,PE,Limoeiro/PE,2608909,0,3,0,10
 2020-04-24,Brazil,SC,Lindóia do Sul/SC,4209854,0,0,0,4
@@ -28095,7 +28096,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RJ,Macaé/RJ,3302403,0,8,0,40
 2020-04-24,Brazil,RN,Macaíba/RN,2407104,0,0,0,10
 2020-04-24,Brazil,SP,Macedônia/SP,3528205,0,0,0,0
-2020-04-24,Brazil,AL,Maceió/AL,2704302,0,14,0,280
+2020-04-24,Brazil,AL,Maceió/AL,2704302,4,18,75,355
 2020-04-24,Brazil,MG,Machado/MG,3139003,0,0,0,2
 2020-04-24,Brazil,PE,Machados/PE,2609105,0,1,0,2
 2020-04-24,Brazil,RJ,Macuco/RJ,3302452,0,0,0,1
@@ -28114,13 +28115,14 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PR,Manoel Ribas/PR,4114500,0,1,0,1
 2020-04-24,Brazil,PA,Marabá/PA,1504208,0,1,0,9
 2020-04-24,Brazil,CE,Maracanaú/CE,2307650,2,9,8,109
+2020-04-24,Brazil,AL,Maragogi/AL,2704500,0,0,1,1
 2020-04-24,Brazil,CE,Maranguape/CE,2307700,0,2,3,37
 2020-04-24,Brazil,PA,Marapanim/PA,1504406,0,0,0,4
 2020-04-24,Brazil,RS,Maratá/RS,4311791,0,0,0,1
 2020-04-24,Brazil,RS,Marau/RS,4311809,0,1,3,36
 2020-04-24,Brazil,AM,Maraã/AM,1302801,0,0,0,7
 2020-04-24,Brazil,PR,Marechal Cândido Rondon/PR,4114609,0,0,0,2
-2020-04-24,Brazil,AL,Marechal Deodoro/AL,2704708,0,1,0,7
+2020-04-24,Brazil,AL,Marechal Deodoro/AL,2704708,0,1,2,9
 2020-04-24,Brazil,MG,Mariana/MG,3140001,0,1,2,14
 2020-04-24,Brazil,AL,Maribondo/AL,2704807,0,0,0,1
 2020-04-24,Brazil,RJ,Maricá/RJ,3302700,0,7,0,40
@@ -28134,8 +28136,9 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,SP,Marília/SP,3529005,0,1,0,8
 2020-04-24,Brazil,CE,Massapê/CE,2308005,1,1,2,6
 2020-04-24,Brazil,SC,Massaranduba/SC,4210605,0,1,0,1
+2020-04-24,Brazil,MA,Mata Roma/MA,2106409,0,0,1,1
 2020-04-24,Brazil,MG,Matias Barbosa/MG,3140803,0,0,0,0
-2020-04-24,Brazil,MA,Matinha/MA,2106508,0,0,0,3
+2020-04-24,Brazil,MA,Matinha/MA,2106508,0,0,1,4
 2020-04-24,Brazil,PR,Matinhos/PR,4115705,0,0,0,2
 2020-04-24,Brazil,MG,Matozinhos/MG,3141108,0,0,0,1
 2020-04-24,Brazil,SP,Matão/SP,3529302,0,0,0,3
@@ -28156,7 +28159,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RS,Minas do Leão/RS,4312252,0,0,0,2
 2020-04-24,Brazil,SP,Mineiros do Tietê/SP,3529807,0,1,1,4
 2020-04-24,Brazil,SP,Miracatu/SP,3529906,0,0,0,2
-2020-04-24,Brazil,MA,Miranda do Norte/MA,2106755,0,0,0,2
+2020-04-24,Brazil,MA,Miranda do Norte/MA,2106755,0,0,2,4
 2020-04-24,Brazil,MS,Miranda/MS,5005608,0,0,0,1
 2020-04-24,Brazil,SP,Mirandópolis/SP,3530102,2,2,4,5
 2020-04-24,Brazil,BA,Mirante/BA,2921450,0,0,0,1
@@ -28196,7 +28199,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,MS,Mundo Novo/MS,5005681,0,0,0,2
 2020-04-24,Brazil,MG,Munhoz/MG,3143807,0,0,0,3
 2020-04-24,Brazil,MG,Muriaé/MG,3143906,0,0,0,7
-2020-04-24,Brazil,AL,Murici/AL,2705507,0,0,0,2
+2020-04-24,Brazil,AL,Murici/AL,2705507,0,0,1,3
 2020-04-24,Brazil,RS,Muçum/RS,4312609,0,0,1,2
 2020-04-24,Brazil,MG,Mário Campos/MG,3140159,0,0,0,1
 2020-04-24,Brazil,PA,Mãe do Rio/PA,1504059,0,0,0,1
@@ -28216,7 +28219,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RJ,Nilópolis/RJ,3303203,0,2,0,42
 2020-04-24,Brazil,RJ,Niterói/RJ,3303302,0,16,0,239
 2020-04-24,Brazil,SE,Nossa Senhora da Glória/SE,2804508,0,0,0,2
-2020-04-24,Brazil,SE,Nossa Senhora do Socorro/SE,2804805,0,0,0,2
+2020-04-24,Brazil,SE,Nossa Senhora do Socorro/SE,2804805,0,0,1,3
 2020-04-24,Brazil,MS,Nova Andradina/MS,5006200,0,0,0,11
 2020-04-24,Brazil,RS,Nova Bréscia/RS,4313003,0,0,1,1
 2020-04-24,Brazil,PR,Nova Esperança/PR,4116901,0,0,0,5
@@ -28266,7 +28269,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PA,Ourém/PA,1505403,0,0,0,2
 2020-04-24,Brazil,CE,Pacajus/CE,2309607,0,0,4,9
 2020-04-24,Brazil,PA,Pacajá/PA,1505486,0,0,0,1
-2020-04-24,Brazil,RR,Pacaraima/RR,1400456,0,0,0,13
+2020-04-24,Brazil,RR,Pacaraima/RR,1400456,0,0,0,14
 2020-04-24,Brazil,CE,Pacatuba/CE,2309706,1,1,1,25
 2020-04-24,Brazil,SE,Pacatuba/SE,2804904,0,0,0,2
 2020-04-24,Brazil,CE,Pacoti/CE,2309805,0,0,0,1
@@ -28322,7 +28325,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,BA,Paulo Afonso/BA,2924009,0,0,0,2
 2020-04-24,Brazil,SC,Paulo Lopes/SC,4212304,0,0,0,2
 2020-04-24,Brazil,SP,Paulínia/SP,3536505,1,1,2,11
-2020-04-24,Brazil,MA,Paço do Lumiar/MA,2107506,0,3,0,63
+2020-04-24,Brazil,MA,Paço do Lumiar/MA,2107506,0,3,2,65
 2020-04-24,Brazil,PR,Peabiru/PR,4118808,0,0,0,2
 2020-04-24,Brazil,SP,Pederneiras/SP,3536703,1,1,0,2
 2020-04-24,Brazil,SP,Pedra Bela/SP,3536802,-1,0,0,1
@@ -28344,6 +28347,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PE,Pesqueira/PE,2610905,0,0,0,1
 2020-04-24,Brazil,PE,Petrolina/PE,2611101,0,0,0,14
 2020-04-24,Brazil,RJ,Petrópolis/RJ,3303906,0,8,0,76
+2020-04-24,Brazil,AL,Piaçabuçu/AL,2706802,0,0,2,2
 2020-04-24,Brazil,PI,Picos/PI,2208007,0,1,0,2
 2020-04-24,Brazil,MG,Piedade dos Gerais/MG,3150406,0,0,-1,0
 2020-04-24,Brazil,SP,Piedade/SP,3537800,0,0,3,5
@@ -28446,7 +28450,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PR,Ramilândia/PR,4121257,0,0,0,1
 2020-04-24,Brazil,SP,Rancharia/SP,3542206,0,0,2,3
 2020-04-24,Brazil,SC,Rancho Queimado/SC,4214300,0,0,0,2
-2020-04-24,Brazil,MA,Raposa/MA,2109452,0,2,0,10
+2020-04-24,Brazil,MA,Raposa/MA,2109452,0,2,1,11
 2020-04-24,Brazil,PE,Recife/PE,2611606,0,138,0,2062
 2020-04-24,Brazil,CE,Redenção/CE,2311603,0,0,1,6
 2020-04-24,Brazil,PA,Redenção/PA,1506138,0,0,0,1
@@ -28471,7 +28475,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PE,Rio Formoso/PE,2611903,0,0,0,3
 2020-04-24,Brazil,SP,Rio Grande da Serra/SP,3544103,0,0,2,11
 2020-04-24,Brazil,RS,Rio Grande/RS,4315602,0,0,0,4
-2020-04-24,Brazil,AL,Rio Largo/AL,2707701,0,0,0,5
+2020-04-24,Brazil,AL,Rio Largo/AL,2707701,0,0,2,7
 2020-04-24,Brazil,SC,Rio Negrinho/SC,4215000,0,0,0,1
 2020-04-24,Brazil,PR,Rio Negro/PR,4122305,0,0,0,2
 2020-04-24,Brazil,ES,Rio Novo do Sul/ES,3204401,0,0,0,3
@@ -28493,7 +28497,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,MT,Rondonópolis/MT,5107602,0,2,0,35
 2020-04-24,Brazil,RR,Rorainópolis/RR,1400472,0,0,0,9
 2020-04-24,Brazil,RS,Rosário do Sul/RS,4316402,0,0,0,1
-2020-04-24,Brazil,MA,Rosário/MA,2109601,0,0,0,6
+2020-04-24,Brazil,MA,Rosário/MA,2109601,0,0,2,8
 2020-04-24,Brazil,CE,Russas/CE,2311801,0,1,3,17
 2020-04-24,Brazil,MG,Sabará/MG,3156700,0,0,0,10
 2020-04-24,Brazil,SP,Salesópolis/SP,3545001,0,1,0,1
@@ -28524,12 +28528,13 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RN,Santa Cruz/RN,2411205,0,0,0,3
 2020-04-24,Brazil,PR,Santa Fé/PR,4123402,0,1,0,7
 2020-04-24,Brazil,SP,Santa Gertrudes/SP,3546702,0,0,0,1
-2020-04-24,Brazil,MA,Santa Inês/MA,2109908,0,0,0,3
+2020-04-24,Brazil,MA,Santa Inês/MA,2109908,0,0,1,4
 2020-04-24,Brazil,PR,Santa Isabel do Ivaí/PR,4123709,0,0,0,0
 2020-04-24,Brazil,AM,Santa Isabel do Rio Negro/AM,1303601,0,0,0,1
 2020-04-24,Brazil,SP,Santa Isabel/SP,3546801,0,3,1,6
 2020-04-24,Brazil,PA,Santa Izabel do Pará/PA,1506500,0,0,0,19
 2020-04-24,Brazil,ES,Santa Leopoldina/ES,3204500,0,0,0,1
+2020-04-24,Brazil,AL,Santa Luzia do Norte/AL,2707909,0,0,1,1
 2020-04-24,Brazil,BA,Santa Luzia/BA,2928059,0,0,0,2
 2020-04-24,Brazil,MG,Santa Luzia/MG,3157807,0,0,1,8
 2020-04-24,Brazil,SP,Santa Lúcia/SP,3546900,0,0,1,3
@@ -28541,7 +28546,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PR,Santa Mônica/PR,4123956,0,1,0,7
 2020-04-24,Brazil,CE,Santa Quitéria/CE,2312205,0,1,0,4
 2020-04-24,Brazil,SP,Santa Rita do Passa Quatro/SP,3547502,0,1,0,1
-2020-04-24,Brazil,MA,Santa Rita/MA,2110203,0,0,0,13
+2020-04-24,Brazil,MA,Santa Rita/MA,2110203,0,0,1,14
 2020-04-24,Brazil,PB,Santa Rita/PB,2513703,0,4,0,25
 2020-04-24,Brazil,SC,Santa Rosa de Lima/SC,4215604,0,0,0,0
 2020-04-24,Brazil,SC,Santa Rosa do Sul/SC,4215653,0,0,0,1
@@ -28578,7 +28583,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PR,Sarandi/PR,4126256,0,0,0,2
 2020-04-24,Brazil,RS,Sarandi/RS,4320107,0,0,0,1
 2020-04-24,Brazil,MG,Sarzedo/MG,3165537,0,0,0,1
-2020-04-24,Brazil,AL,Satuba/AL,2708907,0,0,0,2
+2020-04-24,Brazil,AL,Satuba/AL,2708907,0,0,1,3
 2020-04-24,Brazil,SC,Schroeder/SC,4217402,0,0,0,1
 2020-04-24,Brazil,MS,Selvíria/MS,5007802,0,0,0,1
 2020-04-24,Brazil,MG,Senador Amaral/MG,3165578,0,0,0,4
@@ -28644,6 +28649,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,SC,São Domingos/SC,4216107,0,0,0,5
 2020-04-24,Brazil,RJ,São Fidélis/RJ,3304805,0,0,0,3
 2020-04-24,Brazil,RJ,São Francisco de Itabapoana/RJ,3304755,0,1,0,2
+2020-04-24,Brazil,MA,São Francisco do Brejão/MA,2110856,0,0,1,1
 2020-04-24,Brazil,BA,São Francisco do Conde/BA,2929206,0,0,0,3
 2020-04-24,Brazil,SC,São Francisco do Sul/SC,4216206,0,0,0,2
 2020-04-24,Brazil,MG,São Francisco/MG,3161106,0,1,0,1
@@ -28662,7 +28668,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,MG,São José da Lapa/MG,3162955,0,0,0,2
 2020-04-24,Brazil,BA,São José da Vitória/BA,2929354,0,0,0,1
 2020-04-24,Brazil,RN,São José de Mipibu/RN,2412203,0,0,0,5
-2020-04-24,Brazil,MA,São José de Ribamar/MA,2111201,0,5,0,126
+2020-04-24,Brazil,MA,São José de Ribamar/MA,2111201,1,6,6,132
 2020-04-24,Brazil,ES,São José do Calçado/ES,3204807,0,0,0,2
 2020-04-24,Brazil,PI,São José do Divino/PI,2210052,0,1,0,3
 2020-04-24,Brazil,PE,São José do Egito/PE,2613602,0,0,0,1
@@ -28673,6 +28679,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PR,São José dos Pinhais/PR,4125506,0,0,0,18
 2020-04-24,Brazil,MT,São José dos Quatro Marcos/MT,5107107,0,0,0,5
 2020-04-24,Brazil,SC,São José/SC,4216602,0,1,0,48
+2020-04-24,Brazil,MA,São João Batista/MA,2111003,0,0,1,1
 2020-04-24,Brazil,MG,São João Nepomuceno/MG,3162906,0,0,0,1
 2020-04-24,Brazil,RJ,São João da Barra/RJ,3305000,0,0,0,1
 2020-04-24,Brazil,SP,São João da Boa Vista/SP,3549102,0,0,2,7
@@ -28695,13 +28702,14 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,RR,São Luiz/RR,1400605,0,0,0,1
 2020-04-24,Brazil,GO,São Luís de Montes Belos/GO,5220108,0,0,0,2
 2020-04-24,Brazil,CE,São Luís do Curu/CE,2312601,0,1,0,4
-2020-04-24,Brazil,MA,São Luís/MA,2111300,0,71,0,1567
+2020-04-24,Brazil,MA,São Luís/MA,2111300,10,81,101,1668
 2020-04-24,Brazil,PR,São Manoel do Paraná/PR,4125555,0,0,0,1
 2020-04-24,Brazil,SP,São Manuel/SP,3550100,0,1,0,5
 2020-04-24,Brazil,ES,São Mateus/ES,3204906,0,1,0,12
 2020-04-24,Brazil,SP,São Miguel Arcanjo/SP,3550209,0,0,0,3
 2020-04-24,Brazil,RN,São Miguel do Gostoso/RN,2412559,0,0,0,1
 2020-04-24,Brazil,PA,São Miguel do Guamá/PA,1507607,0,1,0,10
+2020-04-24,Brazil,AL,São Miguel dos Campos/AL,2708600,0,0,1,1
 2020-04-24,Brazil,AL,São Miguel dos Milagres/AL,2708709,0,1,0,1
 2020-04-24,Brazil,RN,São Miguel/RN,2412500,0,0,0,1
 2020-04-24,Brazil,AM,São Paulo de Olivença/AM,1303908,0,0,0,17
@@ -28765,7 +28773,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,PE,Timbaúba/PE,2615300,0,2,0,5
 2020-04-24,Brazil,SC,Timbé do Sul/SC,4218103,0,0,0,1
 2020-04-24,Brazil,SC,Timbó/SC,4218202,0,0,0,4
-2020-04-24,Brazil,MA,Timon/MA,2112209,0,0,0,9
+2020-04-24,Brazil,MA,Timon/MA,2112209,0,0,2,11
 2020-04-24,Brazil,MG,Timóteo/MG,3168705,0,0,0,8
 2020-04-24,Brazil,RS,Tio Hugo/RS,4321469,0,1,0,2
 2020-04-24,Brazil,TO,Tocantinópolis/TO,1721208,0,0,0,1
@@ -28879,7 +28887,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,SC,Xaxim/SC,4219705,0,0,0,1
 2020-04-24,Brazil,PE,Xexéu/PE,2616506,0,0,0,1
 2020-04-24,Brazil,PA,Xinguara/PA,1508407,0,0,0,2
-2020-04-24,Brazil,MA,Zé Doca/MA,2114007,0,0,0,4
+2020-04-24,Brazil,MA,Zé Doca/MA,2114007,0,0,2,6
 2020-04-24,Brazil,PI,Água Branca/PI,2200202,0,0,0,3
 2020-04-24,Brazil,BA,Água Fria/BA,2900405,0,1,0,1
 2020-04-24,Brazil,GO,Águas Lindas de Goiás/GO,5200258,0,0,0,6
@@ -28887,4 +28895,4 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-24,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,0,2
 2020-04-24,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
 2020-04-24,Brazil,PA,Óbidos/PA,1505106,0,1,0,2
-2020-04-24,Brazil,TOTAL,TOTAL,0,334,3683,3947,54240
+2020-04-24,Brazil,TOTAL,TOTAL,0,346,3695,3940,54240
