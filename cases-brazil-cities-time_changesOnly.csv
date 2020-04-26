@@ -8810,7 +8810,6 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,BA,Buerarema/BA,2904704,0,0,1,7
 2020-04-25,Brazil,AC,CASO SEM LOCALIZAÇÃO DEFINIDA/AC,12,0,0,24,24
 2020-04-25,Brazil,AM,CASO SEM LOCALIZAÇÃO DEFINIDA/AM,13,32,32,441,441
-2020-04-25,Brazil,AP,CASO SEM LOCALIZAÇÃO DEFINIDA/AP,16,1,1,41,41
 2020-04-25,Brazil,CE,CASO SEM LOCALIZAÇÃO DEFINIDA/CE,23,17,18,546,590
 2020-04-25,Brazil,ES,CASO SEM LOCALIZAÇÃO DEFINIDA/ES,32,0,1,9,100
 2020-04-25,Brazil,MG,CASO SEM LOCALIZAÇÃO DEFINIDA/MG,31,0,0,1,16
@@ -8954,6 +8953,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,SP,Louveira/SP,3527306,0,0,6,8
 2020-04-25,Brazil,GO,Luziânia/GO,5212501,0,2,2,11
 2020-04-25,Brazil,PI,Luís Correia/PI,2205706,0,0,1,3
+2020-04-25,Brazil,AP,Macapá/AP,1600303,0,16,29,542
 2020-04-25,Brazil,AL,Maceió/AL,2704302,0,18,72,427
 2020-04-25,Brazil,RJ,Magé/RJ,3302502,0,4,3,55
 2020-04-25,Brazil,SP,Mairiporã/SP,3528502,0,4,4,19
@@ -9040,6 +9040,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,RS,Porto Alegre/RS,4314902,1,12,5,425
 2020-04-25,Brazil,AL,Porto Calvo/AL,2707305,0,0,1,1
 2020-04-25,Brazil,SP,Porto Feliz/SP,3540606,0,0,2,7
+2020-04-25,Brazil,AP,Porto Grande/AP,1600535,0,0,1,7
 2020-04-25,Brazil,BA,Porto Seguro/BA,2925303,0,0,1,18
 2020-04-25,Brazil,PA,Porto de Moz/PA,1505908,0,0,1,2
 2020-04-25,Brazil,MG,Pouso Alegre/MG,3152501,0,2,2,24
@@ -9075,6 +9076,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,ES,Santa Maria de Jetibá/ES,3204559,1,1,0,4
 2020-04-25,Brazil,PB,Santa Rita/PB,2513703,1,6,8,37
 2020-04-25,Brazil,SP,Santana de Parnaíba/SP,3547304,1,2,12,80
+2020-04-25,Brazil,AP,Santana/AP,1600600,2,4,11,103
 2020-04-25,Brazil,SP,Santo André/SP,3547809,1,18,43,339
 2020-04-25,Brazil,SP,Santo Antônio do Aracanguá/SP,3548054,0,0,1,1
 2020-04-25,Brazil,PR,Santo Antônio do Caiuá/PR,4124202,0,1,1,3

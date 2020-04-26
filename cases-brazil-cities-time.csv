@@ -29208,7 +29208,6 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,AC,CASO SEM LOCALIZAÇÃO DEFINIDA/AC,12,0,0,24,24
 2020-04-25,Brazil,AL,CASO SEM LOCALIZAÇÃO DEFINIDA/AL,27,0,2,0,9
 2020-04-25,Brazil,AM,CASO SEM LOCALIZAÇÃO DEFINIDA/AM,13,32,32,441,441
-2020-04-25,Brazil,AP,CASO SEM LOCALIZAÇÃO DEFINIDA/AP,16,1,1,41,41
 2020-04-25,Brazil,BA,CASO SEM LOCALIZAÇÃO DEFINIDA/BA,29,0,1,0,16
 2020-04-25,Brazil,CE,CASO SEM LOCALIZAÇÃO DEFINIDA/CE,23,17,18,546,590
 2020-04-25,Brazil,ES,CASO SEM LOCALIZAÇÃO DEFINIDA/ES,32,0,1,9,100
@@ -29865,7 +29864,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,RN,Luís Gomes/RN,2407005,0,0,0,1
 2020-04-25,Brazil,AM,Lábrea/AM,1302405,0,0,0,17
 2020-04-25,Brazil,PE,Macaparana/PE,2609006,0,2,0,3
-2020-04-25,Brazil,AP,Macapá/AP,1600303,0,16,0,513
+2020-04-25,Brazil,AP,Macapá/AP,1600303,0,16,29,542
 2020-04-25,Brazil,SP,Macatuba/SP,3528007,0,0,0,1
 2020-04-25,Brazil,RJ,Macaé/RJ,3302403,0,8,0,40
 2020-04-25,Brazil,RN,Macaíba/RN,2407104,0,0,0,11
@@ -30201,7 +30200,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,SP,Porto Feliz/SP,3540606,0,0,2,7
 2020-04-25,Brazil,SP,Porto Ferreira/SP,3540705,0,1,0,2
 2020-04-25,Brazil,MG,Porto Firme/MG,3152303,0,0,0,1
-2020-04-25,Brazil,AP,Porto Grande/AP,1600535,0,0,0,6
+2020-04-25,Brazil,AP,Porto Grande/AP,1600535,0,0,1,7
 2020-04-25,Brazil,AL,Porto Real do Colégio/AL,2707503,0,0,0,1
 2020-04-25,Brazil,RJ,Porto Real/RJ,3304110,0,0,0,3
 2020-04-25,Brazil,BA,Porto Seguro/BA,2925303,0,0,1,18
@@ -30367,7 +30366,7 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,CE,Santana do Acaraú/CE,2312007,0,0,0,4
 2020-04-25,Brazil,PR,Santana do Itararé/PR,4124004,0,0,0,1
 2020-04-25,Brazil,MG,Santana do Paraíso/MG,3158953,0,0,0,3
-2020-04-25,Brazil,AP,Santana/AP,1600600,0,2,0,92
+2020-04-25,Brazil,AP,Santana/AP,1600600,2,4,11,103
 2020-04-25,Brazil,PA,Santarém/PA,1506807,0,5,0,39
 2020-04-25,Brazil,RS,Santiago/RS,4317400,0,0,0,1
 2020-04-25,Brazil,SC,Santo Amaro da Imperatriz/SC,4215703,0,0,0,3
@@ -30720,4 +30719,4 @@ date,country,state,city,ibgeID,newDeaths,deaths,newCases,totalCases
 2020-04-25,Brazil,SP,Águas de Lindóia/SP,3500501,0,1,0,2
 2020-04-25,Brazil,SP,Águas de São Pedro/SP,3500600,0,0,0,1
 2020-04-25,Brazil,PA,Óbidos/PA,1505106,0,1,0,2
-2020-04-25,Brazil,TOTAL,TOTAL,0,331,4053,5382,59593
+2020-04-25,Brazil,TOTAL,TOTAL,0,332,4054,5382,59593
